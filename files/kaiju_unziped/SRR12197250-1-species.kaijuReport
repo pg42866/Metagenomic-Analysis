@@ -1,0 +1,16 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	7.595596	46090	150336	Clostridium thiosulfatireducens
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	4.868334	29541	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	2.765496	16781	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	2.360254	14322	556053	Polynucleobacter acidiphobus
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	1.716713	10417	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	1.610088	9770	1496	Clostridioides difficile
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	1.147332	6962	305	Ralstonia solanacearum
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	0.869810	5278	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	0.725446	4402	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	0.719843	4368	2021369	Streptomycetaceae bacterium
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	0.500660	3038	1869212	Chitinophagaceae bacterium
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	0.829270	5032	10239	Viruses
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	30.222034	183387	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	44.069123	267411	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	60.634226	934639	NA	unclassified

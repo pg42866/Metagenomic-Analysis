@@ -1,0 +1,17 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	5.229554	109992	41950	Candidatus Microthrix parvicella
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	1.331874	28013	1806508	Candidatus Promineofilum breve
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	1.171125	24632	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	1.162282	24446	1866933	bacterium ADurb.BinA028
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.690684	14527	75385	Micropruina glycogenica
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.678465	14270	1400862	Candidatus Competibacter denitrificans
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.668243	14055	82803	Trichococcus flocculiformis
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.629779	13246	2052143	Anaerolineae bacterium
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.629399	13238	622664	Ornithinibacter aureus
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.586228	12330	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.573153	12055	330834	Tetrasphaera jenkinsii
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.513532	10801	101689	Tetrasphaera elongata
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.076832	1616	10239	Viruses
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	35.040085	736990	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	51.018769	1073066	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	24.362606	677460	NA	unclassified

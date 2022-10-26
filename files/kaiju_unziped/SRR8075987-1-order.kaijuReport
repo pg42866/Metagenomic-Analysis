@@ -1,0 +1,23 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	17.196743	221541	80840	Burkholderiales
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	7.930229	102163	54526	Pelagibacterales
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	6.672189	85956	2039638	Candidatus Nanopelagicales
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	2.597353	33461	32003	Nitrosomonadales
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	2.573368	33152	1853229	Chitinophagales
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	2.523999	32516	85006	Micrococcales
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	2.209081	28459	85011	Streptomycetales
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	1.777806	22903	1890424	Synechococcales
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	1.772916	22840	200644	Flavobacteriales
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	1.572648	20260	356	Rhizobiales
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.927366	11947	768507	Cytophagales
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.886380	11419	84993	Acidimicrobiales
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.801461	10325	200666	Sphingobacteriales
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.775612	9992	2037	Actinomycetales
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.720499	9282	204441	Rhodospirillales
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.618114	7963	204455	Rhodobacterales
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.562070	7241	85009	Propionibacteriales
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.556714	7172	85007	Corynebacteriales
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.407755	5253	10239	Viruses
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	39.373566	507239	NA	cannot be assigned to a (non-viral) order
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	7.544131	97189	NA	belong to a (non-viral) order with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	30.379954	562161	NA	unclassified

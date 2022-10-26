@@ -1,0 +1,22 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	4.121319	131889	2268192	Chlorobi bacterium
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	3.524631	112794	2172549	Candidatus Brocadia sp.
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	3.289955	105284	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	2.419438	77426	380242	Candidatus Brocadia fulgida
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	2.235072	71526	2651167	Ignavibacterium sp.
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	2.110173	67529	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	1.352649	43287	1961112	Planctomycetes bacterium UTPLA1
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	1.194720	38233	1961110	Sphingobacteriales bacterium UTBCD1
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	1.094412	35023	1961114	Candidatus Brocadia sp. UTAMX2
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	1.070726	34265	1869227	bacterium
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	0.787897	25214	2052143	Anaerolineae bacterium
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	0.668528	21394	1961101	Anaerolineae bacterium UTCFX2
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	0.646685	20695	2040626	Candidatus Brocadia sp. BL1
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	0.623968	19968	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	0.535722	17144	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	0.519098	16612	1977087	Proteobacteria bacterium
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	0.518817	16603	1961109	Rhodocyclaceae bacterium UTPRO2
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	0.031436	1006	10239	Viruses
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	44.501144	1424110	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	28.753611	920163	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	19.491164	774759	NA	unclassified

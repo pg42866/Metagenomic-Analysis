@@ -1,0 +1,12 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	2.707089	37444	2011094	Coriobacteriaceae bacterium
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	1.553518	21488	2086273	Subdoligranulum sp. APC924/74
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	1.412105	19532	853	Faecalibacterium prausnitzii
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	1.334097	18453	1680	Bifidobacterium adolescentis
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	0.657397	9093	52226	Mitsuokella multacida
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	0.608669	8419	39491	[Eubacterium] rectale
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	0.599270	8289	1262882	Eubacterium sp. CAG:180
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	0.106638	1475	10239	Viruses
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	65.111336	900609	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	25.909877	358381	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	12.798129	203002	NA	unclassified

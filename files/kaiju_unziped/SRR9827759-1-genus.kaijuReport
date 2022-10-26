@@ -1,0 +1,12 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661769443119/kaiju_output/SRR9827759-1.kaiju	15.862396	578796	1234	Nitrospira
+/kb/module/work/tmp/output_1661769443119/kaiju_output/SRR9827759-1.kaiju	6.325188	230797	120652	Methylocella
+/kb/module/work/tmp/output_1661769443119/kaiju_output/SRR9827759-1.kaiju	2.562063	93486	914	Nitrosomonas
+/kb/module/work/tmp/output_1661769443119/kaiju_output/SRR9827759-1.kaiju	1.220985	44552	184923	Methylocapsa
+/kb/module/work/tmp/output_1661769443119/kaiju_output/SRR9827759-1.kaiju	1.077927	39332	374	Bradyrhizobium
+/kb/module/work/tmp/output_1661769443119/kaiju_output/SRR9827759-1.kaiju	0.584841	21340	958	Bdellovibrio
+/kb/module/work/tmp/output_1661769443119/kaiju_output/SRR9827759-1.kaiju	0.556257	20297	68287	Mesorhizobium
+/kb/module/work/tmp/output_1661769443119/kaiju_output/SRR9827759-1.kaiju	0.072598	2649	10239	Viruses
+/kb/module/work/tmp/output_1661769443119/kaiju_output/SRR9827759-1.kaiju	41.007977	1496322	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661769443119/kaiju_output/SRR9827759-1.kaiju	30.729768	1121285	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661769443119/kaiju_output/SRR9827759-1.kaiju	33.748350	1858714	NA	unclassified

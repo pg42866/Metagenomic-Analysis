@@ -1,0 +1,28 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	3.750474	169310	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	3.197816	144361	1643429	Candidatus Kryptobacter tengchongensis
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	2.578215	116390	2021369	Streptomycetaceae bacterium
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	2.383348	107593	1352	Enterococcus faecium
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	2.147036	96925	44676	Geothrix fermentans
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	2.072452	93558	573	Klebsiella pneumoniae
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	1.613406	72835	1871071	Comamonadaceae bacterium
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	1.498395	67643	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	1.256080	56704	576610	Polynucleobacter necessarius
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	1.168094	52732	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	1.127202	50886	1911520	Actinomycetales bacterium
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	1.055631	47655	1917865	Sediminibacterium sp.
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.858526	38757	2026800	Verrucomicrobiaceae bacterium
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.770386	34778	2304002	Methylococcales bacterium
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.721807	32585	1743166	Polynucleobacter hirudinilacicola
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.707387	31934	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.705260	31838	576611	Polynucleobacter asymbioticus
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.674935	30469	1743163	Polynucleobacter campilacus
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.565705	25538	1743168	Polynucleobacter wuianus
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.525811	23737	1798570	Lentisphaerae bacterium GWF2_38_69
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.525080	23704	1869212	Chitinophagaceae bacterium
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.523219	23620	2010828	Prolixibacteraceae bacterium MeG22
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.522266	23577	1743164	Polynucleobacter aenigmaticus
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.335374	15140	10239	Viruses
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	21.067623	951069	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	47.648472	2151025	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	29.572284	1895561	NA	unclassified

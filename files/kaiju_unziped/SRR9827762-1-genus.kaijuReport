@@ -1,0 +1,17 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	5.677656	187544	1763	Mycobacterium
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	4.274348	141190	1234	Nitrospira
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	2.466310	81467	1866885	Mycolicibacterium
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	1.365466	45104	1839	Nocardioides
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	1.206469	39852	327159	Candidatus Accumulibacter
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	1.115496	36847	374	Bradyrhizobium
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	1.015199	33534	73029	Dechloromonas
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	0.812214	26829	1883	Streptomyces
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	0.718002	23717	2706000	Casimicrobium
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	0.557854	18427	914	Nitrosomonas
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	0.534573	17658	1054211	Sulfuritalea
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	0.522373	17255	81	Hyphomicrobium
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	0.068449	2261	10239	Viruses
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	43.599770	1440185	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	36.065820	1191324	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	34.003013	1701874	NA	unclassified

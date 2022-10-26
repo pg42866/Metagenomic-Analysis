@@ -1,0 +1,30 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	1.874948	15797	1852866	Deltaproteobacteria bacterium ADurb.Bin072
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	1.702729	14346	2026885	Candidatus Bipolaricaulis anaerobius
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	1.542022	12992	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	1.521964	12823	1852815	Bacteroidetes bacterium ADurb.BinA012
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	1.411819	11895	1852923	Thermotogae bacterium ADurb.Bin062
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	1.325175	11165	1852797	Bacteroidetes bacterium ADurb.Bin013
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	1.313188	11064	1852862	Deltaproteobacteria bacterium ADurb.Bin002
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	1.256454	10586	1852879	Euryarchaeota archaeon ADurb.BinA087
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	1.183459	9971	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	1.125183	9480	1852805	Bacteroidetes bacterium ADurb.Bin139
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	0.989045	8333	1852929	Verrucomicrobia bacterium ADurb.Bin122
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	0.958185	8073	1852807	Bacteroidetes bacterium ADurb.Bin145
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	0.953556	8034	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	0.940263	7922	1852907	Spirochaetes bacterium ADurb.Bin001
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	0.743356	6263	2052149	Candidatus Aminicenantes bacterium
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	0.689471	5809	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	0.625853	5273	2508984	Candidatus Saccharicenans subterraneum
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	0.597605	5035	1641376	Anaerolineae bacterium 49_20
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	0.597249	5032	456827	Candidatus Cloacimonas acidaminovorans
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	0.589059	4963	1811716	Syntrophaceae bacterium PtaB.Bin038
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	0.584786	4927	1852851	Candidatus Marinimicrobia bacterium ADurb.Bin030
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	0.584668	4926	1852908	Spirochaetes bacterium ADurb.Bin110
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	0.546449	4604	2030927	Bacteroidales bacterium
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	0.533750	4497	1852863	Deltaproteobacteria bacterium ADurb.Bin022
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	0.516421	4351	1852926	Verrucomicrobia bacterium ADurb.Bin063
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	0.198213	1670	10239	Viruses
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	16.095095	135606	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	59.000033	497093	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	38.437921	526056	NA	unclassified

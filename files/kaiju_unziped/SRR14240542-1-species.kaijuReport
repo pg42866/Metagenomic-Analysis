@@ -1,0 +1,26 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	8.111850	172651	2026767	Nitrosomonadaceae bacterium
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	4.654385	99063	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	3.123173	66473	2026776	Pelagibacterales bacterium
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	2.944869	62678	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	2.295361	48854	1884916	Candidatus Nanopelagicus abundans
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	1.691756	36007	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	1.611601	34301	1352	Enterococcus faecium
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	1.588532	33810	1871071	Comamonadaceae bacterium
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	1.296197	27588	2026771	Opitutae bacterium
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	0.998882	21260	1835767	Limnohabitans sp. MMS-10A-178
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	0.960355	20440	1884634	Candidatus Nanopelagicus limnes
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	0.874092	18604	1884913	Candidatus Planktophila lacus
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	0.788393	16780	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	0.739342	15736	556053	Polynucleobacter acidiphobus
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	0.736194	15669	1917865	Sediminibacterium sp.
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	0.689539	14676	2559597	Candidatus Nitrotoga sp. AM1P
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	0.670510	14271	1848756	Actinobacteria bacterium IMCC26103
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	0.572031	12175	2184312	Candidatus Nitrotoga sp. SPKER
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	0.562963	11982	1884915	Candidatus Nanopelagicus hibericus
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	0.550231	11711	573600	Candidatus Planktophila limnetica
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	0.546425	11630	2024890	Pedosphaera sp.
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	2.099484	44685	10239	Viruses
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	21.240707	452083	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	40.653124	865253	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	25.742823	737848	NA	unclassified

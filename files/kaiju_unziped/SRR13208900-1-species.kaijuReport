@@ -1,0 +1,16 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661762334323/kaiju_output/SRR13208900-1.kaiju	3.531542	144474	237258	Cloacibacterium normanense
+/kb/module/work/tmp/output_1661762334323/kaiju_output/SRR13208900-1.kaiju	1.487817	60866	1054498	Rivicola pingtungensis
+/kb/module/work/tmp/output_1661762334323/kaiju_output/SRR13208900-1.kaiju	1.127950	46144	1278212	Arcobacter suis
+/kb/module/work/tmp/output_1661762334323/kaiju_output/SRR13208900-1.kaiju	1.115948	45653	80878	Acidovorax temperans
+/kb/module/work/tmp/output_1661762334323/kaiju_output/SRR13208900-1.kaiju	0.939901	38451	34062	Moraxella osloensis
+/kb/module/work/tmp/output_1661762334323/kaiju_output/SRR13208900-1.kaiju	0.934719	38239	28198	Arcobacter cryaerophilus
+/kb/module/work/tmp/output_1661762334323/kaiju_output/SRR13208900-1.kaiju	0.831663	34023	350	Zoogloea ramigera
+/kb/module/work/tmp/output_1661762334323/kaiju_output/SRR13208900-1.kaiju	0.656472	26856	43948	Tolumonas auensis
+/kb/module/work/tmp/output_1661762334323/kaiju_output/SRR13208900-1.kaiju	0.639165	26148	1938604	Aquaspirillum sp. LM1
+/kb/module/work/tmp/output_1661762334323/kaiju_output/SRR13208900-1.kaiju	0.517165	21157	1912877	Pseudoarcobacter caeni
+/kb/module/work/tmp/output_1661762334323/kaiju_output/SRR13208900-1.kaiju	0.505114	20664	40214	Acinetobacter johnsonii
+/kb/module/work/tmp/output_1661762334323/kaiju_output/SRR13208900-1.kaiju	0.176633	7226	10239	Viruses
+/kb/module/work/tmp/output_1661762334323/kaiju_output/SRR13208900-1.kaiju	48.854073	1998601	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661762334323/kaiju_output/SRR13208900-1.kaiju	38.681841	1582459	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661762334323/kaiju_output/SRR13208900-1.kaiju	12.325415	575113	NA	unclassified

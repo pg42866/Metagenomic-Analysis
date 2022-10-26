@@ -1,0 +1,18 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	4.590946	87570	665874	Limnohabitans
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	4.430470	84509	44013	Polynucleobacter
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	1.755747	33490	622681	Candidatus Planktophila
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	1.194212	22779	1578	Lactobacillus
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	1.111641	21204	1129	Synechococcus
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	1.079556	20592	1679002	Candidatus Methylopumilus
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	1.057800	20177	167375	Cyanobium
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	1.015072	19362	53634	Acidimicrobium
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	0.699049	13334	34072	Variovorax
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	0.681486	12999	28065	Rhodoferax
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	0.648982	12379	174951	Ramlibacter
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	0.531233	10133	2039639	Candidatus Nanopelagicus
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	0.516449	9851	47420	Hydrogenophaga
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	0.229521	4378	10239	Viruses
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	52.554142	1002444	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	27.903694	532249	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	26.943824	703486	NA	unclassified

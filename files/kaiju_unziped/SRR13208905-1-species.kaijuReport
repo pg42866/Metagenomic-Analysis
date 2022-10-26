@@ -1,0 +1,23 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	6.267703	196106	41950	Candidatus Microthrix parvicella
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	1.611687	50427	2315236	Aquabacterium pictum
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	1.307548	40911	2109915	Simplicispira suum
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	1.186544	37125	54	Nannocystis exedens
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	0.921685	28838	1898103	Rhodocyclaceae bacterium
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	0.878858	27498	1852791	Alphaproteobacteria bacterium ADurb.Bin100
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	0.789080	24689	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	0.746316	23351	1871071	Comamonadaceae bacterium
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	0.709018	22184	2350	Haliscomenobacter hydrossis
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	0.668300	20910	2315688	Simplicispira hankyongi
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	0.641165	20061	2030806	Burkholderiaceae bacterium
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	0.624610	19543	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	0.558483	17474	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	0.558451	17473	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	0.556118	17400	1496	Clostridioides difficile
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	0.548543	17163	1552750	Zoogloea oleivorans
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	0.503127	15742	2484252	Myxococcaceae bacterium
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	0.500666	15665	2591109	Casimicrobium huifangae
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	0.059159	1851	10239	Viruses
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	22.748058	711749	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	57.614881	1802674	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661761714734/kaiju_output/SRR13208905-1.kaiju	31.539226	1441424	NA	unclassified

@@ -1,0 +1,14 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	3.543803	43766	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	1.653197	20417	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	0.915789	11310	2024896	Anaerolineaceae bacterium
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	0.712550	8800	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	0.549878	6791	1204385	Litorilinea aerophila
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	0.543400	6711	2420332	Caldilineae bacterium
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	0.539919	6668	2202144	Spirochaetes bacterium
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	0.509392	6291	77133	uncultured bacterium
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	0.507044	6262	28198	Arcobacter cryaerophilus
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	0.724291	8945	10239	Viruses
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	25.984514	320909	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	63.816226	788131	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	53.117692	1399257	NA	unclassified

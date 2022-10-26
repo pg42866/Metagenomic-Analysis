@@ -1,0 +1,17 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	3.832097	103969	2014784	Neisseriaceae bacterium
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	2.842015	77107	1889775	Moraxellaceae bacterium
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	2.638080	71574	1785	Mycobacterium sp.
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	1.381956	37494	2053582	Neisseriales bacterium
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	1.189299	32267	237258	Cloacibacterium normanense
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	1.108728	30081	2030806	Burkholderiaceae bacterium
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	0.987870	26802	84139	Gordonia sp.
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	0.823188	22334	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	0.794476	21555	2044944	Sphingobacteriales bacterium
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	0.724445	19655	312277	Flavobacterium indicum
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	0.719728	19527	2591109	Casimicrobium huifangae
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	0.670854	18201	350	Zoogloea ramigera
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	0.491392	13332	10239	Viruses
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	26.438406	717303	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	55.357468	1501909	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	40.483767	1845495	NA	unclassified

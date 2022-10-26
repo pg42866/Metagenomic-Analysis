@@ -1,0 +1,29 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	6.319837	1185137	2026886	Nitrosarchaeum sp.
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	4.975478	933034	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	3.029721	568153	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	2.654318	497755	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	2.386921	447611	2026887	Nitrospirae bacterium
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	2.188453	410393	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	1.831058	343372	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	1.345191	252259	2026795	Thaumarchaeota archaeon
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	1.184904	222201	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	1.153218	216259	674703	Rhodoplanes sp. Z2-YC6860
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	1.055371	197910	1871071	Comamonadaceae bacterium
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	1.029124	192988	2026778	Phycisphaerae bacterium
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	1.011169	189621	1891241	Betaproteobacteria bacterium
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	1.006631	188770	1410681	Methyloglobulus morosus
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	0.973494	182556	2026742	Gemmatimonadetes bacterium
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	0.847128	158859	2026771	Opitutae bacterium
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	0.707713	132715	1802023	Rhodospirillales bacterium RIFCSPLOWO2_12_FULL_67_15
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	0.703596	131943	1913988	Alphaproteobacteria bacterium
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	0.685108	128476	2026776	Pelagibacterales bacterium
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	0.646090	121159	2021369	Streptomycetaceae bacterium
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	0.594471	111479	1797479	Betaproteobacteria bacterium RBG_16_66_20
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	0.564464	105852	2024896	Anaerolineaceae bacterium
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	0.528341	99078	2024890	Pedosphaera sp.
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	0.521393	97775	2021391	Flavobacteriales bacterium
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	0.725748	136097	10239	Viruses
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	23.362743	4381134	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	37.968311	7120065	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	34.038553	9677064	NA	unclassified

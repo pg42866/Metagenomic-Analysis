@@ -1,0 +1,14 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	4.165699	46129	665874	Limnohabitans
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	2.576143	28527	445	Legionella
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	1.045918	11582	28065	Rhodoferax
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	0.900074	9967	529883	Rhodoluna
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	0.885535	9806	13687	Sphingomonas
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	0.872802	9665	81	Hyphomicrobium
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	0.852483	9440	374	Bradyrhizobium
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	0.691288	7655	281915	Curvibacter
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	0.638189	7067	2676247	Aquirufa
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	0.064478	714	10239	Viruses
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	49.304874	545979	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	38.002515	420822	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	38.435274	691328	NA	unclassified

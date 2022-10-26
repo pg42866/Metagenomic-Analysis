@@ -1,0 +1,15 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	1.483886	18326	237	Flavobacterium
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	1.353035	16710	1234	Nitrospira
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	1.018218	12575	816	Bacteroides
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	0.801943	9904	28196	Arcobacter
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	0.799514	9874	286	Pseudomonas
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	0.715951	8842	41275	Brevundimonas
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	0.685587	8467	958	Bdellovibrio
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	0.666315	8229	327159	Candidatus Accumulibacter
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	0.609149	7523	28065	Rhodoferax
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	0.549878	6791	1215913	Litorilinea
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	0.724291	8945	10239	Viruses
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	56.749107	700852	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	33.843130	417963	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661767899232/kaiju_output/SRR11088367-1.kaiju	53.117692	1399257	NA	unclassified

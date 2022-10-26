@@ -1,0 +1,24 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	11.728394	318675	2026771	Opitutae bacterium
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	3.755920	102053	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	3.146930	85506	573	Klebsiella pneumoniae
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	2.586080	70267	1982316	Opitutae bacterium AMD-G1
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	2.051471	55741	470	Acinetobacter baumannii
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	1.826196	49620	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	1.560290	42395	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	1.212495	32945	556054	Polynucleobacter difficilis
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	1.114303	30277	2026772	Opitutales bacterium
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	0.995133	27039	1872112	Acidimicrobium sp.
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	0.892120	24240	1869212	Chitinophagaceae bacterium
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	0.764080	20761	2021369	Streptomycetaceae bacterium
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	0.740636	20124	2516559	Aquirufa antheringensis
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	0.716861	19478	1176	Aphanizomenon flos-aquae
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	0.676819	18390	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	0.637107	17311	1504320	actinobacterium acAcidi
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	0.623012	16928	1871071	Comamonadaceae bacterium
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	0.534241	14516	2026800	Verrucomicrobiaceae bacterium
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	0.519925	14127	244366	Klebsiella variicola
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	2.726339	74078	10239	Viruses
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	28.304745	769075	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	32.886904	893578	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	39.926189	1805852	NA	unclassified

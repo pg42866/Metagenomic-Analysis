@@ -1,0 +1,23 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	2.813777	60421	2591109	Casimicrobium huifangae
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	1.722281	36983	2014784	Neisseriaceae bacterium
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	1.689216	36273	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	1.651449	35462	47715	Lactobacillus rhamnosus
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	1.398529	30031	1898103	Rhodocyclaceae bacterium
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	1.049584	22538	54	Nannocystis exedens
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	1.019221	21886	305	Ralstonia solanacearum
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.975538	20948	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.887382	19055	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.852921	18315	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.763181	16388	186479	Kouleothrix aurantiaca
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.679077	14582	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.640005	13743	1617419	Bacteroidetes bacterium OLB8
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.634324	13621	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.569173	12222	2699468	Acidovorax sp. 210-6
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.566379	12162	1032	Thiothrix sp.
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.531917	11422	2030806	Burkholderiaceae bacterium
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.508819	10926	1977087	Proteobacteria bacterium
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.129882	2789	10239	Viruses
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	22.848732	490637	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	58.068615	1246923	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	38.128236	1323282	NA	unclassified

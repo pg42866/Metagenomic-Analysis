@@ -1,0 +1,18 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661742072296/kaiju_output/SRR8517161-1.kaiju	16.694035	474270	1188315	Streptomyces sp. AgN23
+/kb/module/work/tmp/output_1661742072296/kaiju_output/SRR8517161-1.kaiju	9.317465	264705	1352	Enterococcus faecium
+/kb/module/work/tmp/output_1661742072296/kaiju_output/SRR8517161-1.kaiju	5.840395	165923	1095	Chlorobium sp.
+/kb/module/work/tmp/output_1661742072296/kaiju_output/SRR8517161-1.kaiju	2.973296	84470	44676	Geothrix fermentans
+/kb/module/work/tmp/output_1661742072296/kaiju_output/SRR8517161-1.kaiju	1.666130	47334	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661742072296/kaiju_output/SRR8517161-1.kaiju	1.220787	34682	34090	Pelodictyon phaeoclathratiforme
+/kb/module/work/tmp/output_1661742072296/kaiju_output/SRR8517161-1.kaiju	1.181469	33565	256839	Shewanella decolorationis
+/kb/module/work/tmp/output_1661742072296/kaiju_output/SRR8517161-1.kaiju	1.104875	31389	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661742072296/kaiju_output/SRR8517161-1.kaiju	0.924372	26261	518	Bordetella bronchiseptica
+/kb/module/work/tmp/output_1661742072296/kaiju_output/SRR8517161-1.kaiju	0.888398	25239	2021369	Streptomycetaceae bacterium
+/kb/module/work/tmp/output_1661742072296/kaiju_output/SRR8517161-1.kaiju	0.823280	23389	1871071	Comamonadaceae bacterium
+/kb/module/work/tmp/output_1661742072296/kaiju_output/SRR8517161-1.kaiju	0.802758	22806	2304002	Methylococcales bacterium
+/kb/module/work/tmp/output_1661742072296/kaiju_output/SRR8517161-1.kaiju	0.596842	16956	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661742072296/kaiju_output/SRR8517161-1.kaiju	0.338935	9629	10239	Viruses
+/kb/module/work/tmp/output_1661742072296/kaiju_output/SRR8517161-1.kaiju	16.777845	476651	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661742072296/kaiju_output/SRR8517161-1.kaiju	38.849118	1103686	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661742072296/kaiju_output/SRR8517161-1.kaiju	28.057474	1107968	NA	unclassified

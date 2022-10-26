@@ -1,0 +1,22 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	26.771984	225562	1224	Proteobacteria
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	18.794346	158348	976	Bacteroidetes
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	6.719642	56615	200795	Chloroflexi
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	5.900324	49712	1239	Firmicutes
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	4.534557	38205	28890	Euryarchaeota
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	3.690314	31092	201174	Actinobacteria
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	3.286055	27686	74201	Verrucomicrobia
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	3.268252	27536	203682	Planctomycetes
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	3.226710	27186	203691	Spirochaetes
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	2.029483	17099	200918	Thermotogae
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	2.019156	17012	456828	Candidatus Cloacimonetes
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	1.768364	14899	67810	Candidatus Bipolaricaulota
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	1.695726	14287	67817	Candidatus Aminicenantes
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	1.654066	13936	57723	Acidobacteria
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	0.846617	7133	62680	Candidatus Marinimicrobia
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	0.841751	7092	67812	Candidatus Omnitrophica
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	0.556419	4688	1379697	candidate division Zixibacteria
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	0.198213	1670	10239	Viruses
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	5.278625	44474	NA	cannot be assigned to a (non-viral) phylum
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	6.919397	58298	NA	belong to a (non-viral) phylum with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661759562778/kaiju_output/SRR8648014-1.kaiju	38.437921	526056	NA	unclassified

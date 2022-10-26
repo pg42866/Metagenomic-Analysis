@@ -1,0 +1,20 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	4.456873	35947	1129	Synechococcus
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	4.418934	35641	167375	Cyanobium
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	2.899255	23384	1578	Lactobacillus
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	2.880657	23234	665874	Limnohabitans
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	2.730016	22019	622681	Candidatus Planktophila
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	1.838691	14830	53634	Acidimicrobium
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	1.788477	14425	270	Thermus
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	1.617627	13047	1870884	Clostridioides
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	1.363830	11000	2039639	Candidatus Nanopelagicus
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	0.799700	6450	44013	Polynucleobacter
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	0.697909	5629	2207	Methanosarcina
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	0.693942	5597	125216	Roseomonas
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	0.611988	4936	504481	Sediminibacterium
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	0.559046	4509	173479	Gemmatimonas
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	0.553715	4466	2170427	Vulcanococcus
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	0.751718	6063	10239	Viruses
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	52.978237	427297	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	18.359387	148078	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	28.821567	326589	NA	unclassified

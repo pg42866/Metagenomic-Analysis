@@ -1,0 +1,16 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	39.103310	2080617	1352	Enterococcus faecium
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	25.614109	1362881	1629	Weissella viridescens
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	1.356013	72151	33039	[Ruminococcus] torques
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.998624	53135	1777	Mycobacterium gastri
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.977180	51994	518	Bordetella bronchiseptica
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.953424	50730	1254	Pediococcus acidilactici
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.866145	46086	1944634	Selenomonas felix
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.817073	43475	1334	Streptococcus dysgalactiae
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.764976	40703	2202144	Spirochaetes bacterium
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.608271	32365	2094049	Actinomadura roseirufa
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.547810	29148	256839	Shewanella decolorationis
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	4.979457	264948	10239	Viruses
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	10.810042	575183	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	11.603566	617405	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	45.458424	4434711	NA	unclassified

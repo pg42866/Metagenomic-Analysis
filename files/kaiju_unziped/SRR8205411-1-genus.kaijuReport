@@ -1,0 +1,15 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	3.832460	121711	12960	Azoarcus
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	1.501137	47673	221279	Candidatus Competibacter
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	1.296275	41167	1763	Mycobacterium
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.900122	28586	1234	Nitrospira
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.860604	27331	1988031	Candidatus Promineofilum
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.790196	25095	111830	Defluviicoccus
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.714845	22702	99479	Tetrasphaera
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.585586	18597	1839	Nocardioides
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.527301	16746	1564515	Phaeodactylibacter
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.509259	16173	28067	Rubrivivax
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.200800	6377	10239	Viruses
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	53.501064	1699083	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	34.780353	1104552	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	40.577751	2168658	NA	unclassified

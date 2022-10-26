@@ -1,0 +1,20 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	2.813777	60421	2706000	Casimicrobium
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	1.688937	36267	1578	Lactobacillus
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	1.058898	22738	48736	Ralstonia
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	1.050515	22558	53	Nannocystis
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	1.035892	22244	327159	Candidatus Accumulibacter
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	1.022807	21963	12916	Acidovorax
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.842536	18092	73029	Dechloromonas
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.835923	17950	1030	Thiothrix
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.772914	16597	1234	Nitrospira
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.764439	16415	286	Pseudomonas
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.763181	16388	186475	Kouleothrix
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.680753	14618	349	Zoogloea
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.679682	14595	55	Polyangium
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.571548	12273	1763	Mycobacterium
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.527493	11327	219181	Ottowia
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	0.129882	2789	10239	Viruses
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	47.309841	1015897	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	37.450981	804195	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661775056674/kaiju_output/SRR11567528-1.kaiju	38.128236	1323282	NA	unclassified

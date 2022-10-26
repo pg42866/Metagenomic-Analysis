@@ -1,0 +1,20 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661742233860/kaiju_output/SRR9924797-1.kaiju	6.117680	286313	665874	Limnohabitans
+/kb/module/work/tmp/output_1661742233860/kaiju_output/SRR9924797-1.kaiju	1.755329	82151	165696	Novosphingobium
+/kb/module/work/tmp/output_1661742233860/kaiju_output/SRR9924797-1.kaiju	1.560632	73039	13687	Sphingomonas
+/kb/module/work/tmp/output_1661742233860/kaiju_output/SRR9924797-1.kaiju	1.465591	68591	53634	Acidimicrobium
+/kb/module/work/tmp/output_1661742233860/kaiju_output/SRR9924797-1.kaiju	1.160918	54332	1839	Nocardioides
+/kb/module/work/tmp/output_1661742233860/kaiju_output/SRR9924797-1.kaiju	0.992075	46430	10	Cellvibrio
+/kb/module/work/tmp/output_1661742233860/kaiju_output/SRR9924797-1.kaiju	0.938636	43929	44013	Polynucleobacter
+/kb/module/work/tmp/output_1661742233860/kaiju_output/SRR9924797-1.kaiju	0.840261	39325	622681	Candidatus Planktophila
+/kb/module/work/tmp/output_1661742233860/kaiju_output/SRR9924797-1.kaiju	0.783425	36665	33973	Acidobacterium
+/kb/module/work/tmp/output_1661742233860/kaiju_output/SRR9924797-1.kaiju	0.757699	35461	1234	Nitrospira
+/kb/module/work/tmp/output_1661742233860/kaiju_output/SRR9924797-1.kaiju	0.716952	33554	237	Flavobacterium
+/kb/module/work/tmp/output_1661742233860/kaiju_output/SRR9924797-1.kaiju	0.681653	31902	1434046	Sphingorhabdus
+/kb/module/work/tmp/output_1661742233860/kaiju_output/SRR9924797-1.kaiju	0.602403	28193	67575	Rheinheimera
+/kb/module/work/tmp/output_1661742233860/kaiju_output/SRR9924797-1.kaiju	0.602253	28186	286	Pseudomonas
+/kb/module/work/tmp/output_1661742233860/kaiju_output/SRR9924797-1.kaiju	0.517768	24232	1298	Deinococcus
+/kb/module/work/tmp/output_1661742233860/kaiju_output/SRR9924797-1.kaiju	0.374950	17548	10239	Viruses
+/kb/module/work/tmp/output_1661742233860/kaiju_output/SRR9924797-1.kaiju	47.820248	2238031	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661742233860/kaiju_output/SRR9924797-1.kaiju	32.311529	1512209	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661742233860/kaiju_output/SRR9924797-1.kaiju	27.829811	1804707	NA	unclassified

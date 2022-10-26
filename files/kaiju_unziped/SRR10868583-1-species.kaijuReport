@@ -1,0 +1,23 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	7.710780	57318	334543	Psychrobacter arcticus
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	3.454367	25678	2597355	Psychrobacter sp. ANT_WB68
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	2.108700	15675	521720	Pseudomonas caeni
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	1.818930	13521	2597353	Psychrobacter sp. ANT_H56B
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	1.813415	13480	330922	Psychrobacter cryohalolentis
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	1.605302	11933	571800	Psychrobacter sp. G
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	1.583778	11773	2597354	Psychrobacter sp. ANT_H59
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	1.532927	11395	866564	Polaromonas glacialis
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	1.516919	11276	1028416	Psychrobacter sp. DAB_AL43B
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	1.475754	10970	2604941	Pseudomonas sp. C27(2019)
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	1.271274	9450	1028414	Psychrobacter sp. DAB_AL32B
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	1.240602	9222	248452	Psychrobacter aquaticus
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	1.033835	7685	573	Klebsiella pneumoniae
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	0.822225	6112	45610	Psychrobacter urativorans
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	0.772181	5740	198480	Psychrobacter fozii
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	0.696981	5181	1112209	Psychrobacter sp. PAMC 21119
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	0.665367	4946	2596826	Psychrobacter sp. YGAH215
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	0.602812	4481	1504672	Polaromonas sp. CG9_12
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	0.201251	1496	10239	Viruses
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	45.035507	334771	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	23.037092	171246	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661758464720/kaiju_output/SRR10868583-1.kaiju	7.710673	62106	NA	unclassified

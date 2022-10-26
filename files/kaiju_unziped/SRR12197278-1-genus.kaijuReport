@@ -1,0 +1,17 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661734916009/kaiju_output/SRR12197278-1.kaiju	6.513884	46833	359407	Methylotenera
+/kb/module/work/tmp/output_1661734916009/kaiju_output/SRR12197278-1.kaiju	4.471941	32152	665874	Limnohabitans
+/kb/module/work/tmp/output_1661734916009/kaiju_output/SRR12197278-1.kaiju	3.941878	28341	1870884	Clostridioides
+/kb/module/work/tmp/output_1661734916009/kaiju_output/SRR12197278-1.kaiju	2.509834	18045	270	Thermus
+/kb/module/work/tmp/output_1661734916009/kaiju_output/SRR12197278-1.kaiju	2.375475	17079	44013	Polynucleobacter
+/kb/module/work/tmp/output_1661734916009/kaiju_output/SRR12197278-1.kaiju	2.222201	15977	429	Methylobacter
+/kb/module/work/tmp/output_1661734916009/kaiju_output/SRR12197278-1.kaiju	1.833868	13185	1578	Lactobacillus
+/kb/module/work/tmp/output_1661734916009/kaiju_output/SRR12197278-1.kaiju	1.575305	11326	622681	Candidatus Planktophila
+/kb/module/work/tmp/output_1661734916009/kaiju_output/SRR12197278-1.kaiju	1.289341	9270	200670	Crenothrix
+/kb/module/work/tmp/output_1661734916009/kaiju_output/SRR12197278-1.kaiju	1.124661	8086	28065	Rhodoferax
+/kb/module/work/tmp/output_1661734916009/kaiju_output/SRR12197278-1.kaiju	1.052336	7566	2676247	Aquirufa
+/kb/module/work/tmp/output_1661734916009/kaiju_output/SRR12197278-1.kaiju	0.695298	4999	52972	Polaromonas
+/kb/module/work/tmp/output_1661734916009/kaiju_output/SRR12197278-1.kaiju	0.216976	1560	10239	Viruses
+/kb/module/work/tmp/output_1661734916009/kaiju_output/SRR12197278-1.kaiju	52.288269	375938	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661734916009/kaiju_output/SRR12197278-1.kaiju	17.888735	128615	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661734916009/kaiju_output/SRR12197278-1.kaiju	22.557865	209427	NA	unclassified

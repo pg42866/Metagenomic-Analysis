@@ -1,0 +1,21 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	4.269409	27755	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	3.780707	24578	1496	Clostridioides difficile
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	2.347059	15258	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	1.906351	12393	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	1.566552	10184	195	Campylobacter coli
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	1.501023	9758	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	1.296897	8431	47715	Lactobacillus rhamnosus
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	1.084773	7052	1891241	Betaproteobacteria bacterium
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	1.048316	6815	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	0.985556	6407	274	Thermus thermophilus
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	0.881109	5728	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	0.586534	3813	1655564	Acidimicrobium sp. BACL27 MAG-120823-bin4
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	0.574843	3737	556053	Polynucleobacter acidiphobus
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	0.560538	3644	1871044	Clavibacter sp.
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	0.553154	3596	2209	Methanosarcina mazei
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	0.522389	3396	1776047	Clostridium sp. C105KSO15
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	0.196434	1277	10239	Viruses
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	27.347446	177783	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	48.990908	318485	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	36.002040	365708	NA	unclassified

@@ -1,0 +1,25 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	7.297382	134492	1852877	Euryarchaeota archaeon ADurb.Bin190
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	4.706522	86742	2072421	Rhodocyclales bacterium
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	3.843535	70837	2223	Methanothrix soehngenii
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	2.984129	54998	119484	Syntrophobacter fumaroxidans
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	2.877890	53040	1811676	Methanobacterium sp. PtaU1.Bin242
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	1.961783	36156	1811674	Methanobacterium sp. PtaB.Bin024
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	1.795426	33090	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	1.187292	21882	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	1.131514	20854	1852815	Bacteroidetes bacterium ADurb.BinA012
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	1.108726	20434	1660171	Xanthomonadaceae bacterium SCN 69-48
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	1.103137	20331	2135459	Geobacter sp. DSM 2909
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.974543	17961	1811689	Methanosaeta sp. PtaU1.Bin112
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.935640	17244	215690	Thermomonas fusca
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.805690	14849	1811675	Methanobacterium sp. PtaU1.Bin097
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.795435	14660	2528039	Chrysiogenales bacterium
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.780459	14384	115547	uncultured archaeon
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.745951	13748	1898103	Rhodocyclaceae bacterium
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.521862	9618	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.515676	9504	90426	Methanothrix sp.
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.503902	9287	1961109	Rhodocyclaceae bacterium UTPRO2
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.014758	272	10239	Viruses
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	25.324455	466734	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	38.084292	701900	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	24.954863	612861	NA	unclassified

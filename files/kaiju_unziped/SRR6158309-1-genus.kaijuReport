@@ -1,0 +1,13 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	2.069390	4239	374	Bradyrhizobium
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	1.074970	2202	13687	Sphingomonas
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	1.037380	2125	1883	Streptomyces
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	0.732756	1501	40323	Stenotrophomonas
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	0.684915	1403	286	Pseudomonas
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	0.628286	1287	1763	Mycobacterium
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	0.604365	1238	68287	Mesorhizobium
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	0.554571	1136	469	Acinetobacter
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	2.399887	4916	10239	Viruses
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	62.419510	127862	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	27.793968	56934	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	79.335880	786455	NA	unclassified

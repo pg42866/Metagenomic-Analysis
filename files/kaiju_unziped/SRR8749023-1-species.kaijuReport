@@ -1,0 +1,14 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	1.113362	11425	43948	Tolumonas auensis
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	0.939609	9642	477666	Bacteroides graminisolvens
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	0.809027	8302	237258	Cloacibacterium normanense
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	0.627673	6441	1283284	Tolumonas lignilytica
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	0.625237	6416	1054498	Rivicola pingtungensis
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	0.542600	5568	1938604	Aquaspirillum sp. LM1
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	0.514826	5283	28198	Arcobacter cryaerophilus
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	0.513852	5273	185300	Paludibacter propionicigenes
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	0.505471	5187	1297750	Bacteroides luti
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	0.196166	2013	10239	Viruses
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	54.080265	554956	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	39.531910	405665	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	26.411501	368301	NA	unclassified

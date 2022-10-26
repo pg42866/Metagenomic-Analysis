@@ -1,0 +1,23 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	4.827105	3462	232537	Rhodoluna limnophila
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	4.247072	3046	529884	Rhodoluna lacicola
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	2.884830	2069	2516559	Aquirufa antheringensis
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	1.899052	1362	1100721	Limnohabitans sp. Rim47
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	1.826548	1310	1798013	Flavobacteria bacterium GWA2_35_26
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	1.805633	1295	535712	Candidatus Rhodoluna planktonica
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	1.171221	840	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	1.022030	733	1100719	Limnohabitans sp. Rim11
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	0.888176	637	556054	Polynucleobacter difficilis
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	0.875627	628	1678128	Limnohabitans sp. 63ED37-2
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	0.831009	596	2650924	Aestuariivirga litoralis
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	0.810095	581	1987356	Aurantimicrobium sp. MWH-Mo1
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	0.687395	493	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	0.584216	419	1884913	Candidatus Planktophila lacus
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	0.566090	406	2094193	Limnohabitans sp. TS-CS-82
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	0.547964	393	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	0.538204	386	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	0.501952	360	1100711	Limnohabitans sp. G3-2
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	1.701060	1220	10239	Viruses
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	25.751534	18469	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	46.033186	33015	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661734867090/kaiju_output/SRR10688474-1.kaiju	40.098554	48010	NA	unclassified

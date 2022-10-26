@@ -1,0 +1,8 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	1.292375	13144	1032526	Pedosphaera
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	1.124437	11436	1234	Nitrospira
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	0.866926	8817	445219	Reyranella
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	0.089377	909	10239	Viruses
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	61.393135	624394	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	35.233748	358342	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	44.737270	823334	NA	unclassified

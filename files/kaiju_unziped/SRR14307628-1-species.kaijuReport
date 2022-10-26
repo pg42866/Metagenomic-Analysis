@@ -1,0 +1,22 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	3.673457	95656	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	2.192031	57080	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	1.787880	46556	232348	Synechococcus sp. CB0101
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	1.726474	44957	2026776	Pelagibacterales bacterium
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	1.711650	44571	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	1.050508	27355	1967499	Acidimicrobiales bacterium mtb01
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	1.023511	26652	2164130	Cyanobium sp.
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	0.943518	24569	556053	Polynucleobacter acidiphobus
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	0.848509	22095	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	0.717479	18683	1884913	Candidatus Planktophila lacus
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	0.696050	18125	1848755	Actinobacteria bacterium IMCC26077
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	0.643247	16750	2021369	Streptomycetaceae bacterium
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	0.599083	15600	1925548	Candidatus Fonsibacter ubiquis
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	0.567248	14771	2170428	Vulcanococcus limneticus
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	0.556303	14486	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	0.525081	13673	2588535	Candidatus Methylopumilus rimovensis
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	0.524812	13666	2026771	Opitutae bacterium
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	6.357235	165541	10239	Viruses
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	26.925076	701123	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	46.930850	1222069	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661738204918/kaiju_output/SRR14307628-1.kaiju	46.342260	2248962	NA	unclassified

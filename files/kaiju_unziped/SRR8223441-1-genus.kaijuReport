@@ -1,0 +1,16 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661764432717/kaiju_output/SRR8223441-1.kaiju	1.966866	47100	327159	Candidatus Accumulibacter
+/kb/module/work/tmp/output_1661764432717/kaiju_output/SRR8223441-1.kaiju	1.677933	40181	1234	Nitrospira
+/kb/module/work/tmp/output_1661764432717/kaiju_output/SRR8223441-1.kaiju	1.106873	26506	2706000	Casimicrobium
+/kb/module/work/tmp/output_1661764432717/kaiju_output/SRR8223441-1.kaiju	1.105370	26470	1839	Nocardioides
+/kb/module/work/tmp/output_1661764432717/kaiju_output/SRR8223441-1.kaiju	1.051041	25169	186475	Kouleothrix
+/kb/module/work/tmp/output_1661764432717/kaiju_output/SRR8223441-1.kaiju	1.020181	24430	349	Zoogloea
+/kb/module/work/tmp/output_1661764432717/kaiju_output/SRR8223441-1.kaiju	0.997339	23883	73029	Dechloromonas
+/kb/module/work/tmp/output_1661764432717/kaiju_output/SRR8223441-1.kaiju	0.965393	23118	237	Flavobacterium
+/kb/module/work/tmp/output_1661764432717/kaiju_output/SRR8223441-1.kaiju	0.920835	22051	171	Leptospira
+/kb/module/work/tmp/output_1661764432717/kaiju_output/SRR8223441-1.kaiju	0.538696	12900	12916	Acidovorax
+/kb/module/work/tmp/output_1661764432717/kaiju_output/SRR8223441-1.kaiju	0.526961	12619	33057	Thauera
+/kb/module/work/tmp/output_1661764432717/kaiju_output/SRR8223441-1.kaiju	0.120350	2882	10239	Viruses
+/kb/module/work/tmp/output_1661764432717/kaiju_output/SRR8223441-1.kaiju	49.658470	1189158	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661764432717/kaiju_output/SRR8223441-1.kaiju	38.343692	918206	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661764432717/kaiju_output/SRR8223441-1.kaiju	42.066616	1738821	NA	unclassified

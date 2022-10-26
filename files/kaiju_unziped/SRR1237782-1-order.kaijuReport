@@ -1,0 +1,23 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	43.866356	606752	186802	Clostridiales
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	7.749878	107195	85004	Bifidobacteriales
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	5.777688	79916	84999	Coriobacteriales
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	3.353425	46384	186826	Lactobacillales
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	2.747431	38002	85006	Micrococcales
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	2.067984	28604	909929	Selenomonadales
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	2.029449	28071	80840	Burkholderiales
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	1.893748	26194	1843489	Veillonellales
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	1.635937	22628	85009	Propionibacteriales
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	1.173164	16227	204455	Rhodobacterales
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	1.117206	15453	91347	Enterobacterales
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	1.067465	14765	356	Rhizobiales
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	0.729621	10092	1643822	Eggerthellales
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	0.705474	9758	171549	Bacteroidales
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	0.702582	9718	85007	Corynebacteriales
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	0.626454	8665	2037	Actinomycetales
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	0.589582	8155	72274	Pseudomonadales
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	0.570930	7897	526525	Erysipelotrichales
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	0.106638	1475	10239	Viruses
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	17.220932	238197	NA	cannot be assigned to a (non-viral) order
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	4.268054	59035	NA	belong to a (non-viral) order with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	12.798129	203002	NA	unclassified

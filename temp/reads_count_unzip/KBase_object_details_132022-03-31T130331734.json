@@ -1,0 +1,124 @@
+{
+  "metadata" : [
+    [
+      13,
+      "SRR10868583",
+      "KBaseFile.PairedEndLibrary-2.1",
+      "2021-11-18T01:11:18+0000",
+      1,
+      "diogoc",
+      103396,
+      "diogoc:narrative_1637146389807",
+      "f8879d24694004600734a75d7e456b1b",
+      765,
+      {
+        "gc_content" : "0.444951",
+        "number_of_duplicates" : "244346",
+        "phred_type" : "33",
+        "qual_max" : "40.0",
+        "qual_mean" : "37.9302",
+        "qual_min" : "2.0",
+        "qual_stdev" : "4.3283",
+        "read_count" : "16109110",
+        "read_length_mean" : "251.0",
+        "read_length_stdev" : "0.0",
+        "sequencing_tech" : "Illumina",
+        "single_genome" : "0",
+        "total_bases" : "4043386610"
+      }
+    ]
+  ],
+  "provenance" : [
+    {
+      "copy_source_inaccessible" : null,
+      "created" : "2021-11-18T01:11:17+0000",
+      "creator" : "diogoc",
+      "extracted_ids" : null,
+      "info" : [
+        13,
+        "SRR10868583",
+        "KBaseFile.PairedEndLibrary-2.1",
+        "2021-11-18T01:11:18+0000",
+        1,
+        "diogoc",
+        103396,
+        "diogoc:narrative_1637146389807",
+        "f8879d24694004600734a75d7e456b1b",
+        765,
+        {
+          "gc_content" : "0.444951",
+          "number_of_duplicates" : "244346",
+          "phred_type" : "33",
+          "qual_max" : "40.0",
+          "qual_mean" : "37.9302",
+          "qual_min" : "2.0",
+          "qual_stdev" : "4.3283",
+          "read_count" : "16109110",
+          "read_length_mean" : "251.0",
+          "read_length_stdev" : "0.0",
+          "sequencing_tech" : "Illumina",
+          "single_genome" : "0",
+          "total_bases" : "4043386610"
+        }
+      ],
+      "provenance" : [
+        {
+          "custom" : { },
+          "description" : "KBase SDK method run via the KBase Execution Engine",
+          "epoch" : 1637196956000,
+          "external_data" : [ ],
+          "input_ws_objects" : [ ],
+          "method" : "import_sra_from_web",
+          "method_params" : [
+            {
+              "download_type" : "Direct Download",
+              "sra_urls_to_add" : [
+                {
+                  "file_url" : "https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-run-21/SRR10868583/SRR10868583.1",
+                  "insert_size_mean" : null,
+                  "insert_size_std_dev" : null,
+                  "name" : "SRR10868583",
+                  "read_orientation_outward" : 0,
+                  "sequencing_tech" : "Illumina",
+                  "single_genome" : 0
+                }
+              ],
+              "workspace_name" : "diogoc:narrative_1637146389807"
+            }
+          ],
+          "resolved_ws_objects" : [ ],
+          "service" : "kb_uploadmethods",
+          "service_ver" : "31e93066beb421a51b9c8e44b1201aa93aea0b4e",
+          "subactions" : [
+            {
+              "code_url" : "https://github.com/kbaseapps/kb_uploadmethods",
+              "commit" : "31e93066beb421a51b9c8e44b1201aa93aea0b4e",
+              "name" : "kb_uploadmethods",
+              "ver" : "31e93066beb421a51b9c8e44b1201aa93aea0b4e"
+            },
+            {
+              "code_url" : "https://github.com/kbaseapps/DataFileUtil",
+              "commit" : "df0bb6568008983c1daf6966cf8cebf54f0a0d80",
+              "name" : "DataFileUtil",
+              "ver" : "release"
+            },
+            {
+              "code_url" : "https://github.com/kbaseapps/ReadsUtils",
+              "commit" : "bb1a698cdf6514292bbcf4edfc35daf403fba0ea",
+              "name" : "ReadsUtils",
+              "ver" : "release"
+            },
+            {
+              "code_url" : "https://github.com/kbaseapps/kb_ea_utils",
+              "commit" : "c486d497f6f1faf34645f4de0fc001060088f142",
+              "name" : "kb_ea_utils",
+              "ver" : "release"
+            }
+          ],
+          "time" : "2021-11-18T00:55:56+0000"
+        }
+      ],
+      "refs" : [ ]
+    }
+  ]
+}

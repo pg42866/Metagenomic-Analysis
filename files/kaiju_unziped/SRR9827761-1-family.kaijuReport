@@ -1,0 +1,12 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661769095303/kaiju_output/SRR9827761-1.kaiju	47.327606	2061405	1127830	Candidatus Brocadiaceae
+/kb/module/work/tmp/output_1661769095303/kaiju_output/SRR9827761-1.kaiju	4.694568	204477	49	Polyangiaceae
+/kb/module/work/tmp/output_1661769095303/kaiju_output/SRR9827761-1.kaiju	1.972354	85908	189779	Nitrospiraceae
+/kb/module/work/tmp/output_1661769095303/kaiju_output/SRR9827761-1.kaiju	0.789947	34407	206379	Nitrosomonadaceae
+/kb/module/work/tmp/output_1661769095303/kaiju_output/SRR9827761-1.kaiju	0.775988	33799	119060	Burkholderiaceae
+/kb/module/work/tmp/output_1661769095303/kaiju_output/SRR9827761-1.kaiju	0.772452	33645	75787	Rhodocyclaceae
+/kb/module/work/tmp/output_1661769095303/kaiju_output/SRR9827761-1.kaiju	0.542427	23626	41294	Bradyrhizobiaceae
+/kb/module/work/tmp/output_1661769095303/kaiju_output/SRR9827761-1.kaiju	0.020043	873	10239	Viruses
+/kb/module/work/tmp/output_1661769095303/kaiju_output/SRR9827761-1.kaiju	30.874126	1344756	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1661769095303/kaiju_output/SRR9827761-1.kaiju	12.230486	532712	NA	belong to a (non-viral) family with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661769095303/kaiju_output/SRR9827761-1.kaiju	18.224140	970668	NA	unclassified

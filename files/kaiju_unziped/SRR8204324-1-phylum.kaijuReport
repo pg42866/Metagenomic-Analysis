@@ -1,0 +1,23 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	41.398083	150742	1224	Proteobacteria
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	12.520048	45589	976	Bacteroidetes
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	7.672302	27937	201174	Actinobacteria
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	4.349569	15838	95818	Candidatus Saccharibacteria
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	3.035746	11054	1239	Firmicutes
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	2.050103	7465	1752737	Candidatus Moranbacteria
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	1.322886	4817	200795	Chloroflexi
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	1.256976	4577	1752731	Candidatus Magasanikbacteria
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	1.079291	3930	1752723	Candidatus Roizmanbacteria
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	0.959553	3494	1752724	Candidatus Pacebacteria
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	0.825808	3007	1752734	Candidatus Kaiserbacteria
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	0.798895	2909	1817919	Candidatus Taylorbacteria
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	0.790107	2877	203682	Planctomycetes
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	0.646751	2355	74201	Verrucomicrobia
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	0.633019	2305	221216	Candidatus Parcubacteria
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	0.601712	2191	1752729	Candidatus Nomurabacteria
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	0.553651	2016	1117	Cyanobacteria
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	0.504493	1837	203691	Spirochaetes
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	1.537921	5600	10239	Viruses
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	8.751043	31865	NA	cannot be assigned to a (non-viral) phylum
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	8.712047	31723	NA	belong to a (non-viral) phylum with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	42.954901	274188	NA	unclassified

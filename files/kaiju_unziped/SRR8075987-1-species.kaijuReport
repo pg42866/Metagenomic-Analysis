@@ -1,0 +1,26 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	5.046058	65007	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	3.520294	45351	2026776	Pelagibacterales bacterium
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	2.212264	28500	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	1.874680	24151	556053	Polynucleobacter acidiphobus
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	1.647089	21219	2021369	Streptomycetaceae bacterium
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.950575	12246	1848755	Actinobacteria bacterium IMCC26077
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.930160	11983	1884913	Candidatus Planktophila lacus
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.893134	11506	2588535	Candidatus Methylopumilus rimovensis
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.889718	11462	1925548	Candidatus Fonsibacter ubiquis
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.886536	11421	913338	actinobacterium SCGC AAA027-L06
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.832122	10720	1871044	Clavibacter sp.
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.738819	9518	1869212	Chitinophagaceae bacterium
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.674779	8693	1884914	Candidatus Planktophila dulcis
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.661972	8528	1884916	Candidatus Nanopelagicus abundans
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.654520	8432	1884634	Candidatus Nanopelagicus limnes
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.653743	8422	1504322	actinobacterium acIB-AMD-7
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.652191	8402	573600	Candidatus Planktophila limnetica
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.607247	7823	1911520	Actinomycetales bacterium
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.602978	7768	1848255	Actinobacteria bacterium IMCC25003
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.573093	7383	2175601	Candidatus Planktophila sp.
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.504551	6500	1884904	Candidatus Planktophila sulfonica
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	0.407755	5253	10239	Viruses
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	37.664066	485216	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	35.921657	462769	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661734985208/kaiju_output/SRR8075987-1.kaiju	30.379954	562161	NA	unclassified

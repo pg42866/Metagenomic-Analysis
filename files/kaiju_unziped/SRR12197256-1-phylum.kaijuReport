@@ -1,0 +1,18 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	37.891830	246331	1224	Proteobacteria
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	20.907875	135920	201174	Actinobacteria
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	7.730929	50258	1239	Firmicutes
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	5.567998	36197	976	Bacteroidetes
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	5.077297	33007	203682	Planctomycetes
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	3.869157	25153	57723	Acidobacteria
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	3.844391	24992	74201	Verrucomicrobia
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	2.091403	13596	200795	Chloroflexi
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	1.760987	11448	40117	Nitrospirae
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	1.633774	10621	1297	Deinococcus-Thermus
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	1.380270	8973	1117	Cyanobacteria
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	0.822040	5344	142182	Gemmatimonadetes
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	0.761895	4953	28890	Euryarchaeota
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	0.196434	1277	10239	Viruses
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	4.183113	27194	NA	cannot be assigned to a (non-viral) phylum
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	2.280607	14826	NA	belong to a (non-viral) phylum with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661734926804/kaiju_output/SRR12197256-1.kaiju	36.002040	365708	NA	unclassified

@@ -1,0 +1,23 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	28.086037	213348	28216	Betaproteobacteria
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	10.908701	82865	1236	Gammaproteobacteria
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	10.108172	76784	28211	Alphaproteobacteria
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	8.497110	64546	1760	Actinobacteria
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	5.911353	44904	28221	Deltaproteobacteria
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	2.283370	17345	203693	Nitrospira
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	2.249800	17090	117743	Flavobacteriia
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	1.693340	12863	1853228	Chitinophagia
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	1.569726	11924	84992	Acidimicrobiia
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	1.321445	10038	768503	Cytophagia
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	1.154915	8773	117747	Sphingobacteriia
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.822382	6247	91061	Bacilli
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.699952	5317	292625	Anaerolineae
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.692975	5264	200643	Bacteroidia
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.652034	4953	203494	Verrucomicrobiae
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.578971	4398	32061	Chloroflexia
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.574759	4366	203683	Planctomycetia
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.537109	4080	186801	Clostridia
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.096364	732	10239	Viruses
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	17.093216	129844	NA	cannot be assigned to a (non-viral) class
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	4.468269	33942	NA	belong to a (non-viral) class with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	39.053562	486755	NA	unclassified

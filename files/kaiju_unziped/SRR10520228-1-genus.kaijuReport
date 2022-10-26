@@ -1,0 +1,16 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	41.262600	2195509	1350	Enterococcus
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	25.614956	1362926	46255	Weissella
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	1.356520	72178	2316020	Mediterraneibacter
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	1.127740	60005	1763	Mycobacterium
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.987611	52549	517	Bordetella
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.957991	50973	286	Pseudomonas
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.953875	50754	1253	Pediococcus
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.868813	46228	970	Selenomonas
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.858364	45672	1301	Streptococcus
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.624772	33243	1988	Actinomadura
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.555403	29552	22	Shewanella
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	4.979457	264948	10239	Viruses
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	13.158252	700127	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	6.693648	356157	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	45.458424	4434711	NA	unclassified

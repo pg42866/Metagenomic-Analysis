@@ -1,0 +1,16 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	71.069199	3781465	186826	Lactobacillales
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	2.189023	116474	80840	Burkholderiales
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	1.764239	93872	186802	Clostridiales
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	1.335283	71048	85007	Corynebacteriales
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	1.288955	68583	72274	Pseudomonadales
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.872722	46436	909929	Selenomonadales
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.671832	35747	91347	Enterobacterales
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.656722	34943	85012	Streptosporangiales
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.639601	34032	356	Rhizobiales
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.587522	31261	135622	Alteromonadales
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.520127	27675	85011	Streptomycetales
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	4.979457	264948	10239	Viruses
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	8.420636	448047	NA	cannot be assigned to a (non-viral) order
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	5.004679	266290	NA	belong to a (non-viral) order with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	45.458424	4434711	NA	unclassified

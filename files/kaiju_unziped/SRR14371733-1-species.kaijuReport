@@ -1,0 +1,30 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	6.695610	174859	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	3.747510	97868	573	Klebsiella pneumoniae
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	3.314434	86558	562	Escherichia coli
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	2.757906	72024	2026776	Pelagibacterales bacterium
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	2.228411	58196	1835767	Limnohabitans sp. MMS-10A-178
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	2.148190	56101	1643429	Candidatus Kryptobacter tengchongensis
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	1.994220	52080	1352	Enterococcus faecium
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	1.763974	46067	2026771	Opitutae bacterium
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	1.616322	42211	1884913	Candidatus Planktophila lacus
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	1.504779	39298	1884916	Candidatus Nanopelagicus abundans
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	1.384160	36148	1884914	Candidatus Planktophila dulcis
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	1.263734	33003	556053	Polynucleobacter acidiphobus
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	1.082155	28261	1884905	Candidatus Planktophila versatilis
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	1.012350	26438	2021369	Streptomycetaceae bacterium
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	0.959355	25054	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	0.858840	22429	1100719	Limnohabitans sp. Rim11
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	0.817868	21359	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	0.800483	20905	232348	Synechococcus sp. CB0101
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	0.780189	20375	1655562	Actinobacteria bacterium BACL15 MAG-120619-bin91
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	0.676764	17674	1777	Mycobacterium gastri
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	0.669297	17479	2164130	Cyanobium sp.
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	0.663898	17338	1504320	actinobacterium acAcidi
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	0.619671	16183	1848756	Actinobacteria bacterium IMCC26103
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	0.561123	14654	1967499	Acidimicrobiales bacterium mtb01
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	0.519769	13574	1884904	Candidatus Planktophila sulfonica
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	0.438361	11448	10239	Viruses
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	27.225357	711003	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	31.895271	832960	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661726319127/kaiju_output/SRR14371733-1.kaiju	31.363079	1193325	NA	unclassified

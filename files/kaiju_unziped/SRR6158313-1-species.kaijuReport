@@ -1,0 +1,16 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661753908896/kaiju_output/SRR6158313-1.kaiju	4.351081	15635	41950	Candidatus Microthrix parvicella
+/kb/module/work/tmp/output_1661753908896/kaiju_output/SRR6158313-1.kaiju	1.647761	5921	2030827	Candidatus Dependentiae bacterium
+/kb/module/work/tmp/output_1661753908896/kaiju_output/SRR6158313-1.kaiju	1.260102	4528	370977	Brevundimonas aveniformis
+/kb/module/work/tmp/output_1661753908896/kaiju_output/SRR6158313-1.kaiju	1.181902	4247	1970494	Burkholderiales bacterium 12-64-5
+/kb/module/work/tmp/output_1661753908896/kaiju_output/SRR6158313-1.kaiju	1.051384	3778	2021391	Flavobacteriales bacterium
+/kb/module/work/tmp/output_1661753908896/kaiju_output/SRR6158313-1.kaiju	0.745820	2680	1736318	Pseudorhodoferax sp. Leaf274
+/kb/module/work/tmp/output_1661753908896/kaiju_output/SRR6158313-1.kaiju	0.706303	2538	1785	Mycobacterium sp.
+/kb/module/work/tmp/output_1661753908896/kaiju_output/SRR6158313-1.kaiju	0.629216	2261	2482794	Desulfurellales bacterium
+/kb/module/work/tmp/output_1661753908896/kaiju_output/SRR6158313-1.kaiju	0.579680	2083	1938604	Aquaspirillum sp. LM1
+/kb/module/work/tmp/output_1661753908896/kaiju_output/SRR6158313-1.kaiju	0.551573	1982	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661753908896/kaiju_output/SRR6158313-1.kaiju	0.527083	1894	50421	Rhodoferax sp.
+/kb/module/work/tmp/output_1661753908896/kaiju_output/SRR6158313-1.kaiju	2.908698	10452	10239	Viruses
+/kb/module/work/tmp/output_1661753908896/kaiju_output/SRR6158313-1.kaiju	25.438866	91411	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661753908896/kaiju_output/SRR6158313-1.kaiju	58.420533	209926	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661753908896/kaiju_output/SRR6158313-1.kaiju	69.375575	814028	NA	unclassified

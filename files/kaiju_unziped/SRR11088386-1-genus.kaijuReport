@@ -1,0 +1,19 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	14.827726	387681	642	Aeromonas
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	9.217928	241009	469	Acinetobacter
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	5.778469	151082	286	Pseudomonas
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	5.117021	133788	816	Bacteroides
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	3.263905	85337	12916	Acidovorax
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	1.787867	46745	283	Comamonas
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	1.057154	27640	2222	Methanothrix
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	1.043079	27272	33057	Thauera
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	1.034320	27043	838	Prevotella
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	0.920381	24064	216851	Faecalibacterium
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	0.882823	23082	237	Flavobacterium
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	0.844652	22084	239759	Alistipes
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	0.659000	17230	1485	Clostridium
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	0.531484	13896	219181	Ottowia
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	0.161824	4231	10239	Viruses
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	33.806999	883907	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	19.065368	498477	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	12.941988	388680	NA	unclassified

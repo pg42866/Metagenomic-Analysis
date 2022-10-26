@@ -1,0 +1,11 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	6.982905	1309480	1007082	Nitrosarchaeum
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	1.232071	231046	29407	Rhodoplanes
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	1.006631	188770	1410680	Methyloglobulus
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	0.926072	173663	1032526	Pedosphaera
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	0.569306	106760	556257	Pseudolabrys
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	0.560971	105197	1234	Nitrospira
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	0.725748	136097	10239	Viruses
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	66.661484	12500796	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	21.334806	4000842	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661750390700/kaiju_output/SRR8561391-1.kaiju	34.038553	9677064	NA	unclassified

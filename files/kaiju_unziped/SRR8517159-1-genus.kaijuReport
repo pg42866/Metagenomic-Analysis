@@ -1,0 +1,16 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	11.113065	250941	22	Shewanella
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	2.649827	59835	1350	Enterococcus
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	1.729750	39059	359407	Methylotenera
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	1.472318	33246	1091	Chlorobium
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	1.390567	31400	429	Methylobacter
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	1.114668	25170	28065	Rhodoferax
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	1.069895	24159	44013	Polynucleobacter
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	0.822782	18579	44675	Geothrix
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	0.711935	16076	453161	Candidatus Nitrotoga
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	0.623807	14086	286	Pseudomonas
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	0.613665	13857	665874	Limnohabitans
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	0.265005	5984	10239	Viruses
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	52.084785	1176112	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	24.337931	549568	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	27.165639	842212	NA	unclassified

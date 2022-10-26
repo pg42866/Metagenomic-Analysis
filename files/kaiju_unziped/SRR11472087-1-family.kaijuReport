@@ -1,0 +1,19 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	3.402035	81752	1655514	Pelagibacteraceae
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	2.737791	65790	203557	Verrucomicrobiaceae
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	2.239463	53815	1892259	Aphanizomenonaceae
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	2.217573	53289	41295	Rhodospirillaceae
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	1.896978	45585	49546	Flavobacteriaceae
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	1.365650	32817	468	Moraxellaceae
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	1.238644	29765	119060	Burkholderiaceae
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	1.069732	25706	31989	Rhodobacteraceae
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.877100	21077	80864	Comamonadaceae
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.796036	19129	135621	Pseudomonadaceae
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.794288	19087	81852	Enterococcaceae
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.743644	17870	41297	Sphingomonadaceae
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.673233	16178	1853230	Crocinitomicaceae
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.524837	12612	32011	Methylophilaceae
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	32.251629	775017	10239	Viruses
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	31.279316	751652	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	15.892048	381891	NA	belong to a (non-viral) family with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	74.555820	7041297	NA	unclassified

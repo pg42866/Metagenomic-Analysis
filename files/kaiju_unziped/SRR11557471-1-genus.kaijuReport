@@ -1,0 +1,15 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661745078208/kaiju_output/SRR11557471-1.kaiju	5.002095	202254	1870884	Clostridioides
+/kb/module/work/tmp/output_1661745078208/kaiju_output/SRR11557471-1.kaiju	4.644226	187784	1175	Aphanizomenon
+/kb/module/work/tmp/output_1661745078208/kaiju_output/SRR11557471-1.kaiju	3.974317	160697	1485	Clostridium
+/kb/module/work/tmp/output_1661745078208/kaiju_output/SRR11557471-1.kaiju	2.118249	85649	48736	Ralstonia
+/kb/module/work/tmp/output_1661745078208/kaiju_output/SRR11557471-1.kaiju	2.075785	83932	469	Acinetobacter
+/kb/module/work/tmp/output_1661745078208/kaiju_output/SRR11557471-1.kaiju	1.008660	40784	198251	Candidatus Pelagibacter
+/kb/module/work/tmp/output_1661745078208/kaiju_output/SRR11557471-1.kaiju	0.899469	36369	286	Pseudomonas
+/kb/module/work/tmp/output_1661745078208/kaiju_output/SRR11557471-1.kaiju	0.739257	29891	1883	Streptomyces
+/kb/module/work/tmp/output_1661745078208/kaiju_output/SRR11557471-1.kaiju	0.586043	23696	118	Planctomyces
+/kb/module/work/tmp/output_1661745078208/kaiju_output/SRR11557471-1.kaiju	0.545162	22043	194	Campylobacter
+/kb/module/work/tmp/output_1661745078208/kaiju_output/SRR11557471-1.kaiju	25.963364	1049799	10239	Viruses
+/kb/module/work/tmp/output_1661745078208/kaiju_output/SRR11557471-1.kaiju	33.126347	1339426	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661745078208/kaiju_output/SRR11557471-1.kaiju	19.317028	781062	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661745078208/kaiju_output/SRR11557471-1.kaiju	72.942674	10900389	NA	unclassified

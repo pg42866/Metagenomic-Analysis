@@ -1,0 +1,27 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	8.861012	132947	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	8.224098	123391	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	4.311368	64686	2026776	Pelagibacterales bacterium
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	4.195596	62949	1884916	Candidatus Nanopelagicus abundans
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	2.649033	39745	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	2.253794	33815	1917865	Sediminibacterium sp.
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	1.919007	28792	2026767	Nitrosomonadaceae bacterium
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	1.909210	28645	2026771	Opitutae bacterium
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	1.691195	25374	1352	Enterococcus faecium
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	1.630610	24465	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	1.568891	23539	1871071	Comamonadaceae bacterium
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	1.015957	15243	1884915	Candidatus Nanopelagicus hibericus
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	0.993762	14910	2021369	Streptomycetaceae bacterium
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	0.950706	14264	2021391	Flavobacteriales bacterium
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	0.941308	14123	1869212	Chitinophagaceae bacterium
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	0.819471	12295	2026778	Phycisphaerae bacterium
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	0.747888	11221	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	0.561999	8432	1898112	Rhodospirillaceae bacterium
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	0.558733	8383	1872112	Acidimicrobium sp.
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	0.551868	8280	1982318	Opitutae bacterium Tous-C10FEB
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	0.521942	7831	1884907	Candidatus Planktophila vernalis
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	0.520742	7813	1925548	Candidatus Fonsibacter ubiquis
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	2.722548	40848	10239	Viruses
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	18.815496	282300	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	31.063765	466068	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	25.824204	522348	NA	unclassified

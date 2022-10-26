@@ -1,0 +1,8 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	31.782516	1017093	380240	Candidatus Brocadia
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	2.274226	72779	795750	Ignavibacterium
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	0.661466	21168	914	Nitrosomonas
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	0.031436	1006	10239	Viruses
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	50.646824	1620782	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	14.603528	467337	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	19.491164	774759	NA	unclassified

@@ -1,0 +1,10 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	1.398060	18749	165179	Prevotella copri
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	0.900920	12082	80881	Simplicispira metamorpha
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	0.700111	9389	28198	Arcobacter cryaerophilus
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	0.665586	8926	40214	Acinetobacter johnsonii
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	0.520852	6985	853	Faecalibacterium prausnitzii
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	0.175606	2355	10239	Viruses
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	66.242477	888360	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	29.396385	394227	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	13.909835	216681	NA	unclassified

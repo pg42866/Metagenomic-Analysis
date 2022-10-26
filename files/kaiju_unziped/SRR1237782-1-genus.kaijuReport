@@ -1,0 +1,24 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	7.253632	100331	1678	Bifidobacterium
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	4.215205	58304	216851	Faecalibacterium
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	2.210264	30572	1263	Ruminococcus
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	1.698763	23497	292632	Subdoligranulum
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	1.664060	23017	1485	Clostridium
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	1.625598	22485	572511	Blautia
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	1.553084	21482	1730	Eubacterium
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	1.507176	20847	189330	Dorea
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	1.466690	20287	102106	Collinsella
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	1.283055	17747	1578	Lactobacillus
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	1.188852	16444	52225	Mitsuokella
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	1.181261	16339	33042	Coprococcus
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	1.036522	14337	841	Roseburia
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	0.992855	13733	39948	Dialister
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	0.914196	12645	33882	Microbacterium
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	0.721380	9978	1301	Streptococcus
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	0.636503	8804	265	Paracoccus
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	0.616260	8524	906	Megasphaera
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	0.502826	6955	970	Selenomonas
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	0.106638	1475	10239	Viruses
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	50.156487	693756	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	17.468694	241624	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661755199252/kaiju_output/SRR1237782-1.kaiju	12.798129	203002	NA	unclassified

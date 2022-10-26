@@ -1,0 +1,27 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	5.229554	109992	41949	Candidatus Microthrix
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	2.835575	59640	82802	Trichococcus
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	1.911779	40210	1678	Bifidobacterium
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	1.890241	39757	99479	Tetrasphaera
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	1.387977	29193	12916	Acidovorax
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	1.331874	28013	1988031	Candidatus Promineofilum
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	1.115640	23465	816	Bacteroides
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	1.078032	22674	216851	Faecalibacterium
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	1.048982	22063	265	Paracoccus
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	1.026969	21600	469	Acinetobacter
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.964210	20280	838	Prevotella
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.904303	19020	33882	Microbacterium
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.770797	16212	221279	Candidatus Competibacter
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.714552	15029	72763	Tessaracoccus
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.690684	14527	116071	Micropruina
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.663156	13948	1839	Nocardioides
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.657165	13822	1350	Enterococcus
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.650414	13680	1263	Ruminococcus
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.629399	13238	1191515	Ornithinibacter
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.582947	12261	1883	Streptomyces
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.570824	12006	1578	Lactobacillus
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.543866	11439	286	Pseudomonas
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.076832	1616	10239	Viruses
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	35.452961	745674	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	37.271267	783918	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	24.362606	677460	NA	unclassified

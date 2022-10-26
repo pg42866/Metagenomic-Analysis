@@ -1,0 +1,17 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	2.365694	267717	1129	Synechococcus
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	2.008865	227336	665874	Limnohabitans
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	1.715951	194188	53634	Acidimicrobium
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	1.371644	155224	167375	Cyanobium
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	1.132421	128152	1152	Pseudanabaena
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	1.000810	113258	1573	Clavibacter
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	0.930824	105338	54304	Planktothrix
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	0.852603	96486	1125	Microcystis
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	0.752768	85188	47251	Leptolyngbya
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	0.734185	83085	44013	Polynucleobacter
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	0.691539	78259	1222	Prochlorothrix
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	0.583592	66043	2039639	Candidatus Nanopelagicus
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	1.087311	123047	10239	Viruses
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	55.812531	6316102	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	28.959262	3277215	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	46.936059	10009779	NA	unclassified

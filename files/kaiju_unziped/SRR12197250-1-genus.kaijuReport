@@ -1,0 +1,15 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	7.765504	47121	1485	Clostridium
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	2.980723	18087	44013	Polynucleobacter
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	2.038566	12370	665874	Limnohabitans
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	1.610253	9771	1870884	Clostridioides
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	1.356627	8232	622681	Candidatus Planktophila
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	1.168262	7089	48736	Ralstonia
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	0.614701	3730	1129	Synechococcus
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	0.583719	3542	1883	Streptomyces
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	0.566085	3435	270	Thermus
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	0.544167	3302	1679002	Candidatus Methylopumilus
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	0.829270	5032	10239	Viruses
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	52.502888	318587	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	27.439234	166501	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	60.634226	934639	NA	unclassified

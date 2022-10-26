@@ -1,0 +1,6 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	0.604874	35273	1234	Nitrospira
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	0.037349	2178	10239	Viruses
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	75.522415	4404061	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	23.835361	1389950	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	45.461160	4860848	NA	unclassified

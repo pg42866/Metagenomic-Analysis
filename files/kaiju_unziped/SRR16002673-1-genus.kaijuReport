@@ -1,0 +1,14 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	13.851039	255277	2222	Methanothrix
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	8.039047	148161	2160	Methanobacterium
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	3.299373	60808	29526	Syntrophobacter
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	1.845127	34006	352450	Simplicispira
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	1.269332	23394	28231	Geobacter
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	1.217569	22440	395331	Methanoregula
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	1.083929	19977	12916	Acidovorax
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	1.051482	19379	141948	Thermomonas
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.695056	12810	872	Desulfovibrio
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.014758	272	10239	Viruses
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	51.500828	949169	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	16.132461	297324	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	24.954863	612861	NA	unclassified

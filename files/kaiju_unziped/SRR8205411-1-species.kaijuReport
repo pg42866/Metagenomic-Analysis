@@ -1,0 +1,22 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	4.568969	145101	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	3.589560	113997	2686016	Azoarcus sp. HKLI-1
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	2.103569	66805	1617419	Bacteroidetes bacterium OLB8
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	1.661097	52753	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	1.471475	46731	2013705	Betaproteobacteria bacterium HGW-Betaproteobacteria-14
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	1.408845	44742	221280	Candidatus Competibacter phosphatis
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	1.135213	36052	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	1.042574	33110	1898103	Rhodocyclaceae bacterium
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.989989	31440	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.890014	28265	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.865516	27487	1785	Mycobacterium sp.
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.860604	27331	1806508	Candidatus Promineofilum breve
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.850717	27017	1869227	bacterium
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.807515	25645	2052143	Anaerolineae bacterium
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.789063	25059	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.645067	20486	101689	Tetrasphaera elongata
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.537346	17065	1913989	Gammaproteobacteria bacterium
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.200800	6377	10239	Viruses
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	20.705410	657561	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	54.876655	1742769	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	40.577751	2168658	NA	unclassified

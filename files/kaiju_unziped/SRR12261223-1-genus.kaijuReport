@@ -1,0 +1,12 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	3.133342	170453	416	Methylomonas
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	1.138094	61912	54304	Planktothrix
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	0.998369	54311	1125	Microcystis
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	0.935979	50917	1332112	Limnoraphis
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	0.804967	43790	622681	Candidatus Planktophila
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	0.773735	42091	1152	Pseudanabaena
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	0.687081	37377	359407	Methylotenera
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	0.688036	37429	10239	Viruses
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	60.005749	3264297	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	30.834651	1677397	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	42.489883	4019186	NA	unclassified

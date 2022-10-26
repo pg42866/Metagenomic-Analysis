@@ -1,0 +1,28 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	28.967062	59337	1224	Proteobacteria
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	8.667126	17754	201174	Actinobacteria
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	5.728777	11735	976	Bacteroidetes
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	5.147845	10545	1752729	Candidatus Nomurabacteria
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	4.599620	9422	1239	Firmicutes
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	2.461885	5043	221216	Candidatus Parcubacteria
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	1.841898	3773	95818	Candidatus Saccharibacteria
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	1.771601	3629	1752734	Candidatus Kaiserbacteria
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	1.532393	3139	1619053	Candidatus Peregrinibacteria
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	1.389845	2847	200795	Chloroflexi
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	1.387892	2843	203682	Planctomycetes
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	1.333216	2731	1752737	Candidatus Moranbacteria
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	0.954389	1955	1817919	Candidatus Taylorbacteria
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	0.937791	1921	1817799	Candidatus Doudnabacteria
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	0.897273	1838	1752723	Candidatus Roizmanbacteria
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	0.853336	1748	57723	Acidobacteria
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	0.758630	1554	74201	Verrucomicrobia
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	0.709324	1453	1752731	Candidatus Magasanikbacteria
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	0.692726	1419	1817925	Candidatus Zambryskibacteria
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	0.586303	1201	1752719	Candidatus Levybacteria
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	0.585815	1200	1117	Cyanobacteria
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	0.570193	1168	203691	Spirochaetes
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	0.557012	1141	40117	Nitrospirae
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	2.399887	4916	10239	Viruses
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	14.868948	30458	NA	cannot be assigned to a (non-viral) phylum
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	9.799212	20073	NA	belong to a (non-viral) phylum with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661753011135/kaiju_output/SRR6158309-1.kaiju	79.335880	786455	NA	unclassified

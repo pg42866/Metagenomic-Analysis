@@ -1,0 +1,12 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661763331153/kaiju_output/SRR8583493-1.kaiju	13.485737	554838	561	Escherichia
+/kb/module/work/tmp/output_1661763331153/kaiju_output/SRR8583493-1.kaiju	5.261483	216471	642	Aeromonas
+/kb/module/work/tmp/output_1661763331153/kaiju_output/SRR8583493-1.kaiju	3.990853	164194	308865	Elizabethkingia
+/kb/module/work/tmp/output_1661763331153/kaiju_output/SRR8583493-1.kaiju	3.057295	125785	620	Shigella
+/kb/module/work/tmp/output_1661763331153/kaiju_output/SRR8583493-1.kaiju	2.253505	92715	570	Klebsiella
+/kb/module/work/tmp/output_1661763331153/kaiju_output/SRR8583493-1.kaiju	2.078115	85499	59732	Chryseobacterium
+/kb/module/work/tmp/output_1661763331153/kaiju_output/SRR8583493-1.kaiju	0.894426	36799	544	Citrobacter
+/kb/module/work/tmp/output_1661763331153/kaiju_output/SRR8583493-1.kaiju	0.011691	481	10239	Viruses
+/kb/module/work/tmp/output_1661763331153/kaiju_output/SRR8583493-1.kaiju	67.228500	2765954	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661763331153/kaiju_output/SRR8583493-1.kaiju	1.738394	71522	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661763331153/kaiju_output/SRR8583493-1.kaiju	0.823996	34183	NA	unclassified

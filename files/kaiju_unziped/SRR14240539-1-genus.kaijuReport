@@ -1,0 +1,16 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	5.618055	84291	2039639	Candidatus Nanopelagicus
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	2.348838	35241	504481	Sediminibacterium
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	1.858022	27877	1350	Enterococcus
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	1.358475	20382	622681	Candidatus Planktophila
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	1.352610	20294	665874	Limnohabitans
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	1.300889	19518	453161	Candidatus Nitrotoga
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	0.952905	14297	53634	Acidimicrobium
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	0.751487	11275	1679002	Candidatus Methylopumilus
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	0.723160	10850	1032526	Pedosphaera
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	0.520742	7813	2045213	Candidatus Fonsibacter
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	0.505812	7589	237	Flavobacterium
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	2.722548	40848	10239	Viruses
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	66.754494	1001557	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	13.231966	198527	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661739754930/kaiju_output/SRR14240539-1.kaiju	25.824204	522348	NA	unclassified

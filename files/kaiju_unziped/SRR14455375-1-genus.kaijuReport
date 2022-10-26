@@ -1,0 +1,26 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	4.834291	139657	501783	Cloacibacterium
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	4.179816	120750	28196	Arcobacter
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	3.018848	87211	12916	Acidovorax
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	2.881494	83243	642	Aeromonas
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	2.339209	67577	469	Acinetobacter
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	1.831538	52911	59732	Chryseobacterium
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	1.819873	52574	237	Flavobacterium
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	1.813850	52400	349	Zoogloea
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	1.637034	47292	816	Bacteroides
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	1.470984	42495	73029	Dechloromonas
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	1.466380	42362	1649488	Rivicola
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	1.362014	39347	286	Pseudomonas
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	1.293060	37355	43947	Tolumonas
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	0.926448	26764	838	Prevotella
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	0.915683	26453	2706000	Casimicrobium
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	0.668078	19300	83766	Propionivibrio
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	0.617713	17845	34102	Sphaerotilus
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	0.615601	17784	201096	Alicycliphilus
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	0.590332	17054	346096	Paludibacter
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	0.566170	16356	1234	Nitrospira
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	0.524597	15155	327159	Candidatus Accumulibacter
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	0.097581	2819	10239	Viruses
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	34.824532	1006040	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	29.704872	858139	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	23.388609	881944	NA	unclassified

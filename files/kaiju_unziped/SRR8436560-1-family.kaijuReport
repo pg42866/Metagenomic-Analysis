@@ -1,0 +1,7 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661734872787/kaiju_output/SRR8436560-1.kaiju	37.345131	182329	69277	Phyllobacteriaceae
+/kb/module/work/tmp/output_1661734872787/kaiju_output/SRR8436560-1.kaiju	0.924570	4514	255475	Aurantimonadaceae
+/kb/module/work/tmp/output_1661734872787/kaiju_output/SRR8436560-1.kaiju	0.003687	18	10239	Viruses
+/kb/module/work/tmp/output_1661734872787/kaiju_output/SRR8436560-1.kaiju	59.552418	290751	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1661734872787/kaiju_output/SRR8436560-1.kaiju	2.174194	10615	NA	belong to a (non-viral) family with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661734872787/kaiju_output/SRR8436560-1.kaiju	14.076461	79984	NA	unclassified

@@ -1,0 +1,18 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661743461129/kaiju_output/SRR11555629-1.kaiju	2.581450	64271	2026800	Verrucomicrobiaceae bacterium
+/kb/module/work/tmp/output_1661743461129/kaiju_output/SRR11555629-1.kaiju	2.130758	53050	1176	Aphanizomenon flos-aquae
+/kb/module/work/tmp/output_1661743461129/kaiju_output/SRR11555629-1.kaiju	1.319342	32848	2202144	Spirochaetes bacterium
+/kb/module/work/tmp/output_1661743461129/kaiju_output/SRR11555629-1.kaiju	1.043087	25970	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661743461129/kaiju_output/SRR11555629-1.kaiju	0.987659	24590	2026734	Dehalococcoidia bacterium
+/kb/module/work/tmp/output_1661743461129/kaiju_output/SRR11555629-1.kaiju	0.946289	23560	1352	Enterococcus faecium
+/kb/module/work/tmp/output_1661743461129/kaiju_output/SRR11555629-1.kaiju	0.862465	21473	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661743461129/kaiju_output/SRR11555629-1.kaiju	0.835795	20809	1932704	bacterium B17
+/kb/module/work/tmp/output_1661743461129/kaiju_output/SRR11555629-1.kaiju	0.811174	20196	1972459	Bacteroidetes bacterium 4572_77
+/kb/module/work/tmp/output_1661743461129/kaiju_output/SRR11555629-1.kaiju	0.696503	17341	1986638	Candidatus Endolissoclinum sp. TMED37
+/kb/module/work/tmp/output_1661743461129/kaiju_output/SRR11555629-1.kaiju	0.609505	15175	202950	Acinetobacter baylyi
+/kb/module/work/tmp/output_1661743461129/kaiju_output/SRR11555629-1.kaiju	0.606533	15101	1986725	Flavobacteriales bacterium TMED228
+/kb/module/work/tmp/output_1661743461129/kaiju_output/SRR11555629-1.kaiju	0.504955	12572	1986859	Rhodobacteraceae bacterium TMED111
+/kb/module/work/tmp/output_1661743461129/kaiju_output/SRR11555629-1.kaiju	33.770317	840788	10239	Viruses
+/kb/module/work/tmp/output_1661743461129/kaiju_output/SRR11555629-1.kaiju	9.557923	237966	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661743461129/kaiju_output/SRR11555629-1.kaiju	42.736247	1064015	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661743461129/kaiju_output/SRR11555629-1.kaiju	75.236696	7564365	NA	unclassified

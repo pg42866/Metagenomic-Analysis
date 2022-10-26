@@ -1,0 +1,22 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	5.159430	877697	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	2.845891	484129	1891241	Betaproteobacteria bacterium
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	2.837426	482689	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	2.332086	396723	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	1.924832	327443	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	1.503035	255689	2024896	Anaerolineaceae bacterium
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	1.296875	220618	2041	Aeromicrobium erythreum
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	1.153883	196293	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	1.075378	182938	2026887	Nitrospirae bacterium
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	0.926602	157629	1872119	Acidobacterium sp.
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	0.873385	148576	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	0.747735	127201	2212474	Kofleriaceae bacterium
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	0.698774	118872	2026778	Phycisphaerae bacterium
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	0.667583	113566	2052186	Verrucomicrobia subdivision 3 bacterium
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	0.659430	112179	1970530	Hydrogenophilales bacterium 28-61-23
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	0.574670	97760	2052143	Anaerolineae bacterium
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	0.515063	87620	2024894	Acidimicrobiaceae bacterium
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	0.329365	56030	10239	Viruses
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	27.413420	4663437	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	46.465135	7904422	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	38.869607	10816726	NA	unclassified

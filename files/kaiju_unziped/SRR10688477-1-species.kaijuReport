@@ -1,0 +1,16 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	4.567350	4646	60216	Xanthobacter tagetidis
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	3.751401	3816	49181	Zoogloea sp.
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	2.626767	2672	1970410	Novosphingobium sp. 32-60-15
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	1.906176	1939	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	1.123651	1143	1552750	Zoogloea oleivorans
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	1.040090	1058	70995	Lewinella cohaerens
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	0.851340	866	1523425	Novosphingobium sp. AAP83
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	0.810051	824	1898103	Rhodocyclaceae bacterium
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	0.678319	690	2728840	Zoogloea sp. G-4-1-14
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	0.578046	588	2570190	Zoogloea sp. 1C4
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	0.555435	565	1276755	Acidovorax sp. JHL-3
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	0.765813	779	10239	Viruses
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	31.554630	32098	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	49.190933	50038	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	28.732169	41010	NA	unclassified

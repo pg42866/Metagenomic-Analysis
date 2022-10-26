@@ -1,0 +1,19 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	30.887741	1680285	1224	Proteobacteria
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	13.169052	716393	976	Bacteroidetes
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	8.779105	477581	203682	Planctomycetes
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	8.339581	453671	201174	Actinobacteria
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	7.575092	412083	1117	Cyanobacteria
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	6.323946	344021	74201	Verrucomicrobia
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	3.607517	196248	1239	Firmicutes
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	3.350457	182264	200795	Chloroflexi
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	2.847881	154924	256845	Lentisphaerae
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	0.899140	48913	134625	Kiritimatiellaeota
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	0.875206	47611	57723	Acidobacteria
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	0.822044	44719	203691	Spirochaetes
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	0.782743	42581	28890	Euryarchaeota
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	0.607374	33041	67812	Candidatus Omnitrophica
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	0.688036	37429	10239	Viruses
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	4.825722	262518	NA	cannot be assigned to a (non-viral) phylum
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	5.619365	305692	NA	belong to a (non-viral) phylum with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661743018860/kaiju_output/SRR12261223-1.kaiju	42.489883	4019186	NA	unclassified

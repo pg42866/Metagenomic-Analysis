@@ -1,0 +1,26 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	17.187077	545826	28216	Betaproteobacteria
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	8.869218	281668	1236	Gammaproteobacteria
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	8.241690	261739	28211	Alphaproteobacteria
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	7.998128	254004	1760	Actinobacteria
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	5.584275	177345	28221	Deltaproteobacteria
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	2.288121	72666	117743	Flavobacteriia
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	2.276124	72285	292625	Anaerolineae
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	2.163774	68717	117747	Sphingobacteriia
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	1.547739	49153	768503	Cytophagia
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	1.467161	46594	1853228	Chitinophagia
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	1.397730	44389	1937959	Saprospiria
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	1.276217	40530	203693	Nitrospira
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	1.021509	32441	91061	Bacilli
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.946945	30073	1382928	Ardenticatenia
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.875435	27802	84992	Acidimicrobiia
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.860069	27314	475962	Caldilineae
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.812333	25798	200643	Bacteroidia
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.731723	23238	203683	Planctomycetia
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.726559	23074	186801	Clostridia
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.624474	19832	795747	Ignavibacteria
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.525790	16698	2008785	Hydrogenophilalia
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	0.200800	6377	10239	Viruses
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	27.376375	869417	NA	cannot be assigned to a (non-viral) class
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	5.000735	158813	NA	belong to a (non-viral) class with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661766480747/kaiju_output/SRR8205411-1.kaiju	40.577751	2168658	NA	unclassified

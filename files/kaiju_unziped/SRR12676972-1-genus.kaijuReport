@@ -1,0 +1,18 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	10.522082	475005	44013	Polynucleobacter
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	3.197816	144361	1855364	Candidatus Kryptobacter
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	3.156082	142477	1350	Enterococcus
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	2.147036	96925	44675	Geothrix
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	2.078787	93844	570	Klebsiella
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	1.381369	62360	28065	Rhodoferax
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	1.365287	61634	622681	Candidatus Planktophila
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	1.352195	61043	504481	Sediminibacterium
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	1.037621	46842	359407	Methylotenera
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.705792	31862	346096	Paludibacter
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.649837	29336	237	Flavobacterium
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.621860	28073	1091	Chlorobium
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.516241	23305	665874	Limnohabitans
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.335374	15140	10239	Viruses
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	46.975578	2120648	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	23.957045	1081508	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	29.572284	1895561	NA	unclassified

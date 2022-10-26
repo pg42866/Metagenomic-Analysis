@@ -1,0 +1,16 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661734963011/kaiju_output/SRR10131203-1.kaiju	18.078676	174802	665874	Limnohabitans
+/kb/module/work/tmp/output_1661734963011/kaiju_output/SRR10131203-1.kaiju	4.009428	38767	237	Flavobacterium
+/kb/module/work/tmp/output_1661734963011/kaiju_output/SRR10131203-1.kaiju	2.751589	26605	2676247	Aquirufa
+/kb/module/work/tmp/output_1661734963011/kaiju_output/SRR10131203-1.kaiju	1.904031	18410	165696	Novosphingobium
+/kb/module/work/tmp/output_1661734963011/kaiju_output/SRR10131203-1.kaiju	1.294451	12516	504481	Sediminibacterium
+/kb/module/work/tmp/output_1661734963011/kaiju_output/SRR10131203-1.kaiju	1.278731	12364	52972	Polaromonas
+/kb/module/work/tmp/output_1661734963011/kaiju_output/SRR10131203-1.kaiju	0.834112	8065	281915	Curvibacter
+/kb/module/work/tmp/output_1661734963011/kaiju_output/SRR10131203-1.kaiju	0.772989	7474	28065	Rhodoferax
+/kb/module/work/tmp/output_1661734963011/kaiju_output/SRR10131203-1.kaiju	0.645054	6237	47420	Hydrogenophaga
+/kb/module/work/tmp/output_1661734963011/kaiju_output/SRR10131203-1.kaiju	0.539975	5221	12916	Acidovorax
+/kb/module/work/tmp/output_1661734963011/kaiju_output/SRR10131203-1.kaiju	0.514947	4979	622681	Candidatus Planktophila
+/kb/module/work/tmp/output_1661734963011/kaiju_output/SRR10131203-1.kaiju	0.316994	3065	10239	Viruses
+/kb/module/work/tmp/output_1661734963011/kaiju_output/SRR10131203-1.kaiju	45.865429	443471	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661734963011/kaiju_output/SRR10131203-1.kaiju	21.193592	204920	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661734963011/kaiju_output/SRR10131203-1.kaiju	28.443640	384341	NA	unclassified

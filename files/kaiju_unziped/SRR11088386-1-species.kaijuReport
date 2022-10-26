@@ -1,0 +1,10 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	1.969886	51504	645	Aeromonas salmonicida
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	1.613230	42179	40214	Acinetobacter johnsonii
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	1.291839	33776	651	Aeromonas media
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	0.740619	19364	80878	Acidovorax temperans
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	0.599793	15682	2223	Methanothrix soehngenii
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	0.161824	4231	10239	Viruses
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	60.907192	1592460	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	32.715616	855372	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661770944123/kaiju_output/SRR11088386-1.kaiju	12.941988	388680	NA	unclassified

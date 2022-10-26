@@ -1,0 +1,17 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	1.694236	40892	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	1.335683	32238	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	1.162125	28049	1913988	Alphaproteobacteria bacterium
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	1.015414	24508	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	0.840654	20290	1977087	Proteobacteria bacterium
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	0.818281	19750	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	0.769599	18575	1891241	Betaproteobacteria bacterium
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	0.742751	17927	1913989	Gammaproteobacteria bacterium
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	0.693778	16745	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	0.609630	14714	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	0.577189	13931	1891238	Burkholderiales bacterium
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	0.572714	13823	2316721	Corallococcus sp. AB049A
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	0.352627	8511	10239	Viruses
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	25.551170	616702	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	63.264149	1526941	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	46.204749	2073038	NA	unclassified

@@ -1,0 +1,9 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	25.710443	131711	1827387	Proteobacteria bacterium SG_bin8
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	14.201248	72751	1609977	Sphingomonas hengshuiensis
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	2.478303	12696	1768757	Sphingomonas sp. CCH10-B3
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	1.719742	8810	1978763	Proteobacteria bacterium ST_bin15
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	0.017373	89	10239	Viruses
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	40.723343	208620	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	15.149546	77609	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	14.031838	83616	NA	unclassified

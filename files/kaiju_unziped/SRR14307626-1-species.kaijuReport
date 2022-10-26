@@ -1,0 +1,17 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661737183019/kaiju_output/SRR14307626-1.kaiju	5.112522	138425	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661737183019/kaiju_output/SRR14307626-1.kaiju	2.302879	62352	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661737183019/kaiju_output/SRR14307626-1.kaiju	1.551688	42013	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661737183019/kaiju_output/SRR14307626-1.kaiju	1.547219	41892	556053	Polynucleobacter acidiphobus
+/kb/module/work/tmp/output_1661737183019/kaiju_output/SRR14307626-1.kaiju	1.311103	35499	2021369	Streptomycetaceae bacterium
+/kb/module/work/tmp/output_1661737183019/kaiju_output/SRR14307626-1.kaiju	0.971204	26296	1967499	Acidimicrobiales bacterium mtb01
+/kb/module/work/tmp/output_1661737183019/kaiju_output/SRR14307626-1.kaiju	0.929617	25170	1848755	Actinobacteria bacterium IMCC26077
+/kb/module/work/tmp/output_1661737183019/kaiju_output/SRR14307626-1.kaiju	0.724155	19607	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661737183019/kaiju_output/SRR14307626-1.kaiju	0.613724	16617	1884913	Candidatus Planktophila lacus
+/kb/module/work/tmp/output_1661737183019/kaiju_output/SRR14307626-1.kaiju	0.609366	16499	1962179	Actinomycetales bacterium mxb001
+/kb/module/work/tmp/output_1661737183019/kaiju_output/SRR14307626-1.kaiju	0.598655	16209	2049319	Polynucleobacter victoriensis
+/kb/module/work/tmp/output_1661737183019/kaiju_output/SRR14307626-1.kaiju	0.561759	15210	2026771	Opitutae bacterium
+/kb/module/work/tmp/output_1661737183019/kaiju_output/SRR14307626-1.kaiju	3.506985	94954	10239	Viruses
+/kb/module/work/tmp/output_1661737183019/kaiju_output/SRR14307626-1.kaiju	28.425694	769645	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661737183019/kaiju_output/SRR14307626-1.kaiju	51.233429	1387180	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661737183019/kaiju_output/SRR14307626-1.kaiju	43.338668	2070943	NA	unclassified

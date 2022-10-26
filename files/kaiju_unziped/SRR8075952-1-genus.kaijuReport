@@ -1,0 +1,12 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661736122867/kaiju_output/SRR8075952-1.kaiju	4.536489	69022	53634	Acidimicrobium
+/kb/module/work/tmp/output_1661736122867/kaiju_output/SRR8075952-1.kaiju	1.883226	28653	167375	Cyanobium
+/kb/module/work/tmp/output_1661736122867/kaiju_output/SRR8075952-1.kaiju	1.793051	27281	1129	Synechococcus
+/kb/module/work/tmp/output_1661736122867/kaiju_output/SRR8075952-1.kaiju	1.022291	15554	44013	Polynucleobacter
+/kb/module/work/tmp/output_1661736122867/kaiju_output/SRR8075952-1.kaiju	0.629451	9577	1578	Lactobacillus
+/kb/module/work/tmp/output_1661736122867/kaiju_output/SRR8075952-1.kaiju	0.610193	9284	665874	Limnohabitans
+/kb/module/work/tmp/output_1661736122867/kaiju_output/SRR8075952-1.kaiju	0.569838	8670	125216	Roseomonas
+/kb/module/work/tmp/output_1661736122867/kaiju_output/SRR8075952-1.kaiju	0.227278	3458	10239	Viruses
+/kb/module/work/tmp/output_1661736122867/kaiju_output/SRR8075952-1.kaiju	64.577766	982541	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661736122867/kaiju_output/SRR8075952-1.kaiju	24.150419	367445	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661736122867/kaiju_output/SRR8075952-1.kaiju	34.899038	815631	NA	unclassified

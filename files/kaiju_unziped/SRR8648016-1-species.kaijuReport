@@ -1,0 +1,13 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	1.784412	12650	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	1.135535	8050	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	1.052591	7462	1100725	Limnohabitans sp. T6-20
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	1.009991	7160	540061	Limnohabitans parvus
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	0.841848	5968	2024896	Anaerolineaceae bacterium
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	0.720113	5105	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	0.627859	4451	1898103	Rhodocyclaceae bacterium
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	0.533208	3780	1913988	Alphaproteobacteria bacterium
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	0.342353	2427	10239	Viruses
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	29.661018	210272	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	62.291074	441592	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	45.909345	601692	NA	unclassified

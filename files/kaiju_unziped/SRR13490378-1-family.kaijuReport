@@ -1,0 +1,19 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	14.369114	329671	80864	Comamonadaceae
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	12.811865	293943	2162846	Candidatus Nanopelagicaceae
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	1.865839	42808	563835	Chitinophagaceae
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	1.725666	39592	2062	Streptomycetaceae
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	1.517280	34811	85023	Microbacteriaceae
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	1.494267	34283	119060	Burkholderiaceae
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	1.156953	26544	84994	Acidimicrobiaceae
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	0.967440	22196	41297	Sphingomonadaceae
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	0.956718	21950	49546	Flavobacteriaceae
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	0.735953	16885	32011	Methylophilaceae
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	0.644379	14784	31989	Rhodobacteraceae
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	0.617878	14176	85015	Nocardioidaceae
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	0.589373	13522	563798	Cyclobacteriaceae
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	0.520637	11945	89373	Cytophagaceae
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	0.537157	12324	10239	Viruses
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	50.629799	1161601	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	8.859684	203268	NA	belong to a (non-viral) family with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	26.380742	822141	NA	unclassified

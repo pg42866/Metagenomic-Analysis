@@ -1,0 +1,27 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	7.402358	92801	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	3.453466	43295	556053	Polynucleobacter acidiphobus
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	1.848017	23168	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	1.682024	21087	1848755	Actinobacteria bacterium IMCC26077
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	1.370458	17181	2049319	Polynucleobacter victoriensis
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	1.339589	16794	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	1.244030	15596	2021369	Streptomycetaceae bacterium
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	1.095027	13728	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	1.085295	13606	2026771	Opitutae bacterium
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	0.803403	10072	2588535	Candidatus Methylopumilus rimovensis
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	0.799893	10028	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	0.793990	9954	1871044	Clavibacter sp.
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	0.788805	9889	1967499	Acidimicrobiales bacterium mtb01
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	0.724354	9081	1884634	Candidatus Nanopelagicus limnes
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	0.688540	8632	2175601	Candidatus Planktophila sp.
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	0.674022	8450	573600	Candidatus Planktophila limnetica
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	0.609332	7639	913338	actinobacterium SCGC AAA027-L06
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	0.606779	7607	1917865	Sediminibacterium sp.
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	0.604147	7574	1869212	Chitinophagaceae bacterium
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	0.597287	7488	2268192	Chlorobi bacterium
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	0.574315	7200	1655566	Acidimicrobium sp. BACL19 MAG-120924-bin39
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	0.540574	6777	1884914	Candidatus Planktophila dulcis
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	1.859902	23317	10239	Viruses
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	29.648119	371689	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	39.166272	491015	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661739173091/kaiju_output/SRR8075993-1.kaiju	37.164697	741497	NA	unclassified

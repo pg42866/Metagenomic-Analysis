@@ -1,0 +1,18 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	41.263329	2195548	81852	Enterococcaceae
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	25.617588	1363066	81850	Leuconostocaceae
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	1.433482	76273	186803	Lachnospiraceae
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	1.164783	61976	1762	Mycobacteriaceae
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	1.079777	57453	506	Alcaligenaceae
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	1.005221	53486	33958	Lactobacillaceae
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.965358	51365	135621	Pseudomonadaceae
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.869997	46291	1843491	Selenomonadaceae
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.860149	45767	1300	Streptococcaceae
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.625430	33278	2012	Thermomonosporaceae
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.579121	30814	543	Enterobacteriaceae
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.555535	29559	267890	Shewanellaceae
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	0.520127	27675	2062	Streptomycetaceae
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	4.979457	264948	10239	Viruses
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	12.378578	658642	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	6.102066	324680	NA	belong to a (non-viral) family with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661867362511/kaiju_output/SRR10520228-1.kaiju	45.458424	4434711	NA	unclassified

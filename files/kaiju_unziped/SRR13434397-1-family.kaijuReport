@@ -1,0 +1,13 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	1.088732	63489	80864	Comamonadaceae
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	0.818080	47706	119060	Burkholderiaceae
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	0.790454	46095	189779	Nitrospiraceae
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	0.703597	41030	41295	Rhodospirillaceae
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	0.686397	40027	403	Methylococcaceae
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	0.675165	39372	134623	Opitutaceae
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	0.554355	32327	41294	Bradyrhizobiaceae
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	0.506871	29558	31989	Rhodobacteraceae
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	0.037349	2178	10239	Viruses
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	72.668877	4237658	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	21.470122	1252022	NA	belong to a (non-viral) family with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	45.461160	4860848	NA	unclassified

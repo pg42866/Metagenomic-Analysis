@@ -1,0 +1,20 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661761133907/kaiju_output/SRR9827769-1.kaiju	1.951958	928	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661761133907/kaiju_output/SRR9827769-1.kaiju	1.682723	800	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661761133907/kaiju_output/SRR9827769-1.kaiju	1.554415	739	1898103	Rhodocyclaceae bacterium
+/kb/module/work/tmp/output_1661761133907/kaiju_output/SRR9827769-1.kaiju	1.455555	692	2080302	Acidimicrobiia bacterium
+/kb/module/work/tmp/output_1661761133907/kaiju_output/SRR9827769-1.kaiju	1.297800	617	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661761133907/kaiju_output/SRR9827769-1.kaiju	1.259938	599	1891241	Betaproteobacteria bacterium
+/kb/module/work/tmp/output_1661761133907/kaiju_output/SRR9827769-1.kaiju	1.144251	544	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661761133907/kaiju_output/SRR9827769-1.kaiju	1.142148	543	84139	Gordonia sp.
+/kb/module/work/tmp/output_1661761133907/kaiju_output/SRR9827769-1.kaiju	0.999117	475	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661761133907/kaiju_output/SRR9827769-1.kaiju	0.889740	423	2030806	Burkholderiaceae bacterium
+/kb/module/work/tmp/output_1661761133907/kaiju_output/SRR9827769-1.kaiju	0.872912	415	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661761133907/kaiju_output/SRR9827769-1.kaiju	0.849775	404	327160	Candidatus Accumulibacter phosphatis
+/kb/module/work/tmp/output_1661761133907/kaiju_output/SRR9827769-1.kaiju	0.727778	346	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1661761133907/kaiju_output/SRR9827769-1.kaiju	0.624711	297	2482790	Thermomicrobiales bacterium
+/kb/module/work/tmp/output_1661761133907/kaiju_output/SRR9827769-1.kaiju	0.599470	285	1660252	Nitrospira sp. SCN 59-13
+/kb/module/work/tmp/output_1661761133907/kaiju_output/SRR9827769-1.kaiju	0.105170	50	10239	Viruses
+/kb/module/work/tmp/output_1661761133907/kaiju_output/SRR9827769-1.kaiju	23.356190	11104	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661761133907/kaiju_output/SRR9827769-1.kaiju	59.486347	28281	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661761133907/kaiju_output/SRR9827769-1.kaiju	35.224470	25853	NA	unclassified

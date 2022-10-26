@@ -1,0 +1,24 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	11.157168	402367	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	4.865080	175452	2164130	Cyanobium sp.
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	3.522477	127033	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	3.393788	122392	2052181	Planctomycetia bacterium
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	3.099945	111795	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	2.663410	96052	1655566	Acidimicrobium sp. BACL19 MAG-120924-bin39
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	2.269578	81849	2025606	Synechococcus sp. 8F6
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	1.299040	46848	232348	Synechococcus sp. CB0101
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	1.230939	44392	2268192	Chlorobi bacterium
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	0.970953	35016	1967499	Acidimicrobiales bacterium mtb01
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	0.735480	26524	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	0.719064	25932	1872112	Acidimicrobium sp.
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	0.682268	24605	2024894	Acidimicrobiaceae bacterium
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	0.645527	23280	1778438	Burkholderiales bacterium LSUCC0115
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	0.570743	20583	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	0.533392	19236	1504320	actinobacterium acAcidi
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	0.509074	18359	1871044	Clavibacter sp.
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	0.507854	18315	2170428	Vulcanococcus limneticus
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	0.502058	18106	2026776	Pelagibacterales bacterium
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	3.260412	117582	10239	Viruses
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	23.190624	836336	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	33.671126	1214300	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	26.948866	1330399	NA	unclassified

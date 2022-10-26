@@ -1,0 +1,23 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	3.258174	33137	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	2.985619	30365	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	2.354967	23951	2052186	Verrucomicrobia subdivision 3 bacterium
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	2.238649	22768	2172550	candidate division KSB1 bacterium
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	2.119676	21558	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	1.921160	19539	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	1.897562	19299	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	1.465525	14905	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	1.415182	14393	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	0.925822	9416	1982324	Pedosphaera sp. Tous-C6FEB
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	0.909697	9252	2026887	Nitrospirae bacterium
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	0.800262	8139	2052166	Candidatus Melainabacteria bacterium
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	0.743627	7563	1891241	Betaproteobacteria bacterium
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	0.663886	6752	1977087	Proteobacteria bacterium
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	0.642353	6533	1913988	Alphaproteobacteria bacterium
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	0.535966	5451	1869227	bacterium
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	0.512368	5211	1797193	Acidobacteria bacterium RIFCSPLOWO2_12_FULL_67_14b
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	0.502241	5108	1929291	Reyranella sp.
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	0.089377	909	10239	Viruses
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	19.784336	201215	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	54.233551	551578	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661735618270/kaiju_output/SRR12274748-1.kaiju	44.737270	823334	NA	unclassified

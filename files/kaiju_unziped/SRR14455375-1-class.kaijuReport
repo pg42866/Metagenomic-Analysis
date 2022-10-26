@@ -1,0 +1,19 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	27.900713	806019	28216	Betaproteobacteria
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	14.264891	412096	1236	Gammaproteobacteria
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	10.631341	307127	117743	Flavobacteriia
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	7.115207	205550	29547	Epsilonproteobacteria
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	6.072035	175414	28211	Alphaproteobacteria
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	5.742877	165905	200643	Bacteroidia
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	2.672348	77201	1853228	Chitinophagia
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	2.110297	60964	28221	Deltaproteobacteria
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	2.032066	58704	1760	Actinobacteria
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	1.305453	37713	768503	Cytophagia
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	1.198249	34616	186801	Clostridia
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	1.067402	30836	117747	Sphingobacteriia
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	0.648867	18745	91061	Bacilli
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	0.585590	16917	203693	Nitrospira
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	0.097581	2819	10239	Viruses
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	13.189666	381034	NA	cannot be assigned to a (non-viral) class
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	3.365418	97223	NA	belong to a (non-viral) class with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661763720586/kaiju_output/SRR14455375-1.kaiju	23.388609	881944	NA	unclassified

@@ -1,0 +1,17 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	1.562513	265807	13687	Sphingomonas
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	1.456161	247715	2040	Aeromicrobium
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	1.147388	195188	113	Gemmata
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	1.083025	184239	416	Methylomonas
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	0.955471	162540	1234	Nitrospira
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	0.932668	158661	33973	Acidobacterium
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	0.898709	152884	41275	Brevundimonas
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	0.768362	130710	1763	Mycobacterium
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	0.615871	104769	1866885	Mycolicibacterium
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	0.593140	100902	1032526	Pedosphaera
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	0.548070	93235	47420	Hydrogenophaga
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	0.531140	90355	53634	Acidimicrobium
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	0.329365	56030	10239	Viruses
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	61.886436	10527818	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	26.691678	4540658	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661748586596/kaiju_output/SRR8894379-1.kaiju	38.869607	10816726	NA	unclassified

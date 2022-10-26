@@ -1,0 +1,20 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	4.585291	124404	1763	Mycobacterium
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	3.764610	102138	237	Flavobacterium
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	1.440524	39083	1866885	Mycolicibacterium
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	1.189299	32267	501783	Cloacibacterium
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	1.167811	31684	349	Zoogloea
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	1.147134	31123	2053	Gordonia
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	1.106000	30007	816	Bacteroides
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	0.808003	21922	642	Aeromonas
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	0.800447	21717	12916	Acidovorax
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	0.779069	21137	10	Cellvibrio
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	0.751757	20396	286	Pseudomonas
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	0.721349	19571	838	Prevotella
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	0.719728	19527	2706000	Casimicrobium
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	0.571374	15502	99479	Tetrasphaera
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	0.509121	13813	469	Acinetobacter
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	0.491392	13332	10239	Viruses
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	42.665318	1157557	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	36.781773	997930	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661765775356/kaiju_output/SRR8208349-1.kaiju	40.483767	1845495	NA	unclassified

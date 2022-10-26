@@ -1,0 +1,13 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	1.282043	15676	1898956	Ottowia sp.
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	1.271084	15542	2086273	Subdoligranulum sp. APC924/74
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	1.150535	14068	853	Faecalibacterium prausnitzii
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	0.914098	11177	2072026	Brevilactibacter flavus
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	0.587780	7187	165179	Prevotella copri
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	0.563981	6896	1689272	Vitreoscilla massiliensis
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	0.538056	6579	328396	Enterococcus aquimarinus
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	0.527669	6452	2603274	Ottowia sp. GY511
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	0.060438	739	10239	Viruses
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	62.312389	761916	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	30.791929	376504	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	13.573331	192031	NA	unclassified

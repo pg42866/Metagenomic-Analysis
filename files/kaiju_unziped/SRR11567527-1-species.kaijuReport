@@ -1,0 +1,19 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661867865469/kaiju_output/SRR11567527-1.kaiju	5.583179	130982	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661867865469/kaiju_output/SRR11567527-1.kaiju	3.591117	84248	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661867865469/kaiju_output/SRR11567527-1.kaiju	2.127526	49912	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661867865469/kaiju_output/SRR11567527-1.kaiju	1.298545	30464	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661867865469/kaiju_output/SRR11567527-1.kaiju	1.288016	30217	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661867865469/kaiju_output/SRR11567527-1.kaiju	1.106005	25947	2164130	Cyanobium sp.
+/kb/module/work/tmp/output_1661867865469/kaiju_output/SRR11567527-1.kaiju	1.043985	24492	556053	Polynucleobacter acidiphobus
+/kb/module/work/tmp/output_1661867865469/kaiju_output/SRR11567527-1.kaiju	0.995562	23356	47715	Lactobacillus rhamnosus
+/kb/module/work/tmp/output_1661867865469/kaiju_output/SRR11567527-1.kaiju	0.952042	22335	1655566	Acidimicrobium sp. BACL19 MAG-120924-bin39
+/kb/module/work/tmp/output_1661867865469/kaiju_output/SRR11567527-1.kaiju	0.868155	20367	305	Ralstonia solanacearum
+/kb/module/work/tmp/output_1661867865469/kaiju_output/SRR11567527-1.kaiju	0.840448	19717	2052181	Planctomycetia bacterium
+/kb/module/work/tmp/output_1661867865469/kaiju_output/SRR11567527-1.kaiju	0.799527	18757	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661867865469/kaiju_output/SRR11567527-1.kaiju	0.644583	15122	1913988	Alphaproteobacteria bacterium
+/kb/module/work/tmp/output_1661867865469/kaiju_output/SRR11567527-1.kaiju	0.515044	12083	1483596	Methanosarcina sp. 2.H.T.1A.15
+/kb/module/work/tmp/output_1661867865469/kaiju_output/SRR11567527-1.kaiju	1.142620	26806	10239	Viruses
+/kb/module/work/tmp/output_1661867865469/kaiju_output/SRR11567527-1.kaiju	25.645617	601649	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661867865469/kaiju_output/SRR11567527-1.kaiju	51.558030	1209557	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661867865469/kaiju_output/SRR11567527-1.kaiju	49.468583	2296667	NA	unclassified

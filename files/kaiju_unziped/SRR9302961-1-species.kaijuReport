@@ -1,0 +1,18 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	4.859181	549896	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	3.710325	419884	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	3.064179	346762	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	1.044330	118183	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	0.999299	113087	1871044	Clavibacter sp.
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	0.996524	112773	1655564	Acidimicrobium sp. BACL27 MAG-120823-bin4
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	0.985019	111471	2052181	Planctomycetia bacterium
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	0.753218	85239	2026778	Phycisphaerae bacterium
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	0.691539	78259	1223	Prochlorothrix hollandica
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	0.643442	72816	1835767	Limnohabitans sp. MMS-10A-178
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	0.622305	70424	2164130	Cyanobium sp.
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	0.594876	67320	2026776	Pelagibacterales bacterium
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	0.503551	56985	2025606	Synechococcus sp. 8F6
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	1.087311	123047	10239	Viruses
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	29.987785	3393609	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	49.457118	5596883	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661747504985/kaiju_output/SRR9302961-1.kaiju	46.936059	10009779	NA	unclassified

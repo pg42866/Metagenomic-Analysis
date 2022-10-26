@@ -1,0 +1,37 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	6.158201	136536	80864	Comamonadaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	4.026266	89268	1762	Mycobacteriaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	2.275679	50455	75787	Rhodocyclaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	2.184570	48435	186804	Peptostreptococcaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	1.952740	43295	84566	Sphingobacteriaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	1.925768	42697	2008794	Zoogloeaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	1.778462	39431	41295	Rhodospirillaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	1.693938	37557	119060	Burkholderiaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	1.369015	30353	189779	Nitrospiraceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	1.330452	29498	49546	Flavobacteriaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	1.267939	28112	41297	Sphingomonadaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	1.220852	27068	31989	Rhodobacteraceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	1.169885	25938	468	Moraxellaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	0.992269	22000	75682	Oxalobacteraceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	0.962140	21332	84642	Aeromonadaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	0.902649	20013	135621	Pseudomonadaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	0.822816	18243	2062	Streptomycetaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	0.798370	17701	32033	Xanthomonadaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	0.757282	16790	41294	Bradyrhizobiaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	0.691431	15330	815	Bacteroidaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	0.677088	15012	2008795	Azonexaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	0.650026	14412	563835	Chitinophagaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	0.625671	13872	81852	Enterococcaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	0.624949	13856	69277	Phyllobacteriaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	0.615838	13654	1499392	Chromobacteriaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	0.604021	13392	481	Neisseriaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	0.584988	12970	82115	Rhizobiaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	0.576283	12777	85023	Microbacteriaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	0.562436	12470	45401	Hyphomicrobiaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	0.556843	12346	2650922	Aestuariivirgaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	0.515213	11423	543	Enterobacteriaceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	0.508493	11274	433	Acetobacteraceae
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	0.828770	18375	10239	Viruses
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	37.388962	828966	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	20.399696	452290	NA	belong to a (non-viral) family with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661761382350/kaiju_output/SRR13208889-1.kaiju	50.189924	2234049	NA	unclassified

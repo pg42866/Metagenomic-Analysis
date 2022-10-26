@@ -1,0 +1,26 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	3.098513	14407	553814	Acidovorax carolinensis
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	3.080877	14325	1736591	Phenylobacterium sp. Root700
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	2.980870	13860	1978230	Caulobacteraceae bacterium
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	2.176508	10120	538966	Dyadobacter sp. 32
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	2.070693	9628	192843	Rhodoferax ferrireducens
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	2.003592	9316	2650924	Aestuariivirga litoralis
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	1.398385	6502	28066	Rhodoferax fermentans
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	1.250417	5814	81479	Rhodoferax antarcticus
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.878991	4087	562	Escherichia coli
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.872324	4056	48464	Prosthecobacter fusiformis
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.792318	3684	100	Ancylobacter aquaticus
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.785435	3652	1352	Enterococcus faecium
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.734464	3415	408657	Dyadobacter koreensis
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.684998	3185	39769	Methylococcus sp.
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.567785	2640	1906665	archaeon
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.543482	2527	1643429	Candidatus Kryptobacter tengchongensis
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.538535	2504	1736316	Pseudorhodoferax sp. Leaf267
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.524125	2437	1411316	Pedobacter sp.
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.507780	2361	48467	Prosthecobacter debontii
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.507780	2361	1909294	Rhizobiales bacterium
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.500468	2327	1871071	Comamonadaceae bacterium
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.291205	1354	10239	Viruses
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	27.627457	128458	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	45.583001	211945	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	36.609742	268531	NA	unclassified

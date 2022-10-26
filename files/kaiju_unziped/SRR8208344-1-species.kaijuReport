@@ -1,0 +1,9 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661767915198/kaiju_output/SRR8208344-1.kaiju	2.151893	92154	237258	Cloacibacterium normanense
+/kb/module/work/tmp/output_1661767915198/kaiju_output/SRR8208344-1.kaiju	1.311979	56185	165179	Prevotella copri
+/kb/module/work/tmp/output_1661767915198/kaiju_output/SRR8208344-1.kaiju	0.956506	40962	1054498	Rivicola pingtungensis
+/kb/module/work/tmp/output_1661767915198/kaiju_output/SRR8208344-1.kaiju	0.589894	25262	28198	Arcobacter cryaerophilus
+/kb/module/work/tmp/output_1661767915198/kaiju_output/SRR8208344-1.kaiju	0.315216	13499	10239	Viruses
+/kb/module/work/tmp/output_1661767915198/kaiju_output/SRR8208344-1.kaiju	49.129902	2103969	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661767915198/kaiju_output/SRR8208344-1.kaiju	45.544606	1950430	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661767915198/kaiju_output/SRR8208344-1.kaiju	23.319431	1302345	NA	unclassified

@@ -1,0 +1,19 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	13.984847	187547	171549	Bacteroidales
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	13.268182	177936	72274	Pseudomonadales
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	12.280614	164692	80840	Burkholderiales
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	11.114757	149057	186802	Clostridiales
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	4.635616	62167	200644	Flavobacteriales
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	4.173523	55970	135624	Aeromonadales
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	3.638654	48797	213849	Campylobacterales
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	2.171768	29125	204455	Rhodobacterales
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	2.103614	28211	186826	Lactobacillales
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	1.871561	25099	206389	Rhodocyclales
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	1.681415	22549	91347	Enterobacterales
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	0.949986	12740	206351	Neisseriales
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	0.658353	8829	135614	Xanthomonadales
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	0.595419	7985	356	Rhizobiales
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	0.175606	2355	10239	Viruses
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	21.041956	282188	NA	cannot be assigned to a (non-viral) order
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	5.654129	75826	NA	belong to a (non-viral) order with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661756722323/kaiju_output/SRR8749021-1.kaiju	13.909835	216681	NA	unclassified

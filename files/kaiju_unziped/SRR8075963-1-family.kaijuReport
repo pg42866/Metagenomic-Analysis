@@ -1,0 +1,23 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	12.697790	242204	80864	Comamonadaceae
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	6.106582	116480	119060	Burkholderiaceae
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	2.596661	49530	1890426	Synechococcaceae
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	2.435188	46450	2162846	Candidatus Nanopelagicaceae
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	2.005033	38245	32011	Methylophilaceae
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	1.829301	34893	134627	Verrucomicrobia subdivision 6
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	1.329838	25366	563835	Chitinophagaceae
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	1.286901	24547	2062	Streptomycetaceae
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	1.244541	23739	75682	Oxalobacteraceae
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	1.209625	23073	84994	Acidimicrobiaceae
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	1.194789	22790	33958	Lactobacillaceae
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	0.966159	18429	433	Acetobacteraceae
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	0.961021	18331	85023	Microbacteriaceae
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	0.958819	18289	506	Alcaligenaceae
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	0.907704	17314	41297	Sphingomonadaceae
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	0.756193	14424	41295	Rhodospirillaceae
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	0.751370	14332	31989	Rhodobacteraceae
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	0.539778	10296	41294	Bradyrhizobiaceae
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	0.229521	4378	10239	Viruses
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	44.758026	853737	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	15.235157	290603	NA	belong to a (non-viral) family with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661738029233/kaiju_output/SRR8075963-1.kaiju	26.943824	703486	NA	unclassified

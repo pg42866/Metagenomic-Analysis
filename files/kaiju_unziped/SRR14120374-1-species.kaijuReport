@@ -1,0 +1,29 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	4.501661	117128	1496	Clostridioides difficile
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	3.114282	81030	2516559	Aquirufa antheringensis
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	1.969727	51250	529884	Rhodoluna lacicola
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	1.883020	48994	1798013	Flavobacteria bacterium GWA2_35_26
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	1.727441	44946	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	1.433308	37293	1100719	Limnohabitans sp. Rim11
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	1.404598	36546	2044941	Flavobacteriia bacterium
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	1.129643	29392	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	1.067573	27777	1869212	Chitinophagaceae bacterium
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	0.975793	25389	1917865	Sediminibacterium sp.
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	0.936437	24365	2094193	Limnohabitans sp. TS-CS-82
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	0.926060	24095	1884913	Candidatus Planktophila lacus
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	0.905536	23561	1884904	Candidatus Planktophila sulfonica
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	0.881400	22933	556054	Polynucleobacter difficilis
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	0.864950	22505	1835767	Limnohabitans sp. MMS-10A-178
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	0.853189	22199	351345	Polynucleobacter cosmopolitanus
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	0.792080	20609	2021369	Streptomycetaceae bacterium
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	0.745114	19387	1655562	Actinobacteria bacterium BACL15 MAG-120619-bin91
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	0.681352	17728	1826168	Limnohabitans sp. Jir61
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	0.667401	17365	232537	Rhodoluna limnophila
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	0.614555	15990	1884914	Candidatus Planktophila dulcis
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	0.601910	15661	1987356	Aurantimicrobium sp. MWH-Mo1
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	0.564207	14680	1848255	Actinobacteria bacterium IMCC25003
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	0.538763	14018	1884905	Candidatus Planktophila versatilis
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	0.929788	24192	10239	Viruses
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	30.386520	790622	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	38.903695	1012229	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661737906184/kaiju_output/SRR14120374-1.kaiju	32.329148	1243027	NA	unclassified

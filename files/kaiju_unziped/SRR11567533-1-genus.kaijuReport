@@ -1,0 +1,13 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	1.015373	24507	237	Flavobacterium
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	0.985956	23797	1234	Nitrospira
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	0.931888	22492	374	Bradyrhizobium
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	0.642195	15500	13687	Sphingomonas
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	0.626824	15129	83461	Corallococcus
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	0.588831	14212	958	Bdellovibrio
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	0.582036	14048	286	Pseudomonas
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	0.573128	13833	165696	Novosphingobium
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	0.352627	8511	10239	Viruses
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	55.050514	1328697	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	38.650629	932870	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661737013039/kaiju_output/SRR11567533-1.kaiju	46.204749	2073038	NA	unclassified

@@ -1,0 +1,20 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	14.779514	49791	171549	Bacteroidales
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	13.959369	47028	213849	Campylobacterales
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	10.837598	36511	80840	Burkholderiales
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	7.134037	24034	135624	Aeromonadales
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	7.096043	23906	72274	Pseudomonadales
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	4.810740	16207	186802	Clostridiales
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	2.708583	9125	206389	Rhodocyclales
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	2.486554	8377	206351	Neisseriales
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	2.176068	7331	200644	Flavobacteriales
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	2.160930	7280	91347	Enterobacterales
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	0.990228	3336	213115	Desulfovibrionales
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	0.680337	2292	186826	Lactobacillales
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	0.626017	2109	204441	Rhodospirillales
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	0.568431	1915	356	Rhizobiales
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	0.501941	1691	135614	Xanthomonadales
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	1.233333	4155	10239	Viruses
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	19.645763	66185	NA	cannot be assigned to a (non-viral) order
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	7.604514	25619	NA	belong to a (non-viral) order with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	17.552304	71721	NA	unclassified

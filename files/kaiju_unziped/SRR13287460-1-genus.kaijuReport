@@ -1,0 +1,16 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	20.873295	576124	57739	Vogesella
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	7.435018	205214	16	Methylophilus
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	3.284952	90668	263066	Malikia
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	1.074055	29645	359407	Methylotenera
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	1.031955	28483	81	Hyphomicrobium
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.868410	23969	378210	Methyloversatilis
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.824789	22765	286	Pseudomonas
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.745951	20589	665874	Limnohabitans
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.723271	19963	12916	Acidovorax
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.655737	18099	237	Flavobacterium
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.542480	14973	2137425	Novimethylophilus
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.851527	23503	10239	Viruses
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	36.946766	1019768	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	24.141797	666338	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	36.178800	1564639	NA	unclassified

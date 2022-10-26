@@ -1,0 +1,26 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	11.083438	250272	256839	Shewanella decolorationis
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	2.957966	66793	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	2.442128	55145	1352	Enterococcus faecium
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	1.618106	36538	1871071	Comamonadaceae bacterium
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	1.378565	31129	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	1.273564	28758	1933926	Methylococcaceae bacterium
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	1.152133	26016	1095	Chlorobium sp.
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	1.151336	25998	2026778	Phycisphaerae bacterium
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	0.991997	22400	2304002	Methylococcales bacterium
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	0.980305	22136	1898103	Rhodocyclaceae bacterium
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	0.824686	18622	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	0.822782	18579	44676	Geothrix fermentans
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	0.790055	17840	2021369	Streptomycetaceae bacterium
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	0.708613	16001	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	0.640059	14453	1891241	Betaproteobacteria bacterium
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	0.637092	14386	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	0.615658	13902	1055487	Methylotenera versatilis
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	0.588024	13278	1801835	Omnitrophica bacterium RIFOXYB12_FULL_50_7
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	0.573985	12961	2030816	Methylophilaceae bacterium
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	0.564375	12744	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	0.503925	11379	173365	Methylobacter tundripaludum
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	0.265005	5984	10239	Viruses
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	19.430470	438754	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	48.005733	1084004	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661741111411/kaiju_output/SRR8517159-1.kaiju	27.165639	842212	NA	unclassified

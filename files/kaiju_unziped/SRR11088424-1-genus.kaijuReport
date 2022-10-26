@@ -1,0 +1,13 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	1.849710	67383	2593013	Candidatus Syntrophosphaera
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	1.435973	52311	2422	Fervidobacterium
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	1.341982	48887	45989	Methanoculleus
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	1.340197	48822	2508983	Candidatus Saccharicenans
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	0.982076	35776	456826	Candidatus Cloacimonas
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	0.944578	34410	2222	Methanothrix
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	0.775345	28245	41949	Candidatus Microthrix
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	0.548684	19988	513557	Syntrophorhabdus
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	0.145873	5314	10239	Viruses
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	67.437225	2456668	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	23.198356	845092	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	40.543464	2484094	NA	unclassified

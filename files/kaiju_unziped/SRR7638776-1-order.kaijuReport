@@ -1,0 +1,10 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	26.945887	138040	204457	Sphingomonadales
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	6.215864	31843	356	Rhizobiales
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	1.790211	9171	204455	Rhodobacterales
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	0.608840	3119	204441	Rhodospirillales
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	0.512214	2624	204458	Caulobacterales
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	0.017373	89	10239	Viruses
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	61.810982	316649	NA	cannot be assigned to a (non-viral) order
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	2.098632	10751	NA	belong to a (non-viral) order with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	14.031838	83616	NA	unclassified

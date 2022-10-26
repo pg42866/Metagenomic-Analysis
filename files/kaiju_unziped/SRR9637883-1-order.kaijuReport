@@ -1,0 +1,30 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	11.444834	153502	80840	Burkholderiales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	6.811041	91352	206389	Rhodocyclales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	4.655563	62442	189778	Nitrospirales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	3.257150	43686	356	Rhizobiales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	3.240822	43467	29	Myxococcales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	2.966447	39787	574975	Holophagales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	2.733900	36668	1853229	Chitinophagales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	2.187911	29345	204455	Rhodobacterales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	1.925988	25832	200644	Flavobacteriales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	1.876108	25163	32003	Nitrosomonadales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	1.719983	23069	85006	Micrococcales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	1.480353	19855	200666	Sphingobacteriales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	1.386783	18600	204457	Sphingomonadales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	1.384173	18565	768507	Cytophagales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	1.324974	17771	85009	Propionibacteriales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	1.185848	15905	292629	Anaerolineales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	1.045753	14026	84993	Acidimicrobiales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	1.027934	13787	204441	Rhodospirillales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.844148	11322	72274	Pseudomonadales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.796804	10687	135614	Xanthomonadales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.723065	9698	85007	Corynebacteriales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.563436	7557	186802	Clostridiales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.561871	7536	48461	Verrucomicrobiales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.534881	7174	135618	Methylococcales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.529512	7102	171549	Bacteroidales
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.109302	1466	10239	Viruses
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	33.369270	447560	NA	cannot be assigned to a (non-viral) order
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	10.312145	138310	NA	belong to a (non-viral) order with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	31.911561	628607	NA	unclassified

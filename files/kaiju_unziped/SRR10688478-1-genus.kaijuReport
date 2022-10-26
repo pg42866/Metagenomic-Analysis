@@ -1,0 +1,14 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	22.965891	28480	286	Pseudomonas
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	3.054592	3788	642	Aeromonas
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	2.806225	3480	570	Klebsiella
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	2.487703	3085	561	Escherichia
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	2.182889	2707	547	Enterobacter
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	1.273284	1579	469	Acinetobacter
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	0.730586	906	12916	Acidovorax
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	0.628175	779	544	Citrobacter
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	0.555600	689	816	Bacteroides
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	0.613660	761	10239	Viruses
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	55.193130	68445	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	7.508265	9311	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	3.049019	3900	NA	unclassified

@@ -1,0 +1,20 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	13.077347	360948	2592656	Vogesella urethralis
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	3.407882	94061	1229489	beta proteobacterium L13
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	2.671206	73728	263067	Malikia granosa
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.933951	25778	450366	Vogesella perlucida
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.888156	24514	29541	Methylophilus sp.
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.676316	18667	2588534	Methylophilus medardicus
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.660664	18235	1112274	Methylophilus sp. 5
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.630412	17400	45465	Vogesella indigofera
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.623745	17216	48292	Hyphomicrobium zavarzinii
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.599978	16560	657276	Vogesella mureinivorans
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.589145	16261	1119528	Methyloversatilis discipulorum
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.556175	15351	1526735	Vogesella sp. EB
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.542480	14973	1825523	Novimethylophilus kurashikiensis
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.514075	14189	86180	Malikia spinosa
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.502300	13864	492660	Methylophilus rhizosphaerae
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.851527	23503	10239	Viruses
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	35.768475	987246	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	36.506164	1007607	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	36.178800	1564639	NA	unclassified

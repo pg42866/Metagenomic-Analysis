@@ -1,0 +1,15 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	11.093685	132277	591202	Arcicella aurantiaca
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	2.463260	29371	29581	Janthinobacterium lividum
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	2.188176	26091	74313	Brevundimonas subvibrioides
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	1.591629	18978	2057025	Spirosoma pollinicola
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	1.175816	14020	2021368	Alcaligenaceae bacterium
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	1.152418	13741	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	0.782815	9334	103	Flectobacillus major
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	0.609294	7265	1079859	Pseudarcicella hirudinis
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	0.587070	7000	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	0.513015	6117	1871086	Brevundimonas sp.
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	0.135445	1615	10239	Viruses
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	25.488380	303914	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	52.218997	622640	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	13.577846	187333	NA	unclassified

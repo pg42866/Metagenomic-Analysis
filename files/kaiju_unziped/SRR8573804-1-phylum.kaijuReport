@@ -1,0 +1,18 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	36.098835	312047	1224	Proteobacteria
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	23.695778	204832	1239	Firmicutes
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	5.998214	51850	976	Bacteroidetes
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	5.798312	50122	201174	Actinobacteria
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	3.200513	27666	95818	Candidatus Saccharibacteria
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	3.019930	26105	508458	Synergistetes
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	1.829311	15813	74201	Verrucomicrobia
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	1.579665	13655	28890	Euryarchaeota
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	1.315327	11370	200795	Chloroflexi
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	0.992453	8579	1090	Chlorobi
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	0.928711	8028	203682	Planctomycetes
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	0.549730	4752	1752737	Candidatus Moranbacteria
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	0.502531	4344	203691	Spirochaetes
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	1.970445	17033	10239	Viruses
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	7.188139	62136	NA	cannot be assigned to a (non-viral) phylum
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	5.332106	46092	NA	belong to a (non-viral) phylum with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	50.077242	867099	NA	unclassified

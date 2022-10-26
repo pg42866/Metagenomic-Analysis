@@ -1,0 +1,23 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	21.509720	452409	1760	Actinobacteria
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	9.669721	203381	28216	Betaproteobacteria
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	9.028388	189892	28211	Alphaproteobacteria
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	8.575571	180368	1236	Gammaproteobacteria
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	8.476677	178288	186801	Clostridia
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	5.888335	123848	84992	Acidimicrobiia
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	5.853961	123125	91061	Bacilli
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	3.091747	65028	200643	Bacteroidia
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	1.535414	32294	117743	Flavobacteriia
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	1.355409	28508	1382928	Ardenticatenia
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	1.218812	25635	28221	Deltaproteobacteria
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	1.078317	22680	909932	Negativicutes
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.984321	20703	292625	Anaerolineae
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.841734	17704	29547	Epsilonproteobacteria
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.634153	13338	475962	Caldilineae
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.619700	13034	84998	Coriobacteriia
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.588938	12387	1853228	Chitinophagia
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.524895	11040	32061	Chloroflexia
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	0.076832	1616	10239	Viruses
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	14.705244	309292	NA	cannot be assigned to a (non-viral) class
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	3.742113	78707	NA	belong to a (non-viral) class with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661758843255/kaiju_output/SRR14769839-1.kaiju	24.362606	677460	NA	unclassified

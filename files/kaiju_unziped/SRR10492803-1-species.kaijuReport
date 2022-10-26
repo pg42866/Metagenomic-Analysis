@@ -1,0 +1,18 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661736077749/kaiju_output/SRR10492803-1.kaiju	5.902734	111130	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661736077749/kaiju_output/SRR10492803-1.kaiju	2.381384	44834	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661736077749/kaiju_output/SRR10492803-1.kaiju	2.113947	39799	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661736077749/kaiju_output/SRR10492803-1.kaiju	1.149102	21634	1352	Enterococcus faecium
+/kb/module/work/tmp/output_1661736077749/kaiju_output/SRR10492803-1.kaiju	0.844060	15891	1970608	Verrucomicrobia bacterium 12-59-8
+/kb/module/work/tmp/output_1661736077749/kaiju_output/SRR10492803-1.kaiju	0.702985	13235	1778437	Gammaproteobacteria bacterium LSUCC0112
+/kb/module/work/tmp/output_1661736077749/kaiju_output/SRR10492803-1.kaiju	0.691671	13022	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661736077749/kaiju_output/SRR10492803-1.kaiju	0.652631	12287	2026800	Verrucomicrobiaceae bacterium
+/kb/module/work/tmp/output_1661736077749/kaiju_output/SRR10492803-1.kaiju	0.645885	12160	1913988	Alphaproteobacteria bacterium
+/kb/module/work/tmp/output_1661736077749/kaiju_output/SRR10492803-1.kaiju	0.607855	11444	748831	Brevifollis gellanilyticus
+/kb/module/work/tmp/output_1661736077749/kaiju_output/SRR10492803-1.kaiju	0.594416	11191	131080	Limnobacter thiooxidans
+/kb/module/work/tmp/output_1661736077749/kaiju_output/SRR10492803-1.kaiju	0.577366	10870	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661736077749/kaiju_output/SRR10492803-1.kaiju	0.544753	10256	2026779	Planctomycetaceae bacterium
+/kb/module/work/tmp/output_1661736077749/kaiju_output/SRR10492803-1.kaiju	0.483617	9105	10239	Viruses
+/kb/module/work/tmp/output_1661736077749/kaiju_output/SRR10492803-1.kaiju	22.685238	427092	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661736077749/kaiju_output/SRR10492803-1.kaiju	59.422356	1118737	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661736077749/kaiju_output/SRR10492803-1.kaiju	45.648125	1581199	NA	unclassified

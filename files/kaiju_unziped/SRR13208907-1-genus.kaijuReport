@@ -1,0 +1,22 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	5.487462	239472	28196	Arcobacter
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	3.379503	147481	12916	Acidovorax
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	3.194947	139427	816	Bacteroides
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	2.893227	126260	469	Acinetobacter
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	2.770449	120902	501783	Cloacibacterium
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	2.090681	91237	642	Aeromonas
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	1.809928	78985	1649488	Rivicola
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	1.571614	68585	349	Zoogloea
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	1.219344	53212	59732	Chryseobacterium
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	1.197140	52243	286	Pseudomonas
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	1.157153	50498	838	Prevotella
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	1.047300	45704	73029	Dechloromonas
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	0.961965	41980	237	Flavobacterium
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	0.865470	37769	1234	Nitrospira
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	0.799338	34883	43947	Tolumonas
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	0.518242	22616	187	Aquaspirillum
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	0.515584	22500	239759	Alistipes
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	0.195074	8513	10239	Viruses
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	40.365147	1761529	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	27.960432	1220189	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	19.924779	1085872	NA	unclassified

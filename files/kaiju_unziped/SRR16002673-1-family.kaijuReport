@@ -1,0 +1,16 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	13.851039	255277	143067	Methanotrichaceae
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	8.202312	151170	2159	Methanobacteriaceae
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	5.793598	106777	80864	Comamonadaceae
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	3.973430	73231	213465	Syntrophobacteraceae
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	3.216736	59285	1198451	Methanoregulaceae
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	2.988307	55075	32033	Xanthomonadaceae
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	1.719463	31690	292628	Anaerolineaceae
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	1.356743	25005	75787	Rhodocyclaceae
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	1.352673	24930	213422	Geobacteraceae
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.807752	14887	213119	Desulfobacteraceae
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.784312	14455	194924	Desulfovibrionaceae
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.014758	272	10239	Viruses
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	43.291950	797878	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	12.646927	233085	NA	belong to a (non-viral) family with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	24.954863	612861	NA	unclassified

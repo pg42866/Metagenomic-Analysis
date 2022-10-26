@@ -1,0 +1,17 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	41.807625	1337913	2517206	Candidatus Brocadiae
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	5.735048	183531	28216	Betaproteobacteria
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	5.225605	167228	28211	Alphaproteobacteria
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	2.735672	87546	795747	Ignavibacteria
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	2.685174	85930	292625	Anaerolineae
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	2.579242	82540	1236	Gammaproteobacteria
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	2.163138	69224	1760	Actinobacteria
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	1.607386	51439	28221	Deltaproteobacteria
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	1.376929	44064	117747	Sphingobacteriia
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	0.825145	26406	204432	Acidobacteriia
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	0.544816	17435	203693	Nitrospira
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	0.519848	16636	203683	Planctomycetia
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	0.031436	1006	10239	Viruses
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	27.346807	875143	NA	cannot be assigned to a (non-viral) class
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	4.816127	154124	NA	belong to a (non-viral) class with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661764508749/kaiju_output/SRR9827768-1.kaiju	19.491164	774759	NA	unclassified

@@ -1,0 +1,25 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	6.307591	50874	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	3.460037	27907	2164130	Cyanobium sp.
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	2.871359	23159	47715	Lactobacillus rhamnosus
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	2.696044	21745	2026771	Opitutae bacterium
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	2.107862	17001	232348	Synechococcus sp. CB0101
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	1.921017	15494	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	1.699705	13709	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	1.617503	13046	1496	Clostridioides difficile
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	1.110778	8959	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	1.045686	8434	1884907	Candidatus Planktophila vernalis
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	1.042710	8410	1504320	actinobacterium acAcidi
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	0.961128	7752	274	Thermus thermophilus
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	0.879299	7092	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	0.794617	6409	1872112	Acidimicrobium sp.
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	0.772300	6229	1884916	Candidatus Nanopelagicus abundans
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	0.644844	5201	1835767	Limnohabitans sp. MMS-10A-178
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	0.628602	5070	2209	Methanosarcina mazei
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	0.553715	4466	2170428	Vulcanococcus limneticus
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	0.546400	4407	1917865	Sediminibacterium sp.
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	0.523463	4222	1848754	Actinobacteria bacterium IMCC19121
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	0.751718	6063	10239	Viruses
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	28.041962	226173	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	39.021662	314730	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661734942276/kaiju_output/SRR12197248-1.kaiju	28.821567	326589	NA	unclassified

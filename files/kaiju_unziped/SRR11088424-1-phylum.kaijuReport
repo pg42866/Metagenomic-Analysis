@@ -1,0 +1,21 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	22.257374	810813	1224	Proteobacteria
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	12.267163	446880	976	Bacteroidetes
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	8.358351	304486	74201	Verrucomicrobia
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	7.751059	282363	200795	Chloroflexi
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	6.597553	240342	1239	Firmicutes
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	6.446383	234835	203691	Spirochaetes
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	4.337236	158001	28890	Euryarchaeota
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	3.844304	140044	456828	Candidatus Cloacimonetes
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	3.483410	126897	201174	Actinobacteria
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	3.211977	117009	67817	Candidatus Aminicenantes
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	2.744877	99993	57723	Acidobacteria
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	2.311650	84211	203682	Planctomycetes
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	2.235776	81447	200918	Thermotogae
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	0.913037	33261	508458	Synergistetes
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	0.692142	25214	67814	Caldiserica
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	0.620248	22595	62680	Candidatus Marinimicrobia
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	0.145873	5314	10239	Viruses
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	6.120213	222953	NA	cannot be assigned to a (non-viral) phylum
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	5.661375	206238	NA	belong to a (non-viral) phylum with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661772193621/kaiju_output/SRR11088424-1.kaiju	40.543464	2484094	NA	unclassified

@@ -1,0 +1,21 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661772329185/kaiju_output/SRR11088415-1.kaiju	3.379393	188877	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661772329185/kaiju_output/SRR11088415-1.kaiju	2.707798	151341	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661772329185/kaiju_output/SRR11088415-1.kaiju	1.557233	87035	2024896	Anaerolineaceae bacterium
+/kb/module/work/tmp/output_1661772329185/kaiju_output/SRR11088415-1.kaiju	1.184757	66217	2591038	Moraxellaceae bacterium AER2_44_116
+/kb/module/work/tmp/output_1661772329185/kaiju_output/SRR11088415-1.kaiju	0.988499	55248	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661772329185/kaiju_output/SRR11088415-1.kaiju	0.948689	53023	1898103	Rhodocyclaceae bacterium
+/kb/module/work/tmp/output_1661772329185/kaiju_output/SRR11088415-1.kaiju	0.892598	49888	1869212	Chitinophagaceae bacterium
+/kb/module/work/tmp/output_1661772329185/kaiju_output/SRR11088415-1.kaiju	0.867799	48502	2021391	Flavobacteriales bacterium
+/kb/module/work/tmp/output_1661772329185/kaiju_output/SRR11088415-1.kaiju	0.862861	48226	41950	Candidatus Microthrix parvicella
+/kb/module/work/tmp/output_1661772329185/kaiju_output/SRR11088415-1.kaiju	0.776532	43401	2015563	Burkholderiales bacterium PBB1
+/kb/module/work/tmp/output_1661772329185/kaiju_output/SRR11088415-1.kaiju	0.714536	39936	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661772329185/kaiju_output/SRR11088415-1.kaiju	0.660144	36896	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661772329185/kaiju_output/SRR11088415-1.kaiju	0.643093	35943	2484252	Myxococcaceae bacterium
+/kb/module/work/tmp/output_1661772329185/kaiju_output/SRR11088415-1.kaiju	0.605609	33848	1617420	Bacteroidetes bacterium OLB9
+/kb/module/work/tmp/output_1661772329185/kaiju_output/SRR11088415-1.kaiju	0.557480	31158	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1661772329185/kaiju_output/SRR11088415-1.kaiju	0.534471	29872	1913989	Gammaproteobacteria bacterium
+/kb/module/work/tmp/output_1661772329185/kaiju_output/SRR11088415-1.kaiju	0.128089	7159	10239	Viruses
+/kb/module/work/tmp/output_1661772329185/kaiju_output/SRR11088415-1.kaiju	21.775978	1217077	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661772329185/kaiju_output/SRR11088415-1.kaiju	60.214442	3365434	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661772329185/kaiju_output/SRR11088415-1.kaiju	45.885405	4739151	NA	unclassified

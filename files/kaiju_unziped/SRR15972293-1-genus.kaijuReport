@@ -1,0 +1,13 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661759897939/kaiju_output/SRR15972293-1.kaiju	29.635036	698216	41949	Candidatus Microthrix
+/kb/module/work/tmp/output_1661759897939/kaiju_output/SRR15972293-1.kaiju	1.720253	40530	1191515	Ornithinibacter
+/kb/module/work/tmp/output_1661759897939/kaiju_output/SRR15972293-1.kaiju	1.547676	36464	352450	Simplicispira
+/kb/module/work/tmp/output_1661759897939/kaiju_output/SRR15972293-1.kaiju	1.169500	27554	237	Flavobacterium
+/kb/module/work/tmp/output_1661759897939/kaiju_output/SRR15972293-1.kaiju	0.946500	22300	1988031	Candidatus Promineofilum
+/kb/module/work/tmp/output_1661759897939/kaiju_output/SRR15972293-1.kaiju	0.911356	21472	12916	Acidovorax
+/kb/module/work/tmp/output_1661759897939/kaiju_output/SRR15972293-1.kaiju	0.673246	15862	99479	Tetrasphaera
+/kb/module/work/tmp/output_1661759897939/kaiju_output/SRR15972293-1.kaiju	0.510770	12034	1060	Rhodobacter
+/kb/module/work/tmp/output_1661759897939/kaiju_output/SRR15972293-1.kaiju	0.063751	1502	10239	Viruses
+/kb/module/work/tmp/output_1661759897939/kaiju_output/SRR15972293-1.kaiju	32.040802	754897	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661759897939/kaiju_output/SRR15972293-1.kaiju	30.781108	725218	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661759897939/kaiju_output/SRR15972293-1.kaiju	24.654026	770925	NA	unclassified

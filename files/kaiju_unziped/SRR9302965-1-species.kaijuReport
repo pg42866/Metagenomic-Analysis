@@ -1,0 +1,10 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	16.239748	2485750	1126	Microcystis aeruginosa
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	2.668029	408384	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	0.785420	120221	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	0.770427	117926	513223	Microcystis panniformis
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	0.754610	115505	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	0.677421	103690	10239	Viruses
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	52.509266	8037373	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	25.595078	3917731	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	22.056454	4331454	NA	unclassified

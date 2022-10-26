@@ -1,0 +1,17 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	6.632227	162486	109265	Dolichospermum circinale
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	3.326604	81500	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	2.140945	52452	136072	Dolichospermum planctonicum
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	1.771713	43406	2588535	Candidatus Methylopumilus rimovensis
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	1.498727	36718	1710888	Anabaena sp. CRKS33
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	1.454726	35640	1126	Microcystis aeruginosa
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	1.308110	32048	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	1.043166	25557	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	1.006349	24655	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	0.768629	18831	556053	Polynucleobacter acidiphobus
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	0.676341	16570	1176	Aphanizomenon flos-aquae
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	0.512624	12559	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	2.931820	71828	10239	Viruses
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	35.456944	868676	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	39.471075	967020	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	39.074773	1571288	NA	unclassified

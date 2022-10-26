@@ -1,0 +1,12 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	23.018305	28545	135621	Pseudomonadaceae
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	15.760825	19545	543	Enterobacteriaceae
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	3.070720	3808	84642	Aeromonadaceae
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	2.023224	2509	80864	Comamonadaceae
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	1.287799	1597	468	Moraxellaceae
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	0.632207	784	541000	Ruminococcaceae
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	0.608015	754	815	Bacteroidaceae
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	0.613660	761	10239	Viruses
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	46.815578	58056	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	6.169664	7651	NA	belong to a (non-viral) family with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661751557697/kaiju_output/SRR10688478-1.kaiju	3.049019	3900	NA	unclassified

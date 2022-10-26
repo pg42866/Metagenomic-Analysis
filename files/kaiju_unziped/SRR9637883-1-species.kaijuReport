@@ -1,0 +1,25 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	2.811068	37703	44676	Geothrix fermentans
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	1.558416	20902	2053538	Candidatus Competibacteraceae bacterium
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	1.445013	19381	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	1.241991	16658	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	1.126947	15115	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	1.027710	13784	327160	Candidatus Accumulibacter phosphatis
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.986554	13232	1860102	Candidatus Accumulibacter aalborgensis
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.933842	12525	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.918184	12315	1898103	Rhodocyclaceae bacterium
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.917588	12307	1891241	Betaproteobacteria bacterium
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.816263	10948	1660252	Nitrospira sp. SCN 59-13
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.777866	10433	2570193	Dechloromonas sp. H13
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.749086	10047	2484252	Myxococcaceae bacterium
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.742674	9961	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.639635	8579	1869212	Chitinophagaceae bacterium
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.628227	8426	2024896	Anaerolineaceae bacterium
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.613763	8232	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.602878	8086	330214	Nitrospira defluvii
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.586997	7873	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.569848	7643	2109915	Simplicispira suum
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	0.109302	1466	10239	Viruses
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	22.889742	307005	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	57.306403	768613	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661759463616/kaiju_output/SRR9637883-1.kaiju	31.911561	628607	NA	unclassified

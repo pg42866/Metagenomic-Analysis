@@ -1,0 +1,11 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661767915198/kaiju_output/SRR8208344-1.kaiju	35.738842	1530502	976	Bacteroidetes
+/kb/module/work/tmp/output_1661767915198/kaiju_output/SRR8208344-1.kaiju	27.582317	1181202	1224	Proteobacteria
+/kb/module/work/tmp/output_1661767915198/kaiju_output/SRR8208344-1.kaiju	18.574694	795454	1239	Firmicutes
+/kb/module/work/tmp/output_1661767915198/kaiju_output/SRR8208344-1.kaiju	5.018376	214910	201174	Actinobacteria
+/kb/module/work/tmp/output_1661767915198/kaiju_output/SRR8208344-1.kaiju	0.565376	24212	200795	Chloroflexi
+/kb/module/work/tmp/output_1661767915198/kaiju_output/SRR8208344-1.kaiju	0.530863	22734	74201	Verrucomicrobia
+/kb/module/work/tmp/output_1661767915198/kaiju_output/SRR8208344-1.kaiju	0.315216	13499	10239	Viruses
+/kb/module/work/tmp/output_1661767915198/kaiju_output/SRR8208344-1.kaiju	7.346991	314632	NA	cannot be assigned to a (non-viral) phylum
+/kb/module/work/tmp/output_1661767915198/kaiju_output/SRR8208344-1.kaiju	4.327325	185316	NA	belong to a (non-viral) phylum with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661767915198/kaiju_output/SRR8208344-1.kaiju	23.319431	1302345	NA	unclassified

@@ -1,0 +1,27 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	4.400623	53808	816	Bacteroides
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	3.996448	48866	216851	Faecalibacterium
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	3.462236	42334	12916	Acidovorax
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	3.285746	40176	1678	Bifidobacterium
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	2.555335	31245	219181	Ottowia
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	1.969027	24076	1263	Ruminococcus
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	1.641401	20070	838	Prevotella
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	1.417477	17332	292632	Subdoligranulum
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	1.332831	16297	841	Roseburia
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	1.175560	14374	2717325	Brevilactibacter
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	1.064334	13014	1485	Clostridium
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	0.954335	11669	469	Acinetobacter
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	0.896759	10965	283	Comamonas
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	0.825771	10097	265	Paracoccus
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	0.752738	9204	237	Flavobacterium
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	0.709883	8680	1350	Enterococcus
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	0.675698	8262	33882	Microbacterium
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	0.670545	8199	59	Vitreoscilla
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	0.665393	8136	72763	Tessaracoccus
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	0.566026	6921	572511	Blautia
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	0.538546	6585	1301	Streptococcus
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	0.534621	6537	1730	Eubacterium
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	0.060438	739	10239	Viruses
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	45.123558	551742	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	20.724671	253408	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661755016790/kaiju_output/SRR1616982-1.kaiju	13.573331	192031	NA	unclassified

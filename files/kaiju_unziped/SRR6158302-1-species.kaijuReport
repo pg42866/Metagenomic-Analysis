@@ -1,0 +1,11 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	3.038752	8468	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	1.435046	3999	1332188	Candidatus Saccharimonas aalborgensis
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	1.268898	3536	2482794	Desulfurellales bacterium
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	1.267463	3532	2026720	Candidatus Saccharibacteria bacterium
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	0.589593	1643	2202144	Spirochaetes bacterium
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	0.558014	1555	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	2.050476	5714	10239	Viruses
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	31.207499	86965	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	58.584261	163255	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	72.286779	726871	NA	unclassified

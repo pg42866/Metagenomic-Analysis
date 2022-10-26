@@ -1,0 +1,14 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661734995507/kaiju_output/SRR12274745-1.kaiju	2.126392	22565	243627	Hydrocarboniphaga
+/kb/module/work/tmp/output_1661734995507/kaiju_output/SRR12274745-1.kaiju	1.662761	17645	1234	Nitrospira
+/kb/module/work/tmp/output_1661734995507/kaiju_output/SRR12274745-1.kaiju	1.366112	14497	191494	Conexibacter
+/kb/module/work/tmp/output_1661734995507/kaiju_output/SRR12274745-1.kaiju	1.284128	13627	1866885	Mycolicibacterium
+/kb/module/work/tmp/output_1661734995507/kaiju_output/SRR12274745-1.kaiju	1.159456	12304	53634	Acidimicrobium
+/kb/module/work/tmp/output_1661734995507/kaiju_output/SRR12274745-1.kaiju	0.786195	8343	445219	Reyranella
+/kb/module/work/tmp/output_1661734995507/kaiju_output/SRR12274745-1.kaiju	0.704494	7476	13687	Sphingomonas
+/kb/module/work/tmp/output_1661734995507/kaiju_output/SRR12274745-1.kaiju	0.679993	7216	1825023	Candidatus Nitrosotenuis
+/kb/module/work/tmp/output_1661734995507/kaiju_output/SRR12274745-1.kaiju	0.629861	6684	1839	Nocardioides
+/kb/module/work/tmp/output_1661734995507/kaiju_output/SRR12274745-1.kaiju	0.096213	1021	10239	Viruses
+/kb/module/work/tmp/output_1661734995507/kaiju_output/SRR12274745-1.kaiju	58.919777	625249	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661734995507/kaiju_output/SRR12274745-1.kaiju	30.584618	324560	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661734995507/kaiju_output/SRR12274745-1.kaiju	41.025901	738225	NA	unclassified

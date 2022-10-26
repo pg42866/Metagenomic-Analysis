@@ -1,0 +1,25 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	13.669960	46053	72294	Campylobacteraceae
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	8.365588	28183	80864	Comamonadaceae
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	7.057455	23776	84642	Aeromonadaceae
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	7.022429	23658	815	Bacteroidaceae
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	3.904219	13153	468	Moraxellaceae
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	2.416205	8140	135621	Pseudomonadaceae
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	2.356838	7940	171552	Prevotellaceae
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	2.125607	7161	49546	Flavobacteriaceae
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	1.590421	5358	543	Enterobacteriaceae
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	1.295667	4365	75787	Rhodocyclaceae
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	1.295074	4363	1499392	Chromobacteriaceae
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	1.238379	4172	2005525	Tannerellaceae
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	1.213742	4089	171550	Rikenellaceae
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	1.157344	3899	481	Neisseriaceae
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	1.072747	3614	541000	Ruminococcaceae
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	0.983401	3313	186803	Lachnospiraceae
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	0.837063	2820	2008794	Zoogloeaceae
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	0.836470	2818	194924	Desulfovibrionaceae
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	0.712394	2400	31979	Clostridiaceae
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	0.513815	1731	171551	Porphyromonadaceae
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	1.233333	4155	10239	Viruses
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	25.615627	86297	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	13.486221	45434	NA	belong to a (non-viral) family with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661755014958/kaiju_output/SRR8944125-1.kaiju	17.552304	71721	NA	unclassified

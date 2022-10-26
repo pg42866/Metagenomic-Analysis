@@ -1,0 +1,21 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661740745836/kaiju_output/SRR14240540-1.kaiju	20.629646	434167	28216	Betaproteobacteria
+/kb/module/work/tmp/output_1661740745836/kaiju_output/SRR14240540-1.kaiju	15.231414	320557	1760	Actinobacteria
+/kb/module/work/tmp/output_1661740745836/kaiju_output/SRR14240540-1.kaiju	7.885762	165962	28211	Alphaproteobacteria
+/kb/module/work/tmp/output_1661740745836/kaiju_output/SRR14240540-1.kaiju	3.248917	68376	91061	Bacilli
+/kb/module/work/tmp/output_1661740745836/kaiju_output/SRR14240540-1.kaiju	2.521788	53073	414999	Opitutae
+/kb/module/work/tmp/output_1661740745836/kaiju_output/SRR14240540-1.kaiju	2.503400	52686	203494	Verrucomicrobiae
+/kb/module/work/tmp/output_1661740745836/kaiju_output/SRR14240540-1.kaiju	2.178584	45850	1236	Gammaproteobacteria
+/kb/module/work/tmp/output_1661740745836/kaiju_output/SRR14240540-1.kaiju	1.965525	41366	117743	Flavobacteriia
+/kb/module/work/tmp/output_1661740745836/kaiju_output/SRR14240540-1.kaiju	1.786296	37594	1853228	Chitinophagia
+/kb/module/work/tmp/output_1661740745836/kaiju_output/SRR14240540-1.kaiju	1.372389	28883	292625	Anaerolineae
+/kb/module/work/tmp/output_1661740745836/kaiju_output/SRR14240540-1.kaiju	1.156099	24331	84992	Acidimicrobiia
+/kb/module/work/tmp/output_1661740745836/kaiju_output/SRR14240540-1.kaiju	1.067102	22458	117747	Sphingobacteriia
+/kb/module/work/tmp/output_1661740745836/kaiju_output/SRR14240540-1.kaiju	0.999630	21038	203683	Planctomycetia
+/kb/module/work/tmp/output_1661740745836/kaiju_output/SRR14240540-1.kaiju	0.892483	18783	666505	Phycisphaerae
+/kb/module/work/tmp/output_1661740745836/kaiju_output/SRR14240540-1.kaiju	0.885356	18633	768503	Cytophagia
+/kb/module/work/tmp/output_1661740745836/kaiju_output/SRR14240540-1.kaiju	0.593943	12500	28221	Deltaproteobacteria
+/kb/module/work/tmp/output_1661740745836/kaiju_output/SRR14240540-1.kaiju	0.523668	11021	10239	Viruses
+/kb/module/work/tmp/output_1661740745836/kaiju_output/SRR14240540-1.kaiju	32.407921	682050	NA	cannot be assigned to a (non-viral) class
+/kb/module/work/tmp/output_1661740745836/kaiju_output/SRR14240540-1.kaiju	2.150075	45250	NA	belong to a (non-viral) class with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661740745836/kaiju_output/SRR14240540-1.kaiju	18.028057	462859	NA	unclassified

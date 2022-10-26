@@ -1,0 +1,19 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	4.653492	99044	665874	Limnohabitans
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	4.625678	98452	453161	Candidatus Nitrotoga
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	3.894135	82882	2039639	Candidatus Nanopelagicus
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	2.680865	57059	622681	Candidatus Planktophila
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	1.772663	37729	1350	Enterococcus
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	1.454862	30965	44013	Polynucleobacter
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	0.855721	18213	1032526	Pedosphaera
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	0.790131	16817	52972	Polaromonas
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	0.789098	16795	504481	Sediminibacterium
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	0.765841	16300	35798	Nitrosospira
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	0.704714	14999	1679002	Candidatus Methylopumilus
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	0.644387	13715	286	Pseudomonas
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	0.575367	12246	914	Nitrosomonas
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	0.558688	11891	28065	Rhodoferax
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	2.099484	44685	10239	Viruses
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	53.963299	1148544	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	19.171576	408044	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661741975125/kaiju_output/SRR14240542-1.kaiju	25.742823	737848	NA	unclassified

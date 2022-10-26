@@ -1,0 +1,7 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661734872787/kaiju_output/SRR8436560-1.kaiju	36.947979	180390	28101	Phyllobacterium myrsinacearum
+/kb/module/work/tmp/output_1661734872787/kaiju_output/SRR8436560-1.kaiju	0.964306	4708	1909294	Rhizobiales bacterium
+/kb/module/work/tmp/output_1661734872787/kaiju_output/SRR8436560-1.kaiju	0.003687	18	10239	Viruses
+/kb/module/work/tmp/output_1661734872787/kaiju_output/SRR8436560-1.kaiju	59.411915	290065	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661734872787/kaiju_output/SRR8436560-1.kaiju	2.672118	13046	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661734872787/kaiju_output/SRR8436560-1.kaiju	14.076461	79984	NA	unclassified

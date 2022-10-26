@@ -1,0 +1,14 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661756443460/kaiju_output/SRR10059215-1.kaiju	3.222298	31731	477666	Bacteroides graminisolvens
+/kb/module/work/tmp/output_1661756443460/kaiju_output/SRR10059215-1.kaiju	1.319851	12997	185294	Prevotella paludivivens
+/kb/module/work/tmp/output_1661756443460/kaiju_output/SRR10059215-1.kaiju	1.156152	11385	1978237	Tolumonas sp.
+/kb/module/work/tmp/output_1661756443460/kaiju_output/SRR10059215-1.kaiju	1.085879	10693	1581011	Sulfurospirillum sp. UCH001
+/kb/module/work/tmp/output_1661756443460/kaiju_output/SRR10059215-1.kaiju	1.042212	10263	165179	Prevotella copri
+/kb/module/work/tmp/output_1661756443460/kaiju_output/SRR10059215-1.kaiju	0.778283	7664	1037355	Parabacteroides chartae
+/kb/module/work/tmp/output_1661756443460/kaiju_output/SRR10059215-1.kaiju	0.700495	6898	43948	Tolumonas auensis
+/kb/module/work/tmp/output_1661756443460/kaiju_output/SRR10059215-1.kaiju	0.593461	5844	237258	Cloacibacterium normanense
+/kb/module/work/tmp/output_1661756443460/kaiju_output/SRR10059215-1.kaiju	0.516892	5090	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661756443460/kaiju_output/SRR10059215-1.kaiju	0.199445	1964	10239	Viruses
+/kb/module/work/tmp/output_1661756443460/kaiju_output/SRR10059215-1.kaiju	40.853653	402299	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661756443460/kaiju_output/SRR10059215-1.kaiju	48.531377	477904	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661756443460/kaiju_output/SRR10059215-1.kaiju	33.014116	485327	NA	unclassified

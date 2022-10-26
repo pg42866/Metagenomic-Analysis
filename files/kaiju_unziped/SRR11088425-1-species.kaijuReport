@@ -1,0 +1,25 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	2.485612	42761	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	1.697745	29207	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	1.341129	23072	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	1.257774	21638	1913989	Gammaproteobacteria bacterium
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	1.195926	20574	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	1.098387	18896	1898103	Rhodocyclaceae bacterium
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	0.981956	16893	1866933	bacterium ADurb.BinA028
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	0.911215	15676	2024896	Anaerolineaceae bacterium
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	0.903135	15537	1806508	Candidatus Promineofilum breve
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	0.882383	15180	2212474	Kofleriaceae bacterium
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	0.756245	13010	1658518	Nitrospira sp. ND1
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	0.724798	12469	41950	Candidatus Microthrix parvicella
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	0.669983	11526	2052143	Anaerolineae bacterium
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	0.654986	11268	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	0.654928	11267	327160	Candidatus Accumulibacter phosphatis
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	0.587558	10108	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	0.545241	9380	1852791	Alphaproteobacteria bacterium ADurb.Bin100
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	0.545008	9376	748811	Sulfuritalea hydrogenivorans
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	0.520304	8951	2109915	Simplicispira suum
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	0.500308	8607	1869227	bacterium
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	0.195775	3368	10239	Viruses
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	21.495564	369797	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	59.394038	1021780	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661769002455/kaiju_output/SRR11088425-1.kaiju	38.336468	1069543	NA	unclassified

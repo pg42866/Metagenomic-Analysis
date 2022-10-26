@@ -1,0 +1,23 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	3.915352	43644	73030	Dechloromonas agitata
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	1.642969	18314	313985	Geobacter lovleyi
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	1.522398	16970	115783	Geobacter thiogenes
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	1.466508	16347	1581011	Sulfurospirillum sp. UCH001
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	1.247882	13910	1898103	Rhodocyclaceae bacterium
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	0.835659	9315	1852927	Verrucomicrobia bacterium ADurb.Bin070
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	0.782730	8725	913109	Arcobacter ellisii
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	0.724597	8077	183670	Macromonas bipunctata
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	0.661440	7373	477666	Bacteroides graminisolvens
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	0.625914	6977	28198	Arcobacter cryaerophilus
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	0.619724	6908	2013682	Bacteroidetes bacterium HGW-Bacteroidetes-14
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	0.614701	6852	1066	Rhodocyclus tenuis
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	0.602679	6718	28197	Arcobacter butzleri
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	0.587159	6545	350	Zoogloea ramigera
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	0.578906	6453	29503	Desulfomicrobium escambiense
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	0.548673	6116	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	0.525438	5857	2608630	Dechloromonas sp. CZR5
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	0.524810	5850	1978237	Tolumonas sp.
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	0.555850	6196	10239	Viruses
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	28.523741	317951	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	52.892870	589591	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661764912665/kaiju_output/SRR8584358-1.kaiju	29.237822	460572	NA	unclassified

@@ -1,0 +1,22 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	2.685279	20398	327159	Candidatus Accumulibacter
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	2.243086	17039	1234	Nitrospira
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	1.950310	14815	99479	Tetrasphaera
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	1.889095	14350	349	Zoogloea
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	1.291825	9813	73029	Dechloromonas
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	1.279582	9720	12916	Acidovorax
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	1.257071	9549	221279	Candidatus Competibacter
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	1.229689	9341	41949	Candidatus Microthrix
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.868194	6595	1400859	Candidatus Contendobacter
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.722595	5489	1030	Thiothrix
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.721674	5482	1839	Nocardioides
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.692975	5264	914	Nitrosomonas
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.630181	4787	1060	Rhodobacter
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.595559	4524	2706000	Casimicrobium
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.593716	4510	33057	Thauera
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.513544	3901	286	Pseudomonas
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.506567	3848	165696	Novosphingobium
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.096364	732	10239	Viruses
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	43.475777	330252	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	36.756918	279214	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	39.053562	486755	NA	unclassified

@@ -1,0 +1,18 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661742897349/kaiju_output/SRR12053438-1.kaiju	3.463994	250802	13687	Sphingomonas
+/kb/module/work/tmp/output_1661742897349/kaiju_output/SRR12053438-1.kaiju	2.225281	161116	1007082	Nitrosarchaeum
+/kb/module/work/tmp/output_1661742897349/kaiju_output/SRR12053438-1.kaiju	2.127826	154060	665874	Limnohabitans
+/kb/module/work/tmp/output_1661742897349/kaiju_output/SRR12053438-1.kaiju	1.951851	141319	2039639	Candidatus Nanopelagicus
+/kb/module/work/tmp/output_1661742897349/kaiju_output/SRR12053438-1.kaiju	1.457186	105504	85043	Williamsia
+/kb/module/work/tmp/output_1661742897349/kaiju_output/SRR12053438-1.kaiju	1.163053	84208	622681	Candidatus Planktophila
+/kb/module/work/tmp/output_1661742897349/kaiju_output/SRR12053438-1.kaiju	1.158343	83867	53634	Acidimicrobium
+/kb/module/work/tmp/output_1661742897349/kaiju_output/SRR12053438-1.kaiju	0.936666	67817	1032526	Pedosphaera
+/kb/module/work/tmp/output_1661742897349/kaiju_output/SRR12053438-1.kaiju	0.910728	65939	407	Methylobacterium
+/kb/module/work/tmp/output_1661742897349/kaiju_output/SRR12053438-1.kaiju	0.821173	59455	504481	Sediminibacterium
+/kb/module/work/tmp/output_1661742897349/kaiju_output/SRR12053438-1.kaiju	0.655212	47439	1679002	Candidatus Methylopumilus
+/kb/module/work/tmp/output_1661742897349/kaiju_output/SRR12053438-1.kaiju	0.638417	46223	33973	Acidobacterium
+/kb/module/work/tmp/output_1661742897349/kaiju_output/SRR12053438-1.kaiju	0.512979	37141	1298	Deinococcus
+/kb/module/work/tmp/output_1661742897349/kaiju_output/SRR12053438-1.kaiju	0.781658	56594	10239	Viruses
+/kb/module/work/tmp/output_1661742897349/kaiju_output/SRR12053438-1.kaiju	65.181389	4719299	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661742897349/kaiju_output/SRR12053438-1.kaiju	16.014242	1159472	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661742897349/kaiju_output/SRR12053438-1.kaiju	26.024243	2547080	NA	unclassified

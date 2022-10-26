@@ -1,0 +1,11 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	52.990509	1116811	72274	Pseudomonadales
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	25.482830	537068	80840	Burkholderiales
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	1.485646	31311	204458	Caulobacterales
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	0.694734	14642	200644	Flavobacteriales
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	0.553909	11674	135619	Oceanospirillales
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	0.541762	11418	135622	Alteromonadales
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	0.156057	3289	10239	Viruses
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	14.392656	303335	NA	cannot be assigned to a (non-viral) order
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	3.701897	78020	NA	belong to a (non-viral) order with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	11.947365	285964	NA	unclassified

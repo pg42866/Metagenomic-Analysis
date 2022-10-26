@@ -1,0 +1,12 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	2.404046	57770	198251	Candidatus Pelagibacter
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	2.232929	53658	1175	Aphanizomenon
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	1.262821	30346	469	Acinetobacter
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.939355	22573	1263978	Candidatus Endolissoclinum
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.790793	19003	1350	Enterococcus
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.767697	18448	286	Pseudomonas
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.506194	12164	237	Flavobacterium
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	32.251629	775017	10239	Viruses
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	40.312569	968724	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	18.531963	445329	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	74.555820	7041297	NA	unclassified

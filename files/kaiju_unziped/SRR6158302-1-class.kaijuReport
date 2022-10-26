@@ -1,0 +1,21 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	19.603685	54629	28216	Betaproteobacteria
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	11.237068	31314	28211	Alphaproteobacteria
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	10.985155	30612	1760	Actinobacteria
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	9.870563	27506	1236	Gammaproteobacteria
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	2.940068	8193	28221	Deltaproteobacteria
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	2.889829	8053	186801	Clostridia
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	2.283012	6362	200643	Bacteroidia
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	1.646051	4587	91061	Bacilli
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	1.165549	3248	1853228	Chitinophagia
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	1.146171	3194	117743	Flavobacteriia
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	0.735645	2050	768503	Cytophagia
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	0.731339	2038	203693	Nitrospira
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	0.716985	1998	117747	Sphingobacteriia
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	0.689353	1921	29547	Epsilonproteobacteria
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	0.629066	1753	84992	Acidimicrobiia
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	0.548325	1528	203683	Planctomycetia
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	2.050476	5714	10239	Viruses
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	25.982267	72404	NA	cannot be assigned to a (non-viral) class
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	4.149397	11563	NA	belong to a (non-viral) class with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661752902779/kaiju_output/SRR6158302-1.kaiju	72.286779	726871	NA	unclassified

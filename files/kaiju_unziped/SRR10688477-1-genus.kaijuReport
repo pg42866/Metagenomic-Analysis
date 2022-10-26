@@ -1,0 +1,20 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	8.176206	8317	12916	Acidovorax
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	8.060204	8199	349	Zoogloea
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	5.864022	5965	165696	Novosphingobium
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	4.835729	4919	279	Xanthobacter
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	2.132282	2169	642	Aeromonas
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	1.736104	1766	73029	Dechloromonas
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	1.317316	1340	70994	Lewinella
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	1.281925	1304	286	Pseudomonas
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	1.197381	1218	33057	Thauera
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	1.123651	1143	469	Acinetobacter
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	0.811034	825	83618	Pseudoxanthomonas
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	0.689133	701	816	Bacteroides
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	0.660624	672	92793	Aquabacterium
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	0.588860	599	34072	Variovorax
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	0.508248	517	28065	Rhodoferax
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	0.765813	779	10239	Viruses
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	29.490179	29998	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	30.761290	31291	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661751918424/kaiju_output/SRR10688477-1.kaiju	28.732169	41010	NA	unclassified

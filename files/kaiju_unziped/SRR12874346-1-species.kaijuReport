@@ -1,0 +1,24 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	9.564239	18948	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	7.353379	14568	1118279	Limnoraphis robusta
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	2.518764	4990	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	1.527916	3027	1835767	Limnohabitans sp. MMS-10A-178
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	1.184173	2346	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	0.999430	1980	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	0.877277	1738	2650924	Aestuariivirga litoralis
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	0.874249	1732	1891238	Burkholderiales bacterium
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	0.866677	1717	2026779	Planctomycetaceae bacterium
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	0.751087	1488	1504320	actinobacterium acAcidi
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	0.730896	1448	1982325	Spartobacteria bacterium AMD-G4
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	0.662248	1312	313612	Lyngbya sp. PCC 8106
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	0.656191	1300	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	0.640039	1268	1100719	Limnohabitans sp. Rim11
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	0.616820	1222	1629334	Caedimonas varicaedens
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	0.556248	1102	2201350	Phenylobacterium sp. HYN0004
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	0.553220	1096	1986661	bacterium TMED88
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	0.538077	1066	118322	Lyngbya aestuarii
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	0.500220	991	1986670	Saprospirales bacterium TMED214
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	2.454155	4862	10239	Viruses
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	20.497898	40609	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	45.076799	89303	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661735898567/kaiju_output/SRR12874346-1.kaiju	90.303683	1845065	NA	unclassified

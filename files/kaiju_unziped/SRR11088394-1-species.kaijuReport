@@ -1,0 +1,13 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661765633415/kaiju_output/SRR11088394-1.kaiju	3.815430	72748	185294	Prevotella paludivivens
+/kb/module/work/tmp/output_1661765633415/kaiju_output/SRR11088394-1.kaiju	2.184793	41657	28198	Arcobacter cryaerophilus
+/kb/module/work/tmp/output_1661765633415/kaiju_output/SRR11088394-1.kaiju	1.673486	31908	477666	Bacteroides graminisolvens
+/kb/module/work/tmp/output_1661765633415/kaiju_output/SRR11088394-1.kaiju	1.013542	19325	237258	Cloacibacterium normanense
+/kb/module/work/tmp/output_1661765633415/kaiju_output/SRR11088394-1.kaiju	0.817495	15587	252130	Uruburuella suis
+/kb/module/work/tmp/output_1661765633415/kaiju_output/SRR11088394-1.kaiju	0.706044	13462	1689272	Vitreoscilla massiliensis
+/kb/module/work/tmp/output_1661765633415/kaiju_output/SRR11088394-1.kaiju	0.672583	12824	80878	Acidovorax temperans
+/kb/module/work/tmp/output_1661765633415/kaiju_output/SRR11088394-1.kaiju	0.513248	9786	1276755	Acidovorax sp. JHL-3
+/kb/module/work/tmp/output_1661765633415/kaiju_output/SRR11088394-1.kaiju	0.213198	4065	10239	Viruses
+/kb/module/work/tmp/output_1661765633415/kaiju_output/SRR11088394-1.kaiju	44.943851	856935	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661765633415/kaiju_output/SRR11088394-1.kaiju	43.446326	828382	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661765633415/kaiju_output/SRR11088394-1.kaiju	20.592330	494448	NA	unclassified

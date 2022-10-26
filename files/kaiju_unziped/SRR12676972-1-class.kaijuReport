@@ -1,0 +1,23 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	25.652546	1158049	28216	Betaproteobacteria
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	10.112634	456521	1760	Actinobacteria
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	7.146789	322632	1236	Gammaproteobacteria
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	4.057671	183178	200643	Bacteroidia
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	3.838194	173270	91061	Bacilli
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	3.383401	152739	1853228	Chitinophagia
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	2.416354	109083	28211	Alphaproteobacteria
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	2.350010	106088	533205	Holophagae
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	2.123312	95854	28221	Deltaproteobacteria
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	1.781292	80414	117743	Flavobacteriia
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	1.756416	79291	203494	Verrucomicrobiae
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	1.539641	69505	186801	Clostridia
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	1.129639	50996	117747	Sphingobacteriia
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	1.113845	50283	768503	Cytophagia
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.802417	36224	191410	Chlorobia
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.690308	31163	134549	Spartobacteria
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.667359	30127	414999	Opitutae
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.591534	26704	224756	Methanomicrobia
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	0.335374	15140	10239	Viruses
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	25.414616	1147308	NA	cannot be assigned to a (non-viral) class
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	3.096649	139794	NA	belong to a (non-viral) class with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661743967553/kaiju_output/SRR12676972-1.kaiju	29.572284	1895561	NA	unclassified

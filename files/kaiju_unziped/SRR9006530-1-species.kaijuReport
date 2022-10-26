@@ -1,0 +1,18 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661761073324/kaiju_output/SRR9006530-1.kaiju	10.830523	180855	41950	Candidatus Microthrix parvicella
+/kb/module/work/tmp/output_1661761073324/kaiju_output/SRR9006530-1.kaiju	2.205449	36828	2591038	Moraxellaceae bacterium AER2_44_116
+/kb/module/work/tmp/output_1661761073324/kaiju_output/SRR9006530-1.kaiju	1.759784	29386	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661761073324/kaiju_output/SRR9006530-1.kaiju	1.529765	25545	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661761073324/kaiju_output/SRR9006530-1.kaiju	0.909236	15183	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661761073324/kaiju_output/SRR9006530-1.kaiju	0.763655	12752	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661761073324/kaiju_output/SRR9006530-1.kaiju	0.747007	12474	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661761073324/kaiju_output/SRR9006530-1.kaiju	0.605798	10116	2484252	Myxococcaceae bacterium
+/kb/module/work/tmp/output_1661761073324/kaiju_output/SRR9006530-1.kaiju	0.599211	10006	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661761073324/kaiju_output/SRR9006530-1.kaiju	0.573759	9581	1869212	Chitinophagaceae bacterium
+/kb/module/work/tmp/output_1661761073324/kaiju_output/SRR9006530-1.kaiju	0.572142	9554	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1661761073324/kaiju_output/SRR9006530-1.kaiju	0.538607	8994	1913989	Gammaproteobacteria bacterium
+/kb/module/work/tmp/output_1661761073324/kaiju_output/SRR9006530-1.kaiju	0.519264	8671	1898103	Rhodocyclaceae bacterium
+/kb/module/work/tmp/output_1661761073324/kaiju_output/SRR9006530-1.kaiju	0.081983	1369	10239	Viruses
+/kb/module/work/tmp/output_1661761073324/kaiju_output/SRR9006530-1.kaiju	25.624842	427900	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661761073324/kaiju_output/SRR9006530-1.kaiju	52.138978	870650	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661761073324/kaiju_output/SRR9006530-1.kaiju	44.063479	1315420	NA	unclassified

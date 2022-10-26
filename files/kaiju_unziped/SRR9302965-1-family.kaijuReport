@@ -1,0 +1,13 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	53.480083	8185972	1890449	Microcystaceae
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	1.750300	267911	80864	Comamonadaceae
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	1.112260	170249	563835	Chitinophagaceae
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	1.100265	168413	49546	Flavobacteriaceae
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	0.853770	130683	1890436	Pseudanabaenaceae
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	0.769787	117828	119060	Burkholderiaceae
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	0.704984	107909	89373	Cytophagaceae
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	0.599043	91693	76892	Caulobacteraceae
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	0.677421	103690	10239	Viruses
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	26.341736	4032019	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	12.610348	1930213	NA	belong to a (non-viral) family with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661745732778/kaiju_output/SRR9302965-1.kaiju	22.056454	4331454	NA	unclassified

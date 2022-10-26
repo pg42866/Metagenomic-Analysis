@@ -1,0 +1,17 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661759333906/kaiju_output/SRR8648017-1.kaiju	2.896790	32282	28198	Arcobacter cryaerophilus
+/kb/module/work/tmp/output_1661759333906/kaiju_output/SRR8648017-1.kaiju	0.989855	11031	1278212	Arcobacter suis
+/kb/module/work/tmp/output_1661759333906/kaiju_output/SRR8648017-1.kaiju	0.900031	10030	1912877	Pseudoarcobacter caeni
+/kb/module/work/tmp/output_1661759333906/kaiju_output/SRR8648017-1.kaiju	0.862791	9615	1852801	Bacteroidetes bacterium ADurb.Bin041
+/kb/module/work/tmp/output_1661759333906/kaiju_output/SRR8648017-1.kaiju	0.859920	9583	651	Aeromonas media
+/kb/module/work/tmp/output_1661759333906/kaiju_output/SRR8648017-1.kaiju	0.706924	7878	2015555	Pseudomonas sp. PGPPP3
+/kb/module/work/tmp/output_1661759333906/kaiju_output/SRR8648017-1.kaiju	0.703065	7835	477666	Bacteroides graminisolvens
+/kb/module/work/tmp/output_1661759333906/kaiju_output/SRR8648017-1.kaiju	0.622125	6933	185300	Paludibacter propionicigenes
+/kb/module/work/tmp/output_1661759333906/kaiju_output/SRR8648017-1.kaiju	0.585603	6526	1054033	Arcobacter venerupis
+/kb/module/work/tmp/output_1661759333906/kaiju_output/SRR8648017-1.kaiju	0.568285	6333	28197	Arcobacter butzleri
+/kb/module/work/tmp/output_1661759333906/kaiju_output/SRR8648017-1.kaiju	0.539929	6017	80882	Simplicispira psychrophila
+/kb/module/work/tmp/output_1661759333906/kaiju_output/SRR8648017-1.kaiju	0.502151	5596	237258	Cloacibacterium normanense
+/kb/module/work/tmp/output_1661759333906/kaiju_output/SRR8648017-1.kaiju	0.228104	2542	10239	Viruses
+/kb/module/work/tmp/output_1661759333906/kaiju_output/SRR8648017-1.kaiju	47.246517	526518	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661759333906/kaiju_output/SRR8648017-1.kaiju	41.787913	465687	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661759333906/kaiju_output/SRR8648017-1.kaiju	18.668488	255796	NA	unclassified

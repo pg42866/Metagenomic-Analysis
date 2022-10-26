@@ -1,0 +1,20 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	31.290405	221823	28216	Betaproteobacteria
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	9.168492	64997	28211	Alphaproteobacteria
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	7.920815	56152	1236	Gammaproteobacteria
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	3.775477	26765	117743	Flavobacteriia
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	3.294462	23355	203693	Nitrospira
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	3.149029	22324	1760	Actinobacteria
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	2.725284	19320	28221	Deltaproteobacteria
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	1.823909	12930	292625	Anaerolineae
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	1.790760	12695	1853228	Chitinophagia
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	1.424991	10102	200643	Bacteroidia
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	1.146961	8131	117747	Sphingobacteriia
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	1.110990	7876	768503	Cytophagia
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	0.996026	7061	29547	Epsilonproteobacteria
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	0.777524	5512	91061	Bacilli
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	0.678077	4807	186801	Clostridia
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	0.342353	2427	10239	Viruses
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	23.193266	164421	NA	cannot be assigned to a (non-viral) class
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	5.391181	38219	NA	belong to a (non-viral) class with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661758378955/kaiju_output/SRR8648016-1.kaiju	45.909345	601692	NA	unclassified

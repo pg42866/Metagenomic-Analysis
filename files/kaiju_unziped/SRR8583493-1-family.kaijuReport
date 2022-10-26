@@ -1,0 +1,8 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661763331153/kaiju_output/SRR8583493-1.kaiju	42.874561	1763970	543	Enterobacteriaceae
+/kb/module/work/tmp/output_1661763331153/kaiju_output/SRR8583493-1.kaiju	6.320751	260052	49546	Flavobacteriaceae
+/kb/module/work/tmp/output_1661763331153/kaiju_output/SRR8583493-1.kaiju	5.275605	217052	84642	Aeromonadaceae
+/kb/module/work/tmp/output_1661763331153/kaiju_output/SRR8583493-1.kaiju	0.011691	481	10239	Viruses
+/kb/module/work/tmp/output_1661763331153/kaiju_output/SRR8583493-1.kaiju	44.346439	1824527	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1661763331153/kaiju_output/SRR8583493-1.kaiju	1.170952	48176	NA	belong to a (non-viral) family with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661763331153/kaiju_output/SRR8583493-1.kaiju	0.823996	34183	NA	unclassified

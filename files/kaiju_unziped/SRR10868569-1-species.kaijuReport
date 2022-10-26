@@ -1,0 +1,18 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	11.737515	133493	1353941	Acinetobacter harbinensis
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	5.437788	61845	2015555	Pseudomonas sp. PGPPP3
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	5.141038	58470	2008983	Pseudomonas sp. Irchel 3E20
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	3.045935	34642	2597355	Psychrobacter sp. ANT_WB68
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	2.050524	23321	521720	Pseudomonas caeni
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	2.001286	22761	359110	Pseudomonas extremaustralis
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	1.437328	16347	1002339	Psychrobacter sp. 1501(2011)
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	0.864489	9832	216816	Bifidobacterium longum
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	0.596403	6783	122355	Pseudomonas psychrophila
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	0.582598	6626	1680	Bifidobacterium adolescentis
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	0.554726	6309	294	Pseudomonas fluorescens
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	0.540306	6145	2596826	Psychrobacter sp. YGAH215
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	0.521226	5928	1802009	Pseudomonadales bacterium RIFCSPLOWO2_12_59_9
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	0.590863	6720	10239	Viruses
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	38.174076	434161	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	26.723900	303936	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	7.803161	96258	NA	unclassified

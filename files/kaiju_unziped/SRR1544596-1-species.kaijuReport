@@ -1,0 +1,16 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661774823886/kaiju_output/SRR1544596-1.kaiju	12.611733	214234	41950	Candidatus Microthrix parvicella
+/kb/module/work/tmp/output_1661774823886/kaiju_output/SRR1544596-1.kaiju	2.524595	42885	2591038	Moraxellaceae bacterium AER2_44_116
+/kb/module/work/tmp/output_1661774823886/kaiju_output/SRR1544596-1.kaiju	1.627962	27654	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661774823886/kaiju_output/SRR1544596-1.kaiju	0.999948	16986	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661774823886/kaiju_output/SRR1544596-1.kaiju	0.681644	11579	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661774823886/kaiju_output/SRR1544596-1.kaiju	0.676346	11489	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661774823886/kaiju_output/SRR1544596-1.kaiju	0.582332	9892	1077255	Agitococcus lubricus
+/kb/module/work/tmp/output_1661774823886/kaiju_output/SRR1544596-1.kaiju	0.581096	9871	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661774823886/kaiju_output/SRR1544596-1.kaiju	0.561139	9532	1852791	Alphaproteobacteria bacterium ADurb.Bin100
+/kb/module/work/tmp/output_1661774823886/kaiju_output/SRR1544596-1.kaiju	0.544008	9241	1898103	Rhodocyclaceae bacterium
+/kb/module/work/tmp/output_1661774823886/kaiju_output/SRR1544596-1.kaiju	0.525641	8929	2484252	Myxococcaceae bacterium
+/kb/module/work/tmp/output_1661774823886/kaiju_output/SRR1544596-1.kaiju	0.081121	1378	10239	Viruses
+/kb/module/work/tmp/output_1661774823886/kaiju_output/SRR1544596-1.kaiju	26.537186	450784	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661774823886/kaiju_output/SRR1544596-1.kaiju	51.465249	874234	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661774823886/kaiju_output/SRR1544596-1.kaiju	40.313393	1147324	NA	unclassified

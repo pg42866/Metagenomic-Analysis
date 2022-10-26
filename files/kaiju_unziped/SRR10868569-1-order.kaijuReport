@@ -1,0 +1,16 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	71.463852	812772	72274	Pseudomonadales
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	4.232498	48137	85004	Bifidobacteriales
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	3.497348	39776	186802	Clostridiales
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	2.006737	22823	186826	Lactobacillales
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	1.380088	15696	84999	Coriobacteriales
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	1.097317	12480	80840	Burkholderiales
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	0.950481	10810	356	Rhizobiales
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	0.925598	10527	91347	Enterobacterales
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	0.748954	8518	85007	Corynebacteriales
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	0.550945	6266	135622	Alteromonadales
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	0.507421	5771	85006	Micrococcales
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	0.590863	6720	10239	Viruses
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	6.548998	74483	NA	cannot be assigned to a (non-viral) order
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	5.498897	62540	NA	belong to a (non-viral) order with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	7.803161	96258	NA	unclassified

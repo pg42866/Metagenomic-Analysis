@@ -1,0 +1,21 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	4.921630	287003	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	2.990468	174388	1891241	Betaproteobacteria bacterium
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	2.442766	142449	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	2.167227	126381	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	2.076923	121115	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	1.890144	110223	2053607	Candidatus Rokubacteria bacterium
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	1.005134	58614	1869227	bacterium
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	0.988586	57649	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	0.972723	56724	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	0.952077	55520	2026742	Gemmatimonadetes bacterium
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	0.845980	49333	1797484	Betaproteobacteria bacterium RIFCSPLOWO2_02_FULL_62_17
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	0.748835	43668	2026734	Dehalococcoidia bacterium
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	0.694989	40528	1797492	Betaproteobacteria bacterium RIFCSPLOWO2_02_FULL_67_26
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	0.665956	38835	1797479	Betaproteobacteria bacterium RBG_16_66_20
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	0.524311	30575	2212470	Candidatus Eisenbacteria bacterium
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	0.517589	30183	1797497	Betaproteobacteria bacterium RIFCSPLOWO2_12_FULL_62_58
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	0.037349	2178	10239	Viruses
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	25.395706	1480941	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	50.161606	2925155	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661742729653/kaiju_output/SRR13434397-1.kaiju	45.461160	4860848	NA	unclassified

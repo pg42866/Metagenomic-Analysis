@@ -1,0 +1,15 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661758681351/kaiju_output/SRR8648012-1.kaiju	5.166781	61237	28198	Arcobacter cryaerophilus
+/kb/module/work/tmp/output_1661758681351/kaiju_output/SRR8648012-1.kaiju	1.225188	14521	1278212	Arcobacter suis
+/kb/module/work/tmp/output_1661758681351/kaiju_output/SRR8648012-1.kaiju	1.090359	12923	1852801	Bacteroidetes bacterium ADurb.Bin041
+/kb/module/work/tmp/output_1661758681351/kaiju_output/SRR8648012-1.kaiju	1.076100	12754	1912877	Pseudoarcobacter caeni
+/kb/module/work/tmp/output_1661758681351/kaiju_output/SRR8648012-1.kaiju	0.952746	11292	2015555	Pseudomonas sp. PGPPP3
+/kb/module/work/tmp/output_1661758681351/kaiju_output/SRR8648012-1.kaiju	0.924227	10954	651	Aeromonas media
+/kb/module/work/tmp/output_1661758681351/kaiju_output/SRR8648012-1.kaiju	0.883728	10474	28197	Arcobacter butzleri
+/kb/module/work/tmp/output_1661758681351/kaiju_output/SRR8648012-1.kaiju	0.689500	8172	1054033	Arcobacter venerupis
+/kb/module/work/tmp/output_1661758681351/kaiju_output/SRR8648012-1.kaiju	0.643854	7631	477666	Bacteroides graminisolvens
+/kb/module/work/tmp/output_1661758681351/kaiju_output/SRR8648012-1.kaiju	0.532144	6307	181070	Proteocatella sphenisci
+/kb/module/work/tmp/output_1661758681351/kaiju_output/SRR8648012-1.kaiju	0.129513	1535	10239	Viruses
+/kb/module/work/tmp/output_1661758681351/kaiju_output/SRR8648012-1.kaiju	50.345676	596700	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661758681351/kaiju_output/SRR8648012-1.kaiju	36.340180	430706	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661758681351/kaiju_output/SRR8648012-1.kaiju	18.138072	262605	NA	unclassified

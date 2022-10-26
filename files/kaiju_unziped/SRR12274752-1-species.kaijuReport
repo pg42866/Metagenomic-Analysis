@@ -1,0 +1,18 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	2.214651	24524	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	2.041535	22607	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	1.467463	16250	1909294	Rhizobiales bacterium
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	1.181556	13084	2052166	Candidatus Melainabacteria bacterium
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	1.104074	12226	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	1.087368	12041	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	0.915426	10137	459	Legionella sp.
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	0.869009	9623	1913988	Alphaproteobacteria bacterium
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	0.829546	9186	1907725	Limnohabitans sp.
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	0.663655	7349	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	0.631145	6989	2516559	Aquirufa antheringensis
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	0.622114	6889	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	0.532351	5895	1891241	Betaproteobacteria bacterium
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	0.064478	714	10239	Viruses
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	26.155796	289637	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	59.619832	660202	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661735296619/kaiju_output/SRR12274752-1.kaiju	38.435274	691328	NA	unclassified

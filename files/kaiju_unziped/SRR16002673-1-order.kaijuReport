@@ -1,0 +1,21 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	14.331013	264123	94695	Methanosarcinales
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	8.912723	164263	2158	Methanobacteriales
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	8.306109	153083	80840	Burkholderiales
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	7.037645	129705	206389	Rhodocyclales
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	4.629691	85326	213462	Syntrophobacterales
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	4.397029	81038	2191	Methanomicrobiales
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	3.117172	57450	135614	Xanthomonadales
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	1.939808	35751	292629	Anaerolineales
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	1.475787	27199	69541	Desulfuromonadales
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	1.114965	20549	186802	Clostridiales
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	1.060869	19552	213118	Desulfobacterales
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.875901	16143	213115	Desulfovibrionales
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.797985	14707	189769	Chrysiogenales
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.738246	13606	356	Rhizobiales
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.721697	13301	32003	Nitrosomonadales
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.507592	9355	171549	Bacteroidales
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	0.014758	272	10239	Viruses
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	31.834757	586720	NA	cannot be assigned to a (non-viral) order
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	8.186251	150874	NA	belong to a (non-viral) order with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661759709454/kaiju_output/SRR16002673-1.kaiju	24.954863	612861	NA	unclassified

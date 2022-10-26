@@ -1,0 +1,10 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	4.900192	114522	2250122	Candidatus Bipolaricaulis
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	1.244410	29083	45989	Methanoculleus
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	0.661934	15470	182623	Smithella
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	0.656371	15340	456826	Candidatus Cloacimonas
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	0.556889	13015	2508983	Candidatus Saccharicenans
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	0.163494	3821	10239	Viruses
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	69.743256	1629964	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	22.073457	515877	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	38.776678	1480231	NA	unclassified

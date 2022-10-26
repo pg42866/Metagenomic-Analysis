@@ -1,0 +1,13 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	26.156548	311881	28216	Betaproteobacteria
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	21.716709	258942	768503	Cytophagia
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	17.212460	205235	117743	Flavobacteriia
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	12.358150	147354	28211	Alphaproteobacteria
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	5.473166	65260	1760	Actinobacteria
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	3.771754	44973	1236	Gammaproteobacteria
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	1.842560	21970	117747	Sphingobacteriia
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	1.034836	12339	1853228	Chitinophagia
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	0.135445	1615	10239	Viruses
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	7.133231	85054	NA	cannot be assigned to a (non-viral) class
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	3.165143	37740	NA	belong to a (non-viral) class with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661736978748/kaiju_output/SRR10868588-1.kaiju	13.577846	187333	NA	unclassified

@@ -1,0 +1,19 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661774974746/kaiju_output/SRR9637882-1.kaiju	7.374189	128269	327159	Candidatus Accumulibacter
+/kb/module/work/tmp/output_1661774974746/kaiju_output/SRR9637882-1.kaiju	2.340764	40716	83766	Propionivibrio
+/kb/module/work/tmp/output_1661774974746/kaiju_output/SRR9637882-1.kaiju	1.678824	29202	73029	Dechloromonas
+/kb/module/work/tmp/output_1661774974746/kaiju_output/SRR9637882-1.kaiju	1.449324	25210	237	Flavobacterium
+/kb/module/work/tmp/output_1661774974746/kaiju_output/SRR9637882-1.kaiju	1.141867	19862	165696	Novosphingobium
+/kb/module/work/tmp/output_1661774974746/kaiju_output/SRR9637882-1.kaiju	1.123068	19535	12916	Acidovorax
+/kb/module/work/tmp/output_1661774974746/kaiju_output/SRR9637882-1.kaiju	0.828374	14409	2706000	Casimicrobium
+/kb/module/work/tmp/output_1661774974746/kaiju_output/SRR9637882-1.kaiju	0.721040	12542	914	Nitrosomonas
+/kb/module/work/tmp/output_1661774974746/kaiju_output/SRR9637882-1.kaiju	0.718855	12504	28065	Rhodoferax
+/kb/module/work/tmp/output_1661774974746/kaiju_output/SRR9637882-1.kaiju	0.701781	12207	349	Zoogloea
+/kb/module/work/tmp/output_1661774974746/kaiju_output/SRR9637882-1.kaiju	0.618248	10754	221279	Candidatus Competibacter
+/kb/module/work/tmp/output_1661774974746/kaiju_output/SRR9637882-1.kaiju	0.616868	10730	219181	Ottowia
+/kb/module/work/tmp/output_1661774974746/kaiju_output/SRR9637882-1.kaiju	0.573118	9969	1234	Nitrospira
+/kb/module/work/tmp/output_1661774974746/kaiju_output/SRR9637882-1.kaiju	0.549260	9554	286	Pseudomonas
+/kb/module/work/tmp/output_1661774974746/kaiju_output/SRR9637882-1.kaiju	0.103999	1809	10239	Viruses
+/kb/module/work/tmp/output_1661774974746/kaiju_output/SRR9637882-1.kaiju	44.480957	773716	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661774974746/kaiju_output/SRR9637882-1.kaiju	34.979466	608444	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661774974746/kaiju_output/SRR9637882-1.kaiju	27.768290	668696	NA	unclassified

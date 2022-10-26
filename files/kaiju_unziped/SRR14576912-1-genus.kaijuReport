@@ -1,0 +1,15 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	11.485192	281381	748770	Dolichospermum
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	4.954027	121371	1125	Microcystis
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	2.248866	55096	1163	Anabaena
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	2.162170	52972	1679002	Candidatus Methylopumilus
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	1.725385	42271	665874	Limnohabitans
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	1.623138	39766	44013	Polynucleobacter
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	0.859366	21054	12916	Acidovorax
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	0.761241	18650	1175	Aphanizomenon
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	0.668709	16383	53634	Acidimicrobium
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	0.537604	13171	20	Phenylobacterium
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	2.931820	71828	10239	Viruses
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	46.053627	1128289	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	23.988855	587714	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661736006399/kaiju_output/SRR14576912-1.kaiju	39.074773	1571288	NA	unclassified

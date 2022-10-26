@@ -1,0 +1,19 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	22.494104	620860	1499392	Chromobacteriaceae
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	12.284841	339074	32011	Methylophilaceae
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	8.230098	227159	80864	Comamonadaceae
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	1.412774	38994	119060	Burkholderiaceae
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	1.243976	34335	45401	Hyphomicrobiaceae
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	1.198217	33072	49546	Flavobacteriaceae
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.962537	26567	2008793	Sterolibacteriaceae
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.868338	23967	135621	Pseudomonadaceae
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.784863	21663	2008794	Zoogloeaceae
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.763813	21082	75787	Rhodocyclaceae
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.730227	20155	75682	Oxalobacteraceae
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.637042	17583	506	Alcaligenaceae
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.552226	15242	468	Moraxellaceae
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.504076	13913	31989	Rhodobacteraceae
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	0.851527	23503	10239	Viruses
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	32.288567	891197	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	14.192778	391735	NA	belong to a (non-viral) family with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661761499881/kaiju_output/SRR13287460-1.kaiju	36.178800	1564639	NA	unclassified

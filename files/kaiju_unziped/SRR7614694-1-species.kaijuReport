@@ -1,0 +1,13 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	26.487259	558237	521720	Pseudomonas caeni
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	4.921312	103720	1895689	Candidatus Accumulibacter sp. 66-26
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	4.835669	101915	2008983	Pseudomonas sp. Irchel 3E20
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	3.112260	65593	2015555	Pseudomonas sp. PGPPP3
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	2.063231	43484	29581	Janthinobacterium lividum
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	2.056446	43341	2604941	Pseudomonas sp. C27(2019)
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	0.519366	10946	1697053	Oblitimonas alkaliphila
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	0.510921	10768	2590869	Janthinobacterium sp. SNU WT3
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	0.156057	3289	10239	Viruses
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	41.707455	879013	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	13.630022	287262	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	11.947365	285964	NA	unclassified

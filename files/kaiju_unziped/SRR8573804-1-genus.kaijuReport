@@ -1,0 +1,25 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	2.479917	21437	265	Paracoccus
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	1.912603	16533	1060	Rhodobacter
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	1.857885	16060	1485	Clostridium
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	1.319376	11405	292632	Subdoligranulum
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	1.204039	10408	816	Bacteroides
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	1.150824	9948	41275	Brevundimonas
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	0.912168	7885	838	Prevotella
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	0.802153	6934	1730	Eubacterium
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	0.791510	6842	216851	Faecalibacterium
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	0.779016	6734	1091	Chlorobium
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	0.758077	6553	2222	Methanothrix
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	0.757267	6546	158846	Megamonas
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	0.708564	6125	1678	Bifidobacterium
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	0.679412	5873	561	Escherichia
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	0.623421	5389	286	Pseudomonas
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	0.610002	5273	13687	Sphingomonas
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	0.604796	5228	1073	Rhodopseudomonas
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	0.601210	5197	469	Acinetobacter
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	0.580387	5017	1301	Streptococcus
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	0.541517	4681	204456	Gemmobacter
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	1.970445	17033	10239	Viruses
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	44.641636	385893	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	33.713779	291430	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661757329611/kaiju_output/SRR8573804-1.kaiju	50.077242	867099	NA	unclassified

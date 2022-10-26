@@ -1,0 +1,31 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	8.213092	38188	12916	Acidovorax
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	5.183831	24103	28065	Rhodoferax
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	4.524857	21039	120831	Dyadobacter
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	4.521846	21025	20	Phenylobacterium
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	2.208338	10268	99	Ancylobacter
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	2.003592	9316	2650923	Aestuariivirga
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	1.978859	9201	41275	Brevundimonas
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	1.896702	8819	84567	Pedobacter
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	1.670233	7766	13687	Sphingomonas
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	1.415590	6582	48463	Prosthecobacter
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	1.225253	5697	1763	Mycobacterium
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.987601	4592	165696	Novosphingobium
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.892970	4152	34072	Variovorax
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.886949	4124	561	Escherichia
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.849311	3949	166953	Kaistia
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.813610	3783	1350	Enterococcus
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.736615	3425	747294	Pseudorhodoferax
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.729087	3390	413	Methylococcus
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.717688	3337	75	Caulobacter
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.678546	3155	165695	Sphingobium
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.637467	2964	379	Rhizobium
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.579829	2696	85413	Bosea
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.553375	2573	33882	Microbacterium
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.543482	2527	1855364	Candidatus Kryptobacter
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.535309	2489	52972	Polaromonas
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.516813	2403	1866885	Mycolicibacterium
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	0.291205	1354	10239	Viruses
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	27.295172	126913	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	26.912779	125135	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661757751771/kaiju_output/SRR10868563-1.kaiju	36.609742	268531	NA	unclassified

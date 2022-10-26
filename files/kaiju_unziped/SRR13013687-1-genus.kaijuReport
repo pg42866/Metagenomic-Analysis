@@ -1,0 +1,13 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	6.165978	222367	1129	Synechococcus
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	6.028749	217418	167375	Cyanobium
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	4.095743	147707	53634	Acidimicrobium
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	0.549863	19830	246875	Algoriphagus
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	0.546175	19697	682522	Ilumatobacter
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	0.529288	19088	125216	Roseomonas
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	0.511375	18442	1573	Clavibacter
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	0.507854	18315	2170427	Vulcanococcus
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	3.260412	117582	10239	Viruses
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	59.306686	2138809	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	18.497878	667099	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661739152085/kaiju_output/SRR13013687-1.kaiju	26.948866	1330399	NA	unclassified

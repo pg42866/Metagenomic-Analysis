@@ -1,0 +1,17 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	2.931133	96821	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	2.673352	88306	1785	Mycobacterium sp.
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	1.744039	57609	1898103	Rhodocyclaceae bacterium
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	1.227358	40542	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	0.978901	32335	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	0.944419	31196	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	0.866676	28628	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	0.844637	27900	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	0.718002	23717	2591109	Casimicrobium huifangae
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	0.631540	20861	1891241	Betaproteobacteria bacterium
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	0.534573	17658	748811	Sulfuritalea hydrogenivorans
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	0.512928	16943	2080302	Acidimicrobiia bacterium
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	0.068449	2261	10239	Viruses
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	24.547726	810859	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	60.776269	2007558	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661767997773/kaiju_output/SRR9827762-1.kaiju	34.003013	1701874	NA	unclassified

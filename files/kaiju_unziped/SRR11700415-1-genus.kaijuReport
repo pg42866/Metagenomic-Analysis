@@ -1,0 +1,16 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	5.771838	156828	237	Flavobacterium
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	5.240615	142394	570	Klebsiella
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	2.575996	69993	44013	Polynucleobacter
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	2.165341	58835	469	Acinetobacter
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	1.834145	49836	52972	Polaromonas
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	1.690574	45935	665874	Limnohabitans
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	1.067011	28992	53634	Acidimicrobium
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	0.824033	22390	1129	Synechococcus
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	0.762461	20717	2676247	Aquirufa
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	0.754621	20504	622681	Candidatus Planktophila
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	0.716861	19478	1175	Aphanizomenon
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	2.726339	74078	10239	Viruses
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	56.579643	1537339	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	17.290525	469805	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661740370096/kaiju_output/SRR11700415-1.kaiju	39.926189	1805852	NA	unclassified

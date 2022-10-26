@@ -1,0 +1,24 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	2.708120	65077	2026800	Verrucomicrobiaceae bacterium
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	2.232929	53658	1176	Aphanizomenon flos-aquae
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	1.326283	31871	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	1.033236	24829	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	1.023540	24596	2202144	Spirochaetes bacterium
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	1.012388	24328	2026734	Dehalococcoidia bacterium
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.919963	22107	1986638	Candidatus Endolissoclinum sp. TMED37
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.916717	22029	1932704	bacterium B17
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.827663	19889	1972459	Bacteroidetes bacterium 4572_77
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.824750	19819	1986725	Flavobacteriales bacterium TMED228
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.705567	16955	1352	Enterococcus faecium
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.681805	16384	202950	Acinetobacter baylyi
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.560625	13472	1986829	Pelagibacteraceae bacterium TMED287
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.557629	13400	1986811	Candidatus Pelagibacter sp. TMED203
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.547600	13159	1986859	Rhodobacteraceae bacterium TMED111
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.525295	12623	2026749	Ignavibacteriae bacterium
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.516889	12421	1986728	Crocinitomicaceae bacterium TMED45
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.505528	12148	1986830	Candidatus Pelagibacter sp. TMED64
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	0.501034	12040	1986808	Candidatus Pelagibacter sp. TMED197
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	32.251629	775017	10239	Viruses
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	9.801492	235533	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	40.019318	961677	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661743331126/kaiju_output/SRR11472087-1.kaiju	74.555820	7041297	NA	unclassified

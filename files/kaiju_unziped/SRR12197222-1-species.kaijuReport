@@ -1,0 +1,21 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661734964121/kaiju_output/SRR12197222-1.kaiju	7.172994	52516	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661734964121/kaiju_output/SRR12197222-1.kaiju	5.296018	38774	305	Ralstonia solanacearum
+/kb/module/work/tmp/output_1661734964121/kaiju_output/SRR12197222-1.kaiju	3.323158	24330	1835767	Limnohabitans sp. MMS-10A-178
+/kb/module/work/tmp/output_1661734964121/kaiju_output/SRR12197222-1.kaiju	2.981417	21828	1871071	Comamonadaceae bacterium
+/kb/module/work/tmp/output_1661734964121/kaiju_output/SRR12197222-1.kaiju	2.843328	20817	1776045	Clostridium sp. C105KSO13
+/kb/module/work/tmp/output_1661734964121/kaiju_output/SRR12197222-1.kaiju	1.872332	13708	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661734964121/kaiju_output/SRR12197222-1.kaiju	1.453967	10645	1496	Clostridioides difficile
+/kb/module/work/tmp/output_1661734964121/kaiju_output/SRR12197222-1.kaiju	1.426240	10442	1100719	Limnohabitans sp. Rim11
+/kb/module/work/tmp/output_1661734964121/kaiju_output/SRR12197222-1.kaiju	1.352210	9900	1884916	Candidatus Nanopelagicus abundans
+/kb/module/work/tmp/output_1661734964121/kaiju_output/SRR12197222-1.kaiju	1.106763	8103	1977911	Limnohabitans sp. 2KL-51
+/kb/module/work/tmp/output_1661734964121/kaiju_output/SRR12197222-1.kaiju	0.964440	7061	556053	Polynucleobacter acidiphobus
+/kb/module/work/tmp/output_1661734964121/kaiju_output/SRR12197222-1.kaiju	0.779091	5704	2026776	Pelagibacterales bacterium
+/kb/module/work/tmp/output_1661734964121/kaiju_output/SRR12197222-1.kaiju	0.606582	4441	1884913	Candidatus Planktophila lacus
+/kb/module/work/tmp/output_1661734964121/kaiju_output/SRR12197222-1.kaiju	0.597567	4375	1504320	actinobacterium acAcidi
+/kb/module/work/tmp/output_1661734964121/kaiju_output/SRR12197222-1.kaiju	0.575304	4212	269660	Methylobacterium brachiatum
+/kb/module/work/tmp/output_1661734964121/kaiju_output/SRR12197222-1.kaiju	0.504005	3690	274	Thermus thermophilus
+/kb/module/work/tmp/output_1661734964121/kaiju_output/SRR12197222-1.kaiju	1.012245	7411	10239	Viruses
+/kb/module/work/tmp/output_1661734964121/kaiju_output/SRR12197222-1.kaiju	30.538357	223582	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661734964121/kaiju_output/SRR12197222-1.kaiju	35.593981	260596	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661734964121/kaiju_output/SRR12197222-1.kaiju	37.635759	441831	NA	unclassified

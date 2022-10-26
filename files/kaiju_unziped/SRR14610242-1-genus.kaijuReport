@@ -1,0 +1,16 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661772301540/kaiju_output/SRR14610242-1.kaiju	2.853386	97092	1234	Nitrospira
+/kb/module/work/tmp/output_1661772301540/kaiju_output/SRR14610242-1.kaiju	2.232085	75951	570	Klebsiella
+/kb/module/work/tmp/output_1661772301540/kaiju_output/SRR14610242-1.kaiju	2.159612	73485	1763	Mycobacterium
+/kb/module/work/tmp/output_1661772301540/kaiju_output/SRR14610242-1.kaiju	1.278516	43504	327159	Candidatus Accumulibacter
+/kb/module/work/tmp/output_1661772301540/kaiju_output/SRR14610242-1.kaiju	0.842333	28662	53	Nannocystis
+/kb/module/work/tmp/output_1661772301540/kaiju_output/SRR14610242-1.kaiju	0.838600	28535	1839	Nocardioides
+/kb/module/work/tmp/output_1661772301540/kaiju_output/SRR14610242-1.kaiju	0.797809	27147	12916	Acidovorax
+/kb/module/work/tmp/output_1661772301540/kaiju_output/SRR14610242-1.kaiju	0.760309	25871	1866885	Mycolicibacterium
+/kb/module/work/tmp/output_1661772301540/kaiju_output/SRR14610242-1.kaiju	0.668764	22756	374	Bradyrhizobium
+/kb/module/work/tmp/output_1661772301540/kaiju_output/SRR14610242-1.kaiju	0.653512	22237	914	Nitrosomonas
+/kb/module/work/tmp/output_1661772301540/kaiju_output/SRR14610242-1.kaiju	0.539896	18371	186475	Kouleothrix
+/kb/module/work/tmp/output_1661772301540/kaiju_output/SRR14610242-1.kaiju	0.068416	2328	10239	Viruses
+/kb/module/work/tmp/output_1661772301540/kaiju_output/SRR14610242-1.kaiju	46.554173	1584096	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661772301540/kaiju_output/SRR14610242-1.kaiju	39.752591	1352659	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661772301540/kaiju_output/SRR14610242-1.kaiju	32.873407	1666376	NA	unclassified

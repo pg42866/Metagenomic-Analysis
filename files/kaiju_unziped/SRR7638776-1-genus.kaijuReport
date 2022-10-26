@@ -1,0 +1,7 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	22.082392	113125	13687	Sphingomonas
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	1.045315	5355	374	Bradyrhizobium
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	0.017373	89	10239	Viruses
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	67.584518	346226	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	9.270407	47491	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661752344718/kaiju_output/SRR7638776-1.kaiju	14.031838	83616	NA	unclassified

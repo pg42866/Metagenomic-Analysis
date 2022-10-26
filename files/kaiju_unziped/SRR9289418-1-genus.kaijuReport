@@ -1,0 +1,15 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	4.947080	21585	665874	Limnohabitans
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	3.795397	16560	167375	Cyanobium
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	3.093157	13496	1129	Synechococcus
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	2.951517	12878	44013	Polynucleobacter
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	2.393667	10444	622681	Candidatus Planktophila
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	0.758850	3311	246875	Algoriphagus
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	0.728368	3178	1125	Microcystis
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	0.678633	2961	2039639	Candidatus Nanopelagicus
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	0.521867	2277	504481	Sediminibacterium
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	0.519117	2265	237	Flavobacterium
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	2.952434	12882	10239	Viruses
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	51.632298	225281	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	25.027618	109200	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	52.942103	490876	NA	unclassified

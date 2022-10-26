@@ -1,0 +1,11 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661757612500/kaiju_output/SRR8749025-1.kaiju	1.528460	16866	685	Vibrio diazotrophicus
+/kb/module/work/tmp/output_1661757612500/kaiju_output/SRR8749025-1.kaiju	0.949193	10474	281375	Acinetobacter marinus
+/kb/module/work/tmp/output_1661757612500/kaiju_output/SRR8749025-1.kaiju	0.912853	10073	1429083	Pseudomonas hussainii
+/kb/module/work/tmp/output_1661757612500/kaiju_output/SRR8749025-1.kaiju	0.666900	7359	1978339	Chromatiaceae bacterium 2141T.STBD.0c.01a
+/kb/module/work/tmp/output_1661757612500/kaiju_output/SRR8749025-1.kaiju	0.650497	7178	562	Escherichia coli
+/kb/module/work/tmp/output_1661757612500/kaiju_output/SRR8749025-1.kaiju	0.539664	5955	1315211	Arcobacter aquimarinus
+/kb/module/work/tmp/output_1661757612500/kaiju_output/SRR8749025-1.kaiju	0.589960	6510	10239	Viruses
+/kb/module/work/tmp/output_1661757612500/kaiju_output/SRR8749025-1.kaiju	49.703751	548463	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661757612500/kaiju_output/SRR8749025-1.kaiju	44.458723	490586	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661757612500/kaiju_output/SRR8749025-1.kaiju	32.934472	541888	NA	unclassified

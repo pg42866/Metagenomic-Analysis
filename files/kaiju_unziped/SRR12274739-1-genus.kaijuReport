@@ -1,0 +1,19 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661735889184/kaiju_output/SRR12274739-1.kaiju	13.432756	190340	665874	Limnohabitans
+/kb/module/work/tmp/output_1661735889184/kaiju_output/SRR12274739-1.kaiju	2.527410	35813	165696	Novosphingobium
+/kb/module/work/tmp/output_1661735889184/kaiju_output/SRR12274739-1.kaiju	1.735235	24588	661182	Perlucidibaca
+/kb/module/work/tmp/output_1661735889184/kaiju_output/SRR12274739-1.kaiju	1.357743	19239	75	Caulobacter
+/kb/module/work/tmp/output_1661735889184/kaiju_output/SRR12274739-1.kaiju	1.336007	18931	92793	Aquabacterium
+/kb/module/work/tmp/output_1661735889184/kaiju_output/SRR12274739-1.kaiju	1.122031	15899	41275	Brevundimonas
+/kb/module/work/tmp/output_1661735889184/kaiju_output/SRR12274739-1.kaiju	0.998035	14142	1434046	Sphingorhabdus
+/kb/module/work/tmp/output_1661735889184/kaiju_output/SRR12274739-1.kaiju	0.914760	12962	13687	Sphingomonas
+/kb/module/work/tmp/output_1661735889184/kaiju_output/SRR12274739-1.kaiju	0.884767	12537	20	Phenylobacterium
+/kb/module/work/tmp/output_1661735889184/kaiju_output/SRR12274739-1.kaiju	0.851033	12059	237	Flavobacterium
+/kb/module/work/tmp/output_1661735889184/kaiju_output/SRR12274739-1.kaiju	0.731554	10366	281915	Curvibacter
+/kb/module/work/tmp/output_1661735889184/kaiju_output/SRR12274739-1.kaiju	0.699443	9911	28065	Rhodoferax
+/kb/module/work/tmp/output_1661735889184/kaiju_output/SRR12274739-1.kaiju	0.693445	9826	1060	Rhodobacter
+/kb/module/work/tmp/output_1661735889184/kaiju_output/SRR12274739-1.kaiju	0.580317	8223	47420	Hydrogenophaga
+/kb/module/work/tmp/output_1661735889184/kaiju_output/SRR12274739-1.kaiju	0.074313	1053	10239	Viruses
+/kb/module/work/tmp/output_1661735889184/kaiju_output/SRR12274739-1.kaiju	45.255344	641261	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661735889184/kaiju_output/SRR12274739-1.kaiju	26.805806	379834	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661735889184/kaiju_output/SRR12274739-1.kaiju	24.709848	465047	NA	unclassified

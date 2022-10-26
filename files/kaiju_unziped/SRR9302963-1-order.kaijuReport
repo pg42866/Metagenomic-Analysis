@@ -1,0 +1,14 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661747553851/kaiju_output/SRR9302963-1.kaiju	83.003326	15900118	1118	Chroococcales
+/kb/module/work/tmp/output_1661747553851/kaiju_output/SRR9302963-1.kaiju	1.320693	252992	80840	Burkholderiales
+/kb/module/work/tmp/output_1661747553851/kaiju_output/SRR9302963-1.kaiju	0.862419	165205	204441	Rhodospirillales
+/kb/module/work/tmp/output_1661747553851/kaiju_output/SRR9302963-1.kaiju	0.604322	115764	768507	Cytophagales
+/kb/module/work/tmp/output_1661747553851/kaiju_output/SRR9302963-1.kaiju	0.574290	110011	204457	Sphingomonadales
+/kb/module/work/tmp/output_1661747553851/kaiju_output/SRR9302963-1.kaiju	0.551467	105639	200644	Flavobacteriales
+/kb/module/work/tmp/output_1661747553851/kaiju_output/SRR9302963-1.kaiju	0.526566	100869	356	Rhizobiales
+/kb/module/work/tmp/output_1661747553851/kaiju_output/SRR9302963-1.kaiju	0.519325	99482	1890424	Synechococcales
+/kb/module/work/tmp/output_1661747553851/kaiju_output/SRR9302963-1.kaiju	0.512795	98231	1853229	Chitinophagales
+/kb/module/work/tmp/output_1661747553851/kaiju_output/SRR9302963-1.kaiju	0.229093	43885	10239	Viruses
+/kb/module/work/tmp/output_1661747553851/kaiju_output/SRR9302963-1.kaiju	6.459370	1237357	NA	cannot be assigned to a (non-viral) order
+/kb/module/work/tmp/output_1661747553851/kaiju_output/SRR9302963-1.kaiju	4.836338	926449	NA	belong to a (non-viral) order with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661747553851/kaiju_output/SRR9302963-1.kaiju	10.369816	2216265	NA	unclassified

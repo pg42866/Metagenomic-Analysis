@@ -1,0 +1,8 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661765932822/kaiju_output/SRR11088403-1.kaiju	2.225719	48922	853	Faecalibacterium prausnitzii
+/kb/module/work/tmp/output_1661765932822/kaiju_output/SRR11088403-1.kaiju	1.801522	39598	165179	Prevotella copri
+/kb/module/work/tmp/output_1661765932822/kaiju_output/SRR11088403-1.kaiju	0.653494	14364	80878	Acidovorax temperans
+/kb/module/work/tmp/output_1661765932822/kaiju_output/SRR11088403-1.kaiju	0.196449	4318	10239	Viruses
+/kb/module/work/tmp/output_1661765932822/kaiju_output/SRR11088403-1.kaiju	61.627518	1354592	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661765932822/kaiju_output/SRR11088403-1.kaiju	33.495295	736237	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661765932822/kaiju_output/SRR11088403-1.kaiju	10.290381	252131	NA	unclassified

@@ -1,0 +1,15 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661775191598/kaiju_output/SRR8648013-1.kaiju	2.777056	27484	1234	Nitrospira
+/kb/module/work/tmp/output_1661775191598/kaiju_output/SRR8648013-1.kaiju	1.851000	18319	73029	Dechloromonas
+/kb/module/work/tmp/output_1661775191598/kaiju_output/SRR8648013-1.kaiju	1.123594	11120	349	Zoogloea
+/kb/module/work/tmp/output_1661775191598/kaiju_output/SRR8648013-1.kaiju	1.049934	10391	237	Flavobacterium
+/kb/module/work/tmp/output_1661775191598/kaiju_output/SRR8648013-1.kaiju	0.925349	9158	41949	Candidatus Microthrix
+/kb/module/work/tmp/output_1661775191598/kaiju_output/SRR8648013-1.kaiju	0.619088	6127	28065	Rhodoferax
+/kb/module/work/tmp/output_1661775191598/kaiju_output/SRR8648013-1.kaiju	0.603427	5972	352450	Simplicispira
+/kb/module/work/tmp/output_1661775191598/kaiju_output/SRR8648013-1.kaiju	0.534718	5292	286	Pseudomonas
+/kb/module/work/tmp/output_1661775191598/kaiju_output/SRR8648013-1.kaiju	0.531080	5256	36862	Ideonella
+/kb/module/work/tmp/output_1661775191598/kaiju_output/SRR8648013-1.kaiju	0.527645	5222	53	Nannocystis
+/kb/module/work/tmp/output_1661775191598/kaiju_output/SRR8648013-1.kaiju	0.143380	1419	10239	Viruses
+/kb/module/work/tmp/output_1661775191598/kaiju_output/SRR8648013-1.kaiju	53.735191	531807	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661775191598/kaiju_output/SRR8648013-1.kaiju	35.578534	352114	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661775191598/kaiju_output/SRR8648013-1.kaiju	45.847815	837911	NA	unclassified

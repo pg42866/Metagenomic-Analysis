@@ -1,0 +1,21 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	19.284700	197894	171549	Bacteroidales
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	11.650397	119553	186802	Clostridiales
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	6.848469	70277	80840	Burkholderiales
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	4.911267	50398	135624	Aeromonadales
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	4.516401	46346	213849	Campylobacterales
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	4.131378	42395	206389	Rhodocyclales
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	3.933847	40368	200644	Flavobacteriales
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	2.892500	29682	72274	Pseudomonadales
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	2.310531	23710	206351	Neisseriales
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	2.285974	23458	91347	Enterobacterales
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	1.442450	14802	186826	Lactobacillales
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	0.954227	9792	203491	Fusobacteriales
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	0.922069	9462	213118	Desulfobacterales
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	0.884453	9076	213115	Desulfovibrionales
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	0.624750	6411	356	Rhizobiales
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	0.620072	6363	1970189	Marinilabiliales
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	0.196166	2013	10239	Viruses
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	21.447594	220089	NA	cannot be assigned to a (non-viral) order
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	10.142754	104082	NA	belong to a (non-viral) order with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661755543560/kaiju_output/SRR8749023-1.kaiju	26.411501	368301	NA	unclassified

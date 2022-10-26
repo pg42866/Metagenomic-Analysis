@@ -1,0 +1,7 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661734872787/kaiju_output/SRR8436560-1.kaiju	37.288391	182052	28100	Phyllobacterium
+/kb/module/work/tmp/output_1661734872787/kaiju_output/SRR8436560-1.kaiju	0.803520	3923	414371	Aureimonas
+/kb/module/work/tmp/output_1661734872787/kaiju_output/SRR8436560-1.kaiju	0.003687	18	10239	Viruses
+/kb/module/work/tmp/output_1661734872787/kaiju_output/SRR8436560-1.kaiju	59.870102	292302	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661734872787/kaiju_output/SRR8436560-1.kaiju	2.034300	9932	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661734872787/kaiju_output/SRR8436560-1.kaiju	14.076461	79984	NA	unclassified

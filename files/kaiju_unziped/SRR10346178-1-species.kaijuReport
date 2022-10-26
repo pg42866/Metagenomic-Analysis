@@ -1,0 +1,35 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	11.303779	78546	667019	Curvibacter putative symbiont of Hydra magnipapillata
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	2.823138	19617	554131	Thiomonas sp. CB2
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	2.714628	18863	77133	uncultured bacterium
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	2.650011	18414	417305	uncultured beta proteobacterium CBNPD1 BAC clone 578
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	2.633461	18299	470	Acinetobacter baumannii
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	1.762501	12247	562	Escherichia coli
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	1.464169	10174	1256574	uncultured bacterium A1Q1_fos_4
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	1.281688	8906	201089	uncultured Desulfobacterium sp.
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	1.236067	8589	573	Klebsiella pneumoniae
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	1.050708	7301	536	Chromobacterium violaceum
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.984796	6843	1629550	Paraclostridium benzoelyticum
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.955006	6636	1309	Streptococcus mutans
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.945795	6572	51201	Streptomyces griseocarneus
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.897297	6235	2653183	Burkholderiales bacterium 8X
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.858440	5965	1825523	Novimethylophilus kurashikiensis
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.816561	5674	1313	Streptococcus pneumoniae
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.780295	5422	346	Xanthomonas citri
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.775115	5386	670	Vibrio parahaemolyticus
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.756982	5260	446	Legionella pneumophila
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.701431	4874	1352	Enterococcus faecium
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.634943	4412	1084	Pararhodospirillum photometricum
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.614652	4271	520	Bordetella pertussis
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.611054	4246	1985873	Sulfuriferula sp. AH1
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.593640	4125	738	Glaesserella parasuis
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.563275	3914	1247	Oenococcus oeni
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.547157	3802	664683	Halomonas titanicae
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.543271	3775	1869212	Chitinophagaceae bacterium
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.525426	3651	84590	Taylorella asinigenitalis
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.512330	3560	192	Azospirillum brasilense
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.501105	3482	197	Campylobacter jejuni
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	0.053392	371	10239	Viruses
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	19.692026	136833	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	37.215862	258600	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661754294155/kaiju_output/SRR10346178-1.kaiju	21.603680	191484	NA	unclassified

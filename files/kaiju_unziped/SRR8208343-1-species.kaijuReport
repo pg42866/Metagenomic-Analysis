@@ -1,0 +1,18 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661768723945/kaiju_output/SRR8208343-1.kaiju	2.456710	116479	2686016	Azoarcus sp. HKLI-1
+/kb/module/work/tmp/output_1661768723945/kaiju_output/SRR8208343-1.kaiju	1.983439	94040	221280	Candidatus Competibacter phosphatis
+/kb/module/work/tmp/output_1661768723945/kaiju_output/SRR8208343-1.kaiju	1.210860	57410	237258	Cloacibacterium normanense
+/kb/module/work/tmp/output_1661768723945/kaiju_output/SRR8208343-1.kaiju	1.069842	50724	1054498	Rivicola pingtungensis
+/kb/module/work/tmp/output_1661768723945/kaiju_output/SRR8208343-1.kaiju	0.979086	46421	101689	Tetrasphaera elongata
+/kb/module/work/tmp/output_1661768723945/kaiju_output/SRR8208343-1.kaiju	0.828219	39268	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661768723945/kaiju_output/SRR8208343-1.kaiju	0.804871	38161	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661768723945/kaiju_output/SRR8208343-1.kaiju	0.781079	37033	28198	Arcobacter cryaerophilus
+/kb/module/work/tmp/output_1661768723945/kaiju_output/SRR8208343-1.kaiju	0.708862	33609	1785	Mycobacterium sp.
+/kb/module/work/tmp/output_1661768723945/kaiju_output/SRR8208343-1.kaiju	0.691061	32765	477666	Bacteroides graminisolvens
+/kb/module/work/tmp/output_1661768723945/kaiju_output/SRR8208343-1.kaiju	0.609269	28887	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661768723945/kaiju_output/SRR8208343-1.kaiju	0.528404	25053	685	Vibrio diazotrophicus
+/kb/module/work/tmp/output_1661768723945/kaiju_output/SRR8208343-1.kaiju	0.528172	25042	1617419	Bacteroidetes bacterium OLB8
+/kb/module/work/tmp/output_1661768723945/kaiju_output/SRR8208343-1.kaiju	0.109633	5198	10239	Viruses
+/kb/module/work/tmp/output_1661768723945/kaiju_output/SRR8208343-1.kaiju	35.695393	1692411	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661768723945/kaiju_output/SRR8208343-1.kaiju	51.015097	2418758	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661768723945/kaiju_output/SRR8208343-1.kaiju	20.880646	1251281	NA	unclassified

@@ -1,0 +1,124 @@
+{
+  "metadata" : [
+    [
+      20,
+      "SRR11557471",
+      "KBaseFile.PairedEndLibrary-2.1",
+      "2021-11-18T04:41:49+0000",
+      1,
+      "diogoc",
+      103395,
+      "diogoc:narrative_1637145435709",
+      "d8597a5c246216e5578eff2d36de6430",
+      781,
+      {
+        "gc_content" : "0.43764699999999995",
+        "number_of_duplicates" : "280074264",
+        "phred_type" : "33",
+        "qual_max" : "38.0",
+        "qual_mean" : "36.2711",
+        "qual_min" : "2.0",
+        "qual_stdev" : "4.2607",
+        "read_count" : "298875516",
+        "read_length_mean" : "151.0",
+        "read_length_stdev" : "0.0",
+        "sequencing_tech" : "Illumina",
+        "single_genome" : "0",
+        "total_bases" : "45130202916"
+      }
+    ]
+  ],
+  "provenance" : [
+    {
+      "copy_source_inaccessible" : null,
+      "created" : "2021-11-18T04:41:48+0000",
+      "creator" : "diogoc",
+      "extracted_ids" : null,
+      "info" : [
+        20,
+        "SRR11557471",
+        "KBaseFile.PairedEndLibrary-2.1",
+        "2021-11-18T04:41:49+0000",
+        1,
+        "diogoc",
+        103395,
+        "diogoc:narrative_1637145435709",
+        "d8597a5c246216e5578eff2d36de6430",
+        781,
+        {
+          "gc_content" : "0.43764699999999995",
+          "number_of_duplicates" : "280074264",
+          "phred_type" : "33",
+          "qual_max" : "38.0",
+          "qual_mean" : "36.2711",
+          "qual_min" : "2.0",
+          "qual_stdev" : "4.2607",
+          "read_count" : "298875516",
+          "read_length_mean" : "151.0",
+          "read_length_stdev" : "0.0",
+          "sequencing_tech" : "Illumina",
+          "single_genome" : "0",
+          "total_bases" : "45130202916"
+        }
+      ],
+      "provenance" : [
+        {
+          "custom" : { },
+          "description" : "KBase SDK method run via the KBase Execution Engine",
+          "epoch" : 1637167718000,
+          "external_data" : [ ],
+          "input_ws_objects" : [ ],
+          "method" : "import_sra_from_web",
+          "method_params" : [
+            {
+              "download_type" : "Direct Download",
+              "sra_urls_to_add" : [
+                {
+                  "file_url" : "https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos3/sra-pub-run-21/SRR11557471/SRR11557471.1",
+                  "insert_size_mean" : null,
+                  "insert_size_std_dev" : null,
+                  "name" : "SRR11557471",
+                  "read_orientation_outward" : 0,
+                  "sequencing_tech" : "Illumina",
+                  "single_genome" : 0
+                }
+              ],
+              "workspace_name" : "diogoc:narrative_1637145435709"
+            }
+          ],
+          "resolved_ws_objects" : [ ],
+          "service" : "kb_uploadmethods",
+          "service_ver" : "31e93066beb421a51b9c8e44b1201aa93aea0b4e",
+          "subactions" : [
+            {
+              "code_url" : "https://github.com/kbaseapps/kb_uploadmethods",
+              "commit" : "31e93066beb421a51b9c8e44b1201aa93aea0b4e",
+              "name" : "kb_uploadmethods",
+              "ver" : "31e93066beb421a51b9c8e44b1201aa93aea0b4e"
+            },
+            {
+              "code_url" : "https://github.com/kbaseapps/DataFileUtil",
+              "commit" : "df0bb6568008983c1daf6966cf8cebf54f0a0d80",
+              "name" : "DataFileUtil",
+              "ver" : "release"
+            },
+            {
+              "code_url" : "https://github.com/kbaseapps/ReadsUtils",
+              "commit" : "bb1a698cdf6514292bbcf4edfc35daf403fba0ea",
+              "name" : "ReadsUtils",
+              "ver" : "release"
+            },
+            {
+              "code_url" : "https://github.com/kbaseapps/kb_ea_utils",
+              "commit" : "c486d497f6f1faf34645f4de0fc001060088f142",
+              "name" : "kb_ea_utils",
+              "ver" : "release"
+            }
+          ],
+          "time" : "2021-11-17T16:48:38+0000"
+        }
+      ],
+      "refs" : [ ]
+    }
+  ]
+}

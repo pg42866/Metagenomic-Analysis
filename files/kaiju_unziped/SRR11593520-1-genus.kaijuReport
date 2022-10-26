@@ -1,0 +1,8 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661772813090/kaiju_output/SRR11593520-1.kaiju	28.277615	8930527	914	Nitrosomonas
+/kb/module/work/tmp/output_1661772813090/kaiju_output/SRR11593520-1.kaiju	8.951639	2827072	380240	Candidatus Brocadia
+/kb/module/work/tmp/output_1661772813090/kaiju_output/SRR11593520-1.kaiju	3.808773	1202872	1234	Nitrospira
+/kb/module/work/tmp/output_1661772813090/kaiju_output/SRR11593520-1.kaiju	0.013527	4272	10239	Viruses
+/kb/module/work/tmp/output_1661772813090/kaiju_output/SRR11593520-1.kaiju	50.175507	15846234	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661772813090/kaiju_output/SRR11593520-1.kaiju	8.772937	2770635	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661772813090/kaiju_output/SRR11593520-1.kaiju	14.823608	5496282	NA	unclassified

@@ -1,0 +1,15 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661739856001/kaiju_output/SRR8075945-1.kaiju	3.136617	85498	622681	Candidatus Planktophila
+/kb/module/work/tmp/output_1661739856001/kaiju_output/SRR8075945-1.kaiju	2.707863	73811	1032526	Pedosphaera
+/kb/module/work/tmp/output_1661739856001/kaiju_output/SRR8075945-1.kaiju	2.193409	59788	53634	Acidimicrobium
+/kb/module/work/tmp/output_1661739856001/kaiju_output/SRR8075945-1.kaiju	1.554771	42380	1679002	Candidatus Methylopumilus
+/kb/module/work/tmp/output_1661739856001/kaiju_output/SRR8075945-1.kaiju	1.467861	40011	665874	Limnohabitans
+/kb/module/work/tmp/output_1661739856001/kaiju_output/SRR8075945-1.kaiju	1.446583	39431	914	Nitrosomonas
+/kb/module/work/tmp/output_1661739856001/kaiju_output/SRR8075945-1.kaiju	1.092339	29775	504481	Sediminibacterium
+/kb/module/work/tmp/output_1661739856001/kaiju_output/SRR8075945-1.kaiju	0.884803	24118	2039639	Candidatus Nanopelagicus
+/kb/module/work/tmp/output_1661739856001/kaiju_output/SRR8075945-1.kaiju	0.581260	15844	1763	Mycobacterium
+/kb/module/work/tmp/output_1661739856001/kaiju_output/SRR8075945-1.kaiju	0.556386	15166	44013	Polynucleobacter
+/kb/module/work/tmp/output_1661739856001/kaiju_output/SRR8075945-1.kaiju	0.911328	24841	10239	Viruses
+/kb/module/work/tmp/output_1661739856001/kaiju_output/SRR8075945-1.kaiju	64.516624	1758596	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661739856001/kaiju_output/SRR8075945-1.kaiju	18.950158	516544	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661739856001/kaiju_output/SRR8075945-1.kaiju	34.937304	1463699	NA	unclassified

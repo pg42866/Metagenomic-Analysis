@@ -1,0 +1,12 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	38.009827	432293	286	Pseudomonas
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	16.703756	189975	469	Acinetobacter
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	14.911032	169586	497	Psychrobacter
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	4.116699	46820	1678	Bifidobacterium
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	0.892713	10153	102106	Collinsella
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	0.710003	8075	1350	Enterococcus
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	0.654346	7442	82802	Trichococcus
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	0.590863	6720	10239	Viruses
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	11.239503	127829	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	12.171255	138426	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661760720170/kaiju_output/SRR10868569-1.kaiju	7.803161	96258	NA	unclassified

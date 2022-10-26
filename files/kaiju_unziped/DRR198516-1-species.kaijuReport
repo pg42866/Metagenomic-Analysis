@@ -1,0 +1,25 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	1.263653	9599	1895730	Burkholderiales bacterium 68-10
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	1.229689	9341	41950	Candidatus Microthrix parvicella
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	1.182692	8984	101689	Tetrasphaera elongata
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	1.130956	8591	1898103	Rhodocyclaceae bacterium
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	1.066977	8105	2484252	Myxococcaceae bacterium
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	1.044597	7935	221280	Candidatus Competibacter phosphatis
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.939282	7135	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.896366	6809	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.864903	6570	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.858189	6519	2570190	Zoogloea sp. 1C4
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.838311	6368	1913989	Gammaproteobacteria bacterium
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.709168	5387	327160	Candidatus Accumulibacter phosphatis
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.621229	4719	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.613989	4664	2021391	Flavobacteriales bacterium
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.596085	4528	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.595559	4524	2591109	Casimicrobium huifangae
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.580814	4412	1400860	Candidatus Contendobacter odensis
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.569230	4324	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.557250	4233	2053538	Candidatus Competibacteraceae bacterium
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.528288	4013	2030806	Burkholderiaceae bacterium
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	0.096364	732	10239	Viruses
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	24.037451	182594	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	59.178960	449537	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661754012028/kaiju_output/DRR198516-1.kaiju	39.053562	486755	NA	unclassified

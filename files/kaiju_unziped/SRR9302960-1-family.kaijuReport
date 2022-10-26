@@ -1,0 +1,19 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661748406421/kaiju_output/SRR9302960-1.kaiju	7.905598	799719	80864	Comamonadaceae
+/kb/module/work/tmp/output_1661748406421/kaiju_output/SRR9302960-1.kaiju	4.311182	436113	134627	Verrucomicrobia subdivision 6
+/kb/module/work/tmp/output_1661748406421/kaiju_output/SRR9302960-1.kaiju	3.380791	341996	2162846	Candidatus Nanopelagicaceae
+/kb/module/work/tmp/output_1661748406421/kaiju_output/SRR9302960-1.kaiju	2.521170	255038	49546	Flavobacteriaceae
+/kb/module/work/tmp/output_1661748406421/kaiju_output/SRR9302960-1.kaiju	2.148775	217367	563835	Chitinophagaceae
+/kb/module/work/tmp/output_1661748406421/kaiju_output/SRR9302960-1.kaiju	2.111408	213587	119060	Burkholderiaceae
+/kb/module/work/tmp/output_1661748406421/kaiju_output/SRR9302960-1.kaiju	1.884615	190645	563798	Cyclobacteriaceae
+/kb/module/work/tmp/output_1661748406421/kaiju_output/SRR9302960-1.kaiju	1.843956	186532	89373	Cytophagaceae
+/kb/module/work/tmp/output_1661748406421/kaiju_output/SRR9302960-1.kaiju	1.797119	181794	85023	Microbacteriaceae
+/kb/module/work/tmp/output_1661748406421/kaiju_output/SRR9302960-1.kaiju	1.763548	178398	84994	Acidimicrobiaceae
+/kb/module/work/tmp/output_1661748406421/kaiju_output/SRR9302960-1.kaiju	1.080007	109252	1853230	Crocinitomicaceae
+/kb/module/work/tmp/output_1661748406421/kaiju_output/SRR9302960-1.kaiju	1.010048	102175	1890426	Synechococcaceae
+/kb/module/work/tmp/output_1661748406421/kaiju_output/SRR9302960-1.kaiju	0.884483	89473	31989	Rhodobacteraceae
+/kb/module/work/tmp/output_1661748406421/kaiju_output/SRR9302960-1.kaiju	0.633510	64085	32011	Methylophilaceae
+/kb/module/work/tmp/output_1661748406421/kaiju_output/SRR9302960-1.kaiju	2.239444	226539	10239	Viruses
+/kb/module/work/tmp/output_1661748406421/kaiju_output/SRR9302960-1.kaiju	52.122139	5272601	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1661748406421/kaiju_output/SRR9302960-1.kaiju	12.362205	1250543	NA	belong to a (non-viral) family with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661748406421/kaiju_output/SRR9302960-1.kaiju	49.832842	10048445	NA	unclassified

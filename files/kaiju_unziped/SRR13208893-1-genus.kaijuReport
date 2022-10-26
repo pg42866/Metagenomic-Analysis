@@ -1,0 +1,17 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661761178354/kaiju_output/SRR13208893-1.kaiju	10.145020	261209	237	Flavobacterium
+/kb/module/work/tmp/output_1661761178354/kaiju_output/SRR13208893-1.kaiju	4.029904	103760	84567	Pedobacter
+/kb/module/work/tmp/output_1661761178354/kaiju_output/SRR13208893-1.kaiju	1.981978	51031	73029	Dechloromonas
+/kb/module/work/tmp/output_1661761178354/kaiju_output/SRR13208893-1.kaiju	1.229789	31664	1234	Nitrospira
+/kb/module/work/tmp/output_1661761178354/kaiju_output/SRR13208893-1.kaiju	1.172812	30197	1866885	Mycolicibacterium
+/kb/module/work/tmp/output_1661761178354/kaiju_output/SRR13208893-1.kaiju	1.055015	27164	642	Aeromonas
+/kb/module/work/tmp/output_1661761178354/kaiju_output/SRR13208893-1.kaiju	0.909408	23415	2706000	Casimicrobium
+/kb/module/work/tmp/output_1661761178354/kaiju_output/SRR13208893-1.kaiju	0.903971	23275	1870884	Clostridioides
+/kb/module/work/tmp/output_1661761178354/kaiju_output/SRR13208893-1.kaiju	0.817050	21037	349	Zoogloea
+/kb/module/work/tmp/output_1661761178354/kaiju_output/SRR13208893-1.kaiju	0.731877	18844	1763	Mycobacterium
+/kb/module/work/tmp/output_1661761178354/kaiju_output/SRR13208893-1.kaiju	0.644567	16596	286	Pseudomonas
+/kb/module/work/tmp/output_1661761178354/kaiju_output/SRR13208893-1.kaiju	0.583629	15027	12916	Acidovorax
+/kb/module/work/tmp/output_1661761178354/kaiju_output/SRR13208893-1.kaiju	0.588445	15151	10239	Viruses
+/kb/module/work/tmp/output_1661761178354/kaiju_output/SRR13208893-1.kaiju	45.630081	1174861	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661761178354/kaiju_output/SRR13208893-1.kaiju	29.576454	761520	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661761178354/kaiju_output/SRR13208893-1.kaiju	41.814813	1850346	NA	unclassified

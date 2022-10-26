@@ -1,0 +1,13 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	9.096488	208701	665874	Limnohabitans
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	6.805988	156150	2039639	Candidatus Nanopelagicus
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	5.666165	129999	622681	Candidatus Planktophila
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	1.076754	24704	44013	Polynucleobacter
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	1.035347	23754	53634	Acidimicrobium
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	0.802815	18419	504481	Sediminibacterium
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	0.563308	12924	52972	Polaromonas
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	0.543782	12476	237	Flavobacterium
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	0.537157	12324	10239	Viruses
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	58.146286	1334052	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	15.725909	360800	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661736043681/kaiju_output/SRR13490378-1.kaiju	26.380742	822141	NA	unclassified

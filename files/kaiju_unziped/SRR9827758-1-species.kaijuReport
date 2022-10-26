@@ -1,0 +1,26 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	3.818482	120255	1883427	Actinobacteria bacterium
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	2.658792	83733	2080302	Acidimicrobiia bacterium
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	2.651806	83513	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	1.366277	43028	221280	Candidatus Competibacter phosphatis
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	1.116633	35166	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	1.053317	33172	1869227	bacterium
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	0.888963	27996	2052143	Anaerolineae bacterium
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	0.883692	27830	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	0.840507	26470	2699468	Acidovorax sp. 210-6
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	0.741088	23339	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	0.727911	22924	327160	Candidatus Accumulibacter phosphatis
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	0.715654	22538	1660252	Nitrospira sp. SCN 59-13
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	0.710256	22368	1891241	Betaproteobacteria bacterium
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	0.682503	21494	330214	Nitrospira defluvii
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	0.660467	20800	1913989	Gammaproteobacteria bacterium
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	0.609408	19192	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	0.583275	18369	133453	Caldilinea aerophila
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	0.574733	18100	1898103	Rhodocyclaceae bacterium
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	0.572479	18029	2053538	Candidatus Competibacteraceae bacterium
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	0.542853	17096	2013705	Betaproteobacteria bacterium HGW-Betaproteobacteria-14
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	0.528754	16652	1806508	Candidatus Promineofilum breve
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	0.080209	2526	10239	Viruses
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	23.916676	753205	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	53.075266	1671493	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661766349980/kaiju_output/SRR9827758-1.kaiju	34.723842	1675273	NA	unclassified

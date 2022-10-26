@@ -1,0 +1,13 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	2.770449	120902	237258	Cloacibacterium normanense
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	1.996409	87123	28198	Arcobacter cryaerophilus
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	1.809928	78985	1054498	Rivicola pingtungensis
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	0.924889	40362	80878	Acidovorax temperans
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	0.784008	34214	1898103	Rhodocyclaceae bacterium
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	0.767876	33510	1278212	Arcobacter suis
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	0.671221	29292	350	Zoogloea ramigera
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	0.575735	25125	28197	Arcobacter butzleri
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	0.195074	8513	10239	Viruses
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	43.730076	1908374	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	45.774332	1997585	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661764827422/kaiju_output/SRR13208907-1.kaiju	19.924779	1085872	NA	unclassified

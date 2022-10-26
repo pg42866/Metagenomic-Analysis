@@ -1,0 +1,18 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661756498838/kaiju_output/SRR8749020-1.kaiju	8.629276	101246	185294	Prevotella paludivivens
+/kb/module/work/tmp/output_1661756498838/kaiju_output/SRR8749020-1.kaiju	3.181324	37326	1978237	Tolumonas sp.
+/kb/module/work/tmp/output_1661756498838/kaiju_output/SRR8749020-1.kaiju	3.046659	35746	165179	Prevotella copri
+/kb/module/work/tmp/output_1661756498838/kaiju_output/SRR8749020-1.kaiju	0.938647	11013	43948	Tolumonas auensis
+/kb/module/work/tmp/output_1661756498838/kaiju_output/SRR8749020-1.kaiju	0.906515	10636	1283284	Tolumonas lignilytica
+/kb/module/work/tmp/output_1661756498838/kaiju_output/SRR8749020-1.kaiju	0.859467	10084	1054498	Rivicola pingtungensis
+/kb/module/work/tmp/output_1661756498838/kaiju_output/SRR8749020-1.kaiju	0.769890	9033	237258	Cloacibacterium normanense
+/kb/module/work/tmp/output_1661756498838/kaiju_output/SRR8749020-1.kaiju	0.638293	7489	1872437	Alicycliphilus sp.
+/kb/module/work/tmp/output_1661756498838/kaiju_output/SRR8749020-1.kaiju	0.626361	7349	487	Neisseria meningitidis
+/kb/module/work/tmp/output_1661756498838/kaiju_output/SRR8749020-1.kaiju	0.518885	6088	36745	Clostridium saccharoperbutylacetonicum
+/kb/module/work/tmp/output_1661756498838/kaiju_output/SRR8749020-1.kaiju	0.515987	6054	573	Klebsiella pneumoniae
+/kb/module/work/tmp/output_1661756498838/kaiju_output/SRR8749020-1.kaiju	0.510106	5985	971	Selenomonas ruminantium
+/kb/module/work/tmp/output_1661756498838/kaiju_output/SRR8749020-1.kaiju	0.505504	5931	1520	Clostridium beijerinckii
+/kb/module/work/tmp/output_1661756498838/kaiju_output/SRR8749020-1.kaiju	0.110630	1298	10239	Viruses
+/kb/module/work/tmp/output_1661756498838/kaiju_output/SRR8749020-1.kaiju	49.301151	578443	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661756498838/kaiju_output/SRR8749020-1.kaiju	28.941306	339564	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661756498838/kaiju_output/SRR8749020-1.kaiju	21.359751	318680	NA	unclassified

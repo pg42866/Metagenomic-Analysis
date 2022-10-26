@@ -1,0 +1,13 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661772813090/kaiju_output/SRR11593520-1.kaiju	29.261961	9241399	32003	Nitrosomonadales
+/kb/module/work/tmp/output_1661772813090/kaiju_output/SRR11593520-1.kaiju	15.125409	4776848	1127829	Candidatus Brocadiales
+/kb/module/work/tmp/output_1661772813090/kaiju_output/SRR11593520-1.kaiju	4.639032	1465081	206389	Rhodocyclales
+/kb/module/work/tmp/output_1661772813090/kaiju_output/SRR11593520-1.kaiju	3.825254	1208077	189778	Nitrospirales
+/kb/module/work/tmp/output_1661772813090/kaiju_output/SRR11593520-1.kaiju	1.850244	584337	80840	Burkholderiales
+/kb/module/work/tmp/output_1661772813090/kaiju_output/SRR11593520-1.kaiju	1.501811	474296	768507	Cytophagales
+/kb/module/work/tmp/output_1661772813090/kaiju_output/SRR11593520-1.kaiju	0.669643	211484	29	Myxococcales
+/kb/module/work/tmp/output_1661772813090/kaiju_output/SRR11593520-1.kaiju	0.602734	190353	292629	Anaerolineales
+/kb/module/work/tmp/output_1661772813090/kaiju_output/SRR11593520-1.kaiju	0.013527	4272	10239	Viruses
+/kb/module/work/tmp/output_1661772813090/kaiju_output/SRR11593520-1.kaiju	36.268326	11454122	NA	cannot be assigned to a (non-viral) order
+/kb/module/work/tmp/output_1661772813090/kaiju_output/SRR11593520-1.kaiju	6.242060	1971343	NA	belong to a (non-viral) order with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661772813090/kaiju_output/SRR11593520-1.kaiju	14.823608	5496282	NA	unclassified

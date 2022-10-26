@@ -1,0 +1,23 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	17.006784	103197	28216	Betaproteobacteria
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	16.759420	101696	1760	Actinobacteria
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	9.872626	59907	186801	Clostridia
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	5.538242	33606	28211	Alphaproteobacteria
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	3.762696	22832	1236	Gammaproteobacteria
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	2.447598	14852	203683	Planctomycetia
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	2.282634	13851	117743	Flavobacteriia
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	1.975119	11985	1853228	Chitinophagia
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	1.526700	9264	768503	Cytophagia
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	1.331413	8079	203494	Verrucomicrobiae
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	1.317735	7996	84992	Acidimicrobiia
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	1.122942	6814	28221	Deltaproteobacteria
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	1.015163	6160	117747	Sphingobacteriia
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	0.789388	4790	91061	Bacilli
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	0.739125	4485	414999	Opitutae
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	0.709131	4303	1553900	Oligoflexia
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	0.619810	3761	188787	Deinococci
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	0.504945	3064	224756	Methanomicrobia
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	0.829270	5032	10239	Viruses
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	26.840189	162866	NA	cannot be assigned to a (non-viral) class
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	3.009069	18259	NA	belong to a (non-viral) class with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661735646543/kaiju_output/SRR12197250-1.kaiju	60.634226	934639	NA	unclassified

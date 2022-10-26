@@ -1,0 +1,21 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	20.108500	87737	28216	Betaproteobacteria
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	15.454096	67429	1760	Actinobacteria
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	11.072200	48310	28211	Alphaproteobacteria
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	3.434192	14984	1236	Gammaproteobacteria
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	2.209168	9639	117743	Flavobacteriia
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	1.995792	8708	768503	Cytophagia
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	1.907095	8321	1853228	Chitinophagia
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	1.152141	5027	28221	Deltaproteobacteria
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	1.140682	4977	203494	Verrucomicrobiae
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	0.963517	4204	203683	Planctomycetia
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	0.700636	3057	117747	Sphingobacteriia
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	0.679092	2963	84992	Acidimicrobiia
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	0.583290	2545	200643	Bacteroidia
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	0.572977	2500	414999	Opitutae
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	0.548912	2395	186801	Clostridia
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	0.523930	2286	91061	Bacilli
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	2.952434	12882	10239	Viruses
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	31.641829	138059	NA	cannot be assigned to a (non-viral) class
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	2.359518	10295	NA	belong to a (non-viral) class with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661734911292/kaiju_output/SRR9289418-1.kaiju	52.942103	490876	NA	unclassified

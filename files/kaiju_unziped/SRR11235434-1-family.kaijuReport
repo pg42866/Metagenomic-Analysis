@@ -1,0 +1,14 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	1.980324	46282	213468	Syntrophaceae
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	1.331826	31126	2194	Methanomicrobiaceae
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	0.930858	21755	49546	Flavobacteriaceae
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	0.833087	19470	292628	Anaerolineaceae
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	0.793593	18547	1198451	Methanoregulaceae
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	0.732663	17123	80864	Comamonadaceae
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	0.720682	16843	31979	Clostridiaceae
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	0.518636	12121	213119	Desulfobacteraceae
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	0.515213	12041	186807	Peptococcaceae
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	0.163494	3821	10239	Viruses
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	72.544304	1695427	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	18.935326	442536	NA	belong to a (non-viral) family with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661771241164/kaiju_output/SRR11235434-1.kaiju	38.776678	1480231	NA	unclassified

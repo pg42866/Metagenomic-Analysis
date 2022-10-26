@@ -1,0 +1,16 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	4.438274	16161	665874	Limnohabitans
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	3.746210	13641	165696	Novosphingobium
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	2.361532	8599	237	Flavobacterium
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	1.405275	5117	254245	Aquicella
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	1.186121	4319	44013	Polynucleobacter
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	1.126527	4102	1763	Mycobacterium
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	0.757701	2759	445	Legionella
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	0.643730	2344	504481	Sediminibacterium
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	0.626428	2281	238783	Pseudorhodobacter
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	0.606655	2209	286	Pseudomonas
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	0.574523	2092	1883	Streptomyces
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	1.537921	5600	10239	Viruses
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	52.637535	191668	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	28.351569	103236	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661757470899/kaiju_output/SRR8204324-1.kaiju	42.954901	274188	NA	unclassified

@@ -1,0 +1,23 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	1.900704	55763	1898104	Bacteroidetes bacterium
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	1.597378	46864	2591109	Casimicrobium huifangae
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	1.576518	46252	1785	Mycobacterium sp.
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	1.535104	45037	84139	Gordonia sp.
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	1.334444	39150	2026799	Verrucomicrobia bacterium
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	1.232324	36154	1978231	Acidobacteria bacterium
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	1.206078	35384	1869212	Chitinophagaceae bacterium
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	1.081019	31715	2030806	Burkholderiaceae bacterium
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	1.001497	29382	1813871	Panacibacter ginsenosidivorans
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	0.809528	23750	2026735	Deltaproteobacteria bacterium
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	0.782737	22964	1931276	Haliangium sp. UPWRP_2
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	0.698376	20489	2026780	Planctomycetes bacterium
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	0.658087	19307	2026724	Chloroflexi bacterium
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	0.629319	18463	1077255	Agitococcus lubricus
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	0.605561	17766	101689	Tetrasphaera elongata
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	0.584974	17162	2044944	Sphingobacteriales bacterium
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	0.562205	16494	186479	Kouleothrix aurantiaca
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	0.518609	15215	1796922	Piscinibacter defluvii
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	0.125366	3678	10239	Viruses
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	21.247240	623353	NA	cannot be assigned to a (non-viral) species
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	60.312933	1769465	NA	belong to a (non-viral) species with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661766899826/kaiju_output/SRR8208348-1.kaiju	42.291051	2149992	NA	unclassified

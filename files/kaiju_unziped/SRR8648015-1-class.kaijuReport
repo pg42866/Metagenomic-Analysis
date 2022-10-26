@@ -1,0 +1,15 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661758354030/kaiju_output/SRR8648015-1.kaiju	30.047026	294990	28216	Betaproteobacteria
+/kb/module/work/tmp/output_1661758354030/kaiju_output/SRR8648015-1.kaiju	21.638464	212438	1236	Gammaproteobacteria
+/kb/module/work/tmp/output_1661758354030/kaiju_output/SRR8648015-1.kaiju	10.060086	98766	200643	Bacteroidia
+/kb/module/work/tmp/output_1661758354030/kaiju_output/SRR8648015-1.kaiju	9.980739	97987	117743	Flavobacteriia
+/kb/module/work/tmp/output_1661758354030/kaiju_output/SRR8648015-1.kaiju	5.099306	50063	29547	Epsilonproteobacteria
+/kb/module/work/tmp/output_1661758354030/kaiju_output/SRR8648015-1.kaiju	2.710232	26608	28211	Alphaproteobacteria
+/kb/module/work/tmp/output_1661758354030/kaiju_output/SRR8648015-1.kaiju	2.363101	23200	186801	Clostridia
+/kb/module/work/tmp/output_1661758354030/kaiju_output/SRR8648015-1.kaiju	1.439352	14131	1760	Actinobacteria
+/kb/module/work/tmp/output_1661758354030/kaiju_output/SRR8648015-1.kaiju	1.299400	12757	91061	Bacilli
+/kb/module/work/tmp/output_1661758354030/kaiju_output/SRR8648015-1.kaiju	1.115037	10947	28221	Deltaproteobacteria
+/kb/module/work/tmp/output_1661758354030/kaiju_output/SRR8648015-1.kaiju	0.132721	1303	10239	Viruses
+/kb/module/work/tmp/output_1661758354030/kaiju_output/SRR8648015-1.kaiju	11.278305	110726	NA	cannot be assigned to a (non-viral) class
+/kb/module/work/tmp/output_1661758354030/kaiju_output/SRR8648015-1.kaiju	2.836230	27845	NA	belong to a (non-viral) class with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661758354030/kaiju_output/SRR8648015-1.kaiju	13.747150	156475	NA	unclassified

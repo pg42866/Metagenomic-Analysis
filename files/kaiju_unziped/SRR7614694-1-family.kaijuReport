@@ -1,0 +1,11 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	51.718285	1089998	135621	Pseudomonadaceae
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	22.030085	464299	75682	Oxalobacteraceae
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	1.675249	35307	80864	Comamonadaceae
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	1.423157	29994	76892	Caulobacteraceae
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	0.688803	14517	119060	Burkholderiaceae
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	0.688234	14505	49546	Flavobacteriaceae
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	0.156057	3289	10239	Viruses
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	16.706982	352111	NA	cannot be assigned to a (non-viral) family
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	4.913151	103548	NA	belong to a (non-viral) family with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661760296615/kaiju_output/SRR7614694-1.kaiju	11.947365	285964	NA	unclassified

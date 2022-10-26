@@ -1,0 +1,20 @@
+file	percent	reads	taxon_id	taxon_name
+/kb/module/work/tmp/output_1661737674751/kaiju_output/SRR14576923-1.kaiju	3.531168	83341	665874	Limnohabitans
+/kb/module/work/tmp/output_1661737674751/kaiju_output/SRR14576923-1.kaiju	1.998683	47172	1866885	Mycolicibacterium
+/kb/module/work/tmp/output_1661737674751/kaiju_output/SRR14576923-1.kaiju	1.588879	37500	1679002	Candidatus Methylopumilus
+/kb/module/work/tmp/output_1661737674751/kaiju_output/SRR14576923-1.kaiju	1.554941	36699	44013	Polynucleobacter
+/kb/module/work/tmp/output_1661737674751/kaiju_output/SRR14576923-1.kaiju	1.385376	32697	622681	Candidatus Planktophila
+/kb/module/work/tmp/output_1661737674751/kaiju_output/SRR14576923-1.kaiju	1.049465	24769	1763	Mycobacterium
+/kb/module/work/tmp/output_1661737674751/kaiju_output/SRR14576923-1.kaiju	0.879943	20768	1125	Microcystis
+/kb/module/work/tmp/output_1661737674751/kaiju_output/SRR14576923-1.kaiju	0.809184	19098	2045213	Candidatus Fonsibacter
+/kb/module/work/tmp/output_1661737674751/kaiju_output/SRR14576923-1.kaiju	0.615384	14524	75	Caulobacter
+/kb/module/work/tmp/output_1661737674751/kaiju_output/SRR14576923-1.kaiju	0.604749	14273	53634	Acidimicrobium
+/kb/module/work/tmp/output_1661737674751/kaiju_output/SRR14576923-1.kaiju	0.585258	13813	13687	Sphingomonas
+/kb/module/work/tmp/output_1661737674751/kaiju_output/SRR14576923-1.kaiju	0.566446	13369	1573	Clavibacter
+/kb/module/work/tmp/output_1661737674751/kaiju_output/SRR14576923-1.kaiju	0.559624	13208	1129	Synechococcus
+/kb/module/work/tmp/output_1661737674751/kaiju_output/SRR14576923-1.kaiju	0.544329	12847	2039639	Candidatus Nanopelagicus
+/kb/module/work/tmp/output_1661737674751/kaiju_output/SRR14576923-1.kaiju	0.537041	12675	1175	Aphanizomenon
+/kb/module/work/tmp/output_1661737674751/kaiju_output/SRR14576923-1.kaiju	7.935457	187289	10239	Viruses
+/kb/module/work/tmp/output_1661737674751/kaiju_output/SRR14576923-1.kaiju	50.282692	1186749	NA	cannot be assigned to a (non-viral) genus
+/kb/module/work/tmp/output_1661737674751/kaiju_output/SRR14576923-1.kaiju	24.971379	589363	NA	belong to a (non-viral) genus with less than 0.5% of all reads
+/kb/module/work/tmp/output_1661737674751/kaiju_output/SRR14576923-1.kaiju	50.138444	2373260	NA	unclassified
